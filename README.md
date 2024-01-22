@@ -1,4 +1,5 @@
 # LLM4Cybersecurity
+
 An overview of LLMs for cybersecurity
 
 #### Threat Intelligence
@@ -10,7 +11,7 @@ An overview of LLMs for cybersecurity
    2024.01
 
    用llm从网络知识中生成威胁情报
-   
+
    https://arxiv.org/abs/2401.10036
 
 
@@ -298,7 +299,7 @@ An overview of LLMs for cybersecurity
    基于url的网站分类
 
    https://arxiv.org/abs/2305.05027
-   
+
 3. Devising and Detecting Phishing: Large Language Models vs. Smaller Human Models
 
    Fredrik Heiding, Bruce Schneier, Arun Vishwanath, Jeremy Bernstein, Peter S. Park
@@ -308,7 +309,7 @@ An overview of LLMs for cybersecurity
    对比人工生成的钓鱼邮件和llm生成的效果
 
    https://arxiv.org/abs/2308.12287
-   
+
 4. 
 
 #### Botnet
@@ -320,8 +321,8 @@ An overview of LLMs for cybersecurity
    2023.06
 
    分析了一个叫做fox8的Twitter bonet（用llm生成发布虚假消息）
-   
-   
+
+
    https://arxiv.org/abs/2307.16336
 
 #### Digital Forensic
@@ -398,27 +399,27 @@ An overview of LLMs for cybersecurity
 
    
 
-   #### llm Evaluation
+#### llm Evaluation
 
-   1. TrustLLM: Trustworthiness in Large Language Models
+1. TrustLLM: Trustworthiness in Large Language Models
 
-      Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
+   Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
 
-      2024.01
+   2024.01
 
-      评估llm生成的内容的可信性
+   评估llm生成的内容的可信性
 
-      https://arxiv.org/abs/2401.05561
+   https://arxiv.org/abs/2401.05561
 
-   2. Impact of Big Data Analytics and ChatGPT on Cybersecurity
+2. Impact of Big Data Analytics and ChatGPT on Cybersecurity
 
-      Pawankumar Sharma, Bibhu Dash
+   Pawankumar Sharma, Bibhu Dash
 
-      2023.03
+   2023.03
 
-      llm在安全领域可能有什么应用前景
+   llm在安全领域可能有什么应用前景
 
-      https://ieeexplore.ieee.org/abstract/document/10127411
+   https://ieeexplore.ieee.org/abstract/document/10127411
 
    
 
