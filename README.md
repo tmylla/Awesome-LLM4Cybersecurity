@@ -1,5 +1,5 @@
 # LLM4Cybersecurity
-An overview of LLMs for cybersecurity.
+An overview of LLMs for cybersecurity
 
 #### Threat Intelligence
 
@@ -15,7 +15,7 @@ An overview of LLMs for cybersecurity.
 
 
 
-#### Software/Code Testing
+#### Code Analysis & Vulnerability Discovery
 
 1. Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions
 
@@ -187,7 +187,97 @@ An overview of LLMs for cybersecurity.
 
     https://arxiv.org/abs/2302.01215
 
-#### Network 
+18. InferFix: End-to-End Program Repair with LLMs
+
+    Matthew Jin, Syed Shahriar, Michele Tufano, Xin Shi, Shuai Lu, Neel Sundaresan, Alexey Svyatkovskiy
+
+    2023.05
+
+    llm有监督微调，修复代码bug
+
+    https://arxiv.org/abs/2303.07263
+
+19. Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models
+
+    Yinlin Deng, Chunqiu Steven Xia, Haoran Peng, Chenyuan Yang, Lingming Zhang
+
+    2023.07
+
+    用llm检测深度学习库（pytorch，tensorflow）的安全漏洞
+
+    https://dl.acm.org/doi/abs/10.1145/3597926.3598067
+
+20. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations
+
+    Catherine Tony, Markus Mutas, Nicolás E. Díaz Ferreyra, Riccardo Scandariato
+
+    2023.05
+
+    llm生成代码的安全性
+
+    https://arxiv.org/abs/2303.09384
+
+21. Evaluation of ChatGPT Model for Vulnerability Detection
+
+    Anton Cheshkov, Pavel Zadorozhny, Rodion Levichev
+
+    2023.04
+
+    检测代码漏洞
+
+    https://arxiv.org/abs/2304.07232
+
+22. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT
+
+    Chenyuan Zhang, Hao Liu, Jiutian Zeng, Kejing Yang, Yuhong Li, Hui Li
+
+    2023.08
+
+    检测代码漏洞
+
+    https://arxiv.org/abs/2308.12697
+
+23. Detecting software vulnerabilities using Language Models
+
+    Marwan Omar
+
+    2023.02
+
+    检测代码漏洞
+
+    https://arxiv.org/abs/2302.11773
+
+24. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection
+
+    Noble Saji Mathews, Yelizaveta Brus, Yousra Aafer, Mei Nagappan, Shane McIntosh
+
+    2024.01
+
+    检测代码漏洞（Android）
+
+    https://arxiv.org/abs/2401.01269
+
+25. How Far Have We Gone in Vulnerability Detection Using Large Language Models
+
+    Zeyu Gao, Hao Wang, Yuchen Zhou, Wenyu Zhu, Chao Zhang
+
+    2023.11
+
+    检测代码漏洞
+
+    https://arxiv.org/abs/2311.12420
+
+26. Using ChatGPT as a Static Application Security Testing Tool
+
+    Atieh Bakhshandeh, Abdalsamad Keramatfar, Amir Norouzi, Mohammad Mahdi Chekidehkhoun
+
+    2023.08
+
+    检测代码漏洞（Python）
+
+    https://arxiv.org/abs/2308.14434
+
+#### Network Security
 
 1. netFound: Foundation Model for Network Security
 
@@ -258,7 +348,7 @@ An overview of LLMs for cybersecurity.
 
    https://arxiv.org/abs/2202.01142
 
-#### llm Backdoor
+#### llm Poisoning
 
 1. BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT
 
@@ -270,11 +360,65 @@ An overview of LLMs for cybersecurity.
 
    https://arxiv.org/abs/2304.12298
 
+2. Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training
+
+   Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert, Meg Tong, Monte MacDiarmid, Tamera Lanham, Daniel M. Ziegler, Tim Maxwell, Newton Cheng, Adam Jermyn, Amanda Askell, Ansh Radhakrishnan, Cem Anil, David Duvenaud, Deep Ganguli, Fazl Barez, Jack Clark, Kamal Ndousse, Kshitij Sachan, Michael Sellitto, Mrinank Sharma, Nova DasSarma, Roger Grosse, Shauna Kravec, Yuntao Bai, Zachary Witten, Marina Favaro, Jan Brauner, Holden Karnofsky, Paul Christiano, Samuel R. Bowman, Logan Graham, Jared Kaplan, Sören Mindermann, Ryan Greenblatt, Buck Shlegeris, Nicholas Schiefer, Ethan Perez
+
+   2024.01
+
+   给llm植入后门
+
+   https://arxiv.org/abs/2401.05566
+
+3. Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks
+
+   Shuai Zhao, Meihuizi Jia, Luu Anh Tuan, Jinming Wen
+
+   2024.01
+
+   针对In-context的llm，在上下文中投毒操控llm行为，不需要fine-tuning
+
+   https://arxiv.org/abs/2401.05949
+
 #### Information Retrival
 
 1. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion
 
    随着漏洞数量的增多，从NVD，CWE，CVE这些非结构化信息上对漏洞检索很困难，训练一个llm帮用户理解漏洞（没太看懂，什么是Vulnerability to Weakness）
 
-2. 
+2. Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions
+
+   Wesley Tann, Yuancheng Liu, Jun Heng Sim, Choon Meng Seah, Ee-Chien Chang
+
+   2023.08
+
+   用llm帮助打ctf
+
+   https://arxiv.org/abs/2308.10443
+
+   
+
+   #### llm Evaluation
+
+   1. TrustLLM: Trustworthiness in Large Language Models
+
+      Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
+
+      2024.01
+
+      评估llm生成的内容的可信性
+
+      https://arxiv.org/abs/2401.05561
+
+   2. Impact of Big Data Analytics and ChatGPT on Cybersecurity
+
+      Pawankumar Sharma, Bibhu Dash
+
+      2023.03
+
+      llm在安全领域可能有什么应用前景
+
+      https://ieeexplore.ieee.org/abstract/document/10127411
+
+   
 
