@@ -1,5 +1,4 @@
 # LLM4Cybersecurity
-
 An overview of LLMs for cybersecurity
 
 #### Threat Intelligence
@@ -11,9 +10,9 @@ An overview of LLMs for cybersecurity
    2024.01
 
    用llm从网络知识中生成威胁情报
-
+   
    https://arxiv.org/abs/2401.10036
-
+   
 2. LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing
 
    Stephen Moskal, Sam Laney, Erik Hemberg, Una-May O'Reilly
@@ -23,8 +22,26 @@ An overview of LLMs for cybersecurity
    llm辅助威胁建模情报分析
 
    https://arxiv.org/abs/2310.06936
+   
+3. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation
 
+   Filippo Perrina, Francesco Marchiori, Mauro Conti, Nino Vincenzo Verde
 
+   2023.10
+
+   用llm辅助撰写威胁情报的报告
+
+   https://arxiv.org/abs/2310.02655
+
+4. A review of attack graph and attack tree visual syntax in cyber security
+
+   Harjinder Singh Lallie, Kurt Debattista, Jay Bal
+
+   2019.03
+
+   用llm可视化网络攻击和威胁情报
+
+   https://www.sciencedirect.com/science/article/abs/pii/S1574013719300772
 
 #### Code Analysis & Vulnerability Discovery
 
@@ -287,7 +304,7 @@ An overview of LLMs for cybersecurity
     检测代码漏洞（Python）
 
     https://arxiv.org/abs/2308.14434
-
+    
 27. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism
 
     Jin Wang, Zishan Huang, Hengli Liu, Nianyi Yang, Yinhao Xiao
@@ -513,11 +530,193 @@ An overview of LLMs for cybersecurity
 
     llm用于分析代码漏洞
 
-    
+50. Large Language Models for Test-Free Fault Localization
 
-    
+    Aidan Z.H. Yang, Ruben Martins, Claire Le Goues, Vincent J. Hellendoorn
 
-    
+    2023.10
+
+    定位代码出bug的地方
+
+    https://arxiv.org/abs/2310.01726
+
+51. How well does LLM generate security tests?
+
+    Ying Zhang, Wenjia Song, Zhengjie Ji, Danfeng (Daphne)Yao, Na Meng
+
+    2023.10
+
+    使用llm生成能触发漏洞的测试用例
+
+    https://arxiv.org/abs/2310.00710
+
+52. Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding
+
+    André Storhaug, Jingyue Li. Tianyuan Hu
+
+    2023.10
+
+    减少llm生成代码的漏洞
+
+    https://ieeexplore.ieee.org/abstract/document/10301240
+
+53. Using ChatGPT as a Static Application Security Testing Tool
+    Atieh Bakhshandeh, Abdalsamad Keramatfar, Amir Norouzi, Mohammad Mahdi Chekidehkhoun
+
+    2023.08
+
+    使用gpt在python代码中挖漏洞
+
+    https://arxiv.org/abs/2308.14434
+
+54. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures
+    Tanmay Singla, Dharun Anandayuvaraj, Kelechi G. Kalu, Taylor R. Schorlemmer, James C. Davis
+
+    2023.11
+
+    分析软件供应链安全
+
+    https://dl.acm.org/doi/abs/10.1145/3605770.3625214
+
+55. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis
+    Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
+
+    2023.08
+
+    分析代码漏洞
+
+    https://arxiv.org/abs/2308.03314
+
+56. Examining Zero-Shot Vulnerability Repair with Large Language Models
+
+    Hammond Pearce, Benjamin Tan, Baleegh Ahmad, Ramesh Karri, Brendan Dolan-Gavitt
+
+    2023.05
+
+    用llm修复代码中的漏洞
+
+    https://ieeexplore.ieee.org/abstract/document/10179324
+
+57. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT
+
+    Yinlin Deng, Chunqiu Steven Xia, Chenyuan Yang, Shizhuo Dylan Zhang, Shujing Yang, Lingming Zhang
+
+    2023.04
+
+    fuzz深度学习库
+
+    https://arxiv.org/abs/2304.02014
+
+58. Understanding Programs by Exploiting (Fuzzing) Test Cases
+    Jianyu Zhao, Yuyang Rong, Yiwen Guo, Yifeng He, Hao Chen
+
+    2023.05
+
+    程序的语义理解
+
+    https://arxiv.org/abs/2305.13592
+
+59. How Effective Are Neural Networks for Fixing Security Vulnerabilities
+    Yi Wu, Nan Jiang, Hung Viet Pham, Thibaud Lutellier, Jordan Davis, Lin Tan, Petr Babkin, Sameena Shah
+
+    2023.05
+
+    llm用于修复漏洞
+
+    https://arxiv.org/abs/2305.18607
+
+60. Augmenting Greybox Fuzzing with Generative AI
+
+    Jie Hu, Qian Zhang , Heng Yin
+
+    2023.06
+
+    llm用于生成fuzz的测试用例
+
+    https://arxiv.org/abs/2306.06782
+
+61. FLAG: Finding Line Anomalies (in code) with Generative AI
+    Baleegh Ahmad, Benjamin Tan, Ramesh Karri, Hammond Pearce
+
+    2023.06
+
+    llm用于分析代码中的异常
+
+    https://arxiv.org/abs/2306.12643
+
+62. SecureFalcon: The Next Cyber Reasoning System for Cyber Security
+    Mohamed Amine Ferrag, Ammar Battah, Norbert Tihanyi, Merouane Debbah, Thierry Lestable, Lucas C. Cordeiro
+
+    2023.07
+
+    分析C代码的漏洞
+
+    https://arxiv.org/abs/2307.06616
+
+63. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model
+    Tianyu Chen, Lin Li, Liuchuan Zhu, Zongyang Li, Guangtai Liang, Ding Li, Qianxiang Wang, Tao Xie
+
+    2023.08
+
+    识别恶意的地三方库
+
+    https://arxiv.org/abs/2308.04662
+
+64. No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT
+    Zhijie Liu, Yutian Tang, Xiapu Luo, Yuming Zhou, Liang Feng Zhang
+
+    2023.08
+
+    评估llm生成的代码的质量/安全性
+
+    https://arxiv.org/abs/2308.04838
+
+65. PentestGPT: An LLM-empowered Automatic Penetration Testing Tool
+    Gelei Deng, Yi Liu, Víctor Mayoral-Vilches, Peng Liu, Yuekang Li, Yuan Xu, Tianwei Zhang, Yang Liu, Martin Pinzger, Stefan Rass
+
+    2023.08
+
+    用llm辅助渗透测试
+
+    https://arxiv.org/abs/2308.06782
+
+66. Fuzz4All: Universal Fuzzing with Large Language Models
+    Chunqiu Steven Xia, Matteo Paltenghi, Jia Le Tian, Michael Pradel, Lingming Zhang
+
+    2023.08
+
+    用llm生成fuzz的测试用例
+
+    https://arxiv.org/abs/2308.04748
+
+67. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection
+
+    Yizheng Chen, Zhoujie Ding, Lamya Alowain, Xinyun Chen, David Wagner
+
+    2023.10
+
+    制作了一个代码漏洞的数据集
+
+    https://dl.acm.org/doi/abs/10.1145/3607199.3607242
+
+68. Getting pwn’d by AI: Penetration Testing with Large Language Models
+
+    Andreas Happe, Jürgen Cito
+
+    2023.11
+
+    用llm辅助渗透测试
+
+    https://dl.acm.org/doi/abs/10.1145/3611643.3613083
+
+69. Symmetry-Preserving Program Representations for Learning Code Semantics
+    Kexin Pei, Weichen Li, Qirui Jin, Shuyang Liu, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana
+
+    2023.08
+
+    程序语义推理
+
+    https://arxiv.org/abs/2308.03312
 
 #### Network Security
 
@@ -540,7 +739,7 @@ An overview of LLMs for cybersecurity
    基于url的网站分类
 
    https://arxiv.org/abs/2305.05027
-
+   
 3. Devising and Detecting Phishing: Large Language Models vs. Smaller Human Models
 
    Fredrik Heiding, Bruce Schneier, Arun Vishwanath, Jeremy Bernstein, Peter S. Park
@@ -550,7 +749,7 @@ An overview of LLMs for cybersecurity
    对比人工生成的钓鱼邮件和llm生成的效果
 
    https://arxiv.org/abs/2308.12287
-
+   
 4. An Improved Transformer-based Model for Detecting Phishing, Spam, and Ham: A Large Language Model Approach
 
    Suhaima Jamal, Hayden Wimmer
@@ -569,9 +768,36 @@ An overview of LLMs for cybersecurity
 
    https://anrg.usc.edu/www/papers/LLM_Cybersecurity_SmartSP.pdf
 
-6. 
+6. Explaining Tree Model Decisions in Natural Language for Network Intrusion Detection
 
+   Noah Ziems, Gang Liu, John Flanagan, Meng Jiang
    
+   2023.10
+   
+   llm辅助基于决策树的IDS
+   
+   https://arxiv.org/abs/2310.19658
+   
+7. Exploring the Dark Side of AI: Advanced Phishing Attack Design and Deployment Using ChatGPT
+
+   Nils Begou, Jérémy Vinoy, Andrzej Duda, Maciej Korczyński
+
+   2023.10
+
+   用llm自动化生成钓鱼攻击网站
+
+   https://ieeexplore.ieee.org/abstract/document/10288940
+
+8. Revolutionizing Cyber Threat Detection with Large Language Models
+   Mohamed Amine Ferrag, Mthandazo Ndhlovu, Norbert Tihanyi, Lucas C. Cordeiro, Merouane Debbah, Thierry Lestable
+
+   2023.06
+
+   识别流量中的安全威胁
+
+   https://arxiv.org/abs/2306.14263
+
+9. 
 
 #### Botnet
 
@@ -582,9 +808,21 @@ An overview of LLMs for cybersecurity
    2023.06
 
    分析了一个叫做fox8的Twitter bonet（用llm生成发布虚假消息）
-
-
+   
    https://arxiv.org/abs/2307.16336
+
+#### Honey Pots
+
+1. An Empirical Study of NetOps Capability of Pre-Trained Large Language Models
+   Yukai Miao, Yu Bai, Li Chen, Dan Li, Haifeng Sun, Xizheng Wang, Ziqiu Luo, Yanyu Ren, Dapeng Sun, Xiuting Xu, Qi Zhang, Chao Xiang, Xinchi Li
+
+   2023.09
+
+   用llm生成更加逼真的蜜罐
+
+   https://arxiv.org/abs/2309.05557
+
+
 
 #### Digital Forensic
 
@@ -597,6 +835,16 @@ An overview of LLMs for cybersecurity
    llm在数字取证的应用
 
    https://www.sciencedirect.com/science/article/pii/S266628172300121X
+   
+2. A Comprehensive Analysis of the Role of Artificial Intelligence and Machine Learning in Modern Digital Forensics and Incident Response
+
+   Dipo Dunsin, Mohamed C. Ghanem, Karim Ouazzane, Vassil Vassilev
+
+   2023.09
+
+   讨论llm在数字取证的应用
+
+   https://arxiv.org/abs/2309.07064
 
 #### RE
 
@@ -609,22 +857,63 @@ An overview of LLMs for cybersecurity
    llm辅助逆向
 
    https://arxiv.org/abs/2202.01142
-
+   
 2. Nova+: Generative Language Models for Binaries
 
    Nan Jiang, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
-
+   
    2023.11
-
-   二进制代码相似性检测(BCSD)、二进制代码翻译(BCT)和二进制代码恢复(BCR)
-
+   
+   二进制代码相似性检测、二进制代码翻译、二进制代码恢复
+   
    https://arxiv.org/abs/2311.13721
-
+   
    
 
-   
+#### Anomaly Detection
 
-#### llm Poisoning/Backdoor （Attack)
+1. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)
+
+   Tarek Ali, Panos Kostakos
+
+   2023.09
+
+   llm结合异常检测，增强可解释性
+
+   https://arxiv.org/abs/2309.16021
+
+2. Log-based Anomaly Detection based on EVT Theory with feedback
+   Jinyang Liu, Junjie Huang, Yintong Huo, Zhihan Jiang, Jiazhen Gu, Zhuangbin Chen, Cong Feng, Minzhi Yan, Michael R. Lyu
+
+   2023.06
+
+   基于日志的异常检测
+
+   https://arxiv.org/abs/2306.05032
+
+3. LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection
+
+   Jiaxing Qi, Shaohan Huang, Zhongzhi Luan, Carol Fung, Hailong Yang, Depei Qian
+
+   2023.09
+
+   基于日志的异常检测
+
+   https://arxiv.org/abs/2309.01189
+
+4. LogGPT: Log Anomaly Detection via GPT
+
+   Xiao Han, Shuhan Yuan, Mohamed Trabelsi
+
+   2023.09
+
+   基于日志的异常检测
+
+   https://arxiv.org/abs/2309.14482
+
+5. 
+
+#### llm Attack （poisoning/backdoor...)
 
 1. BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT
 
@@ -655,7 +944,7 @@ An overview of LLMs for cybersecurity
    针对In-context的llm，在上下文中投毒操控llm行为，不需要fine-tuning
 
    https://arxiv.org/abs/2401.05949
-
+   
 4. Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks
 
    Shuyu Jiang, Xingshu Chen, Rui Tang
@@ -724,7 +1013,164 @@ An overview of LLMs for cybersecurity
 
     https://arxiv.org/abs/2309.01446
 
-    
+11. Unveiling Safety Vulnerabilities of Large Language Models
+
+    George Kour, Marcel Zalmanovici, Naama Zwerdling, Esther Goldbraich, Ora Nova Fandina, Ateret Anaby-Tavor, Orna Raz, Eitan Farchi
+
+    2023.11
+
+    提出了一个对抗样本数据集，用来让llm产生恶意输出
+
+    https://arxiv.org/abs/2311.04124
+
+12. Prompt Injection Attacks and Defenses in LLM-Integrated Applications
+
+    Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia, Neil Zhenqiang Gong
+
+    2023.10
+
+    提出了一个Prompt Injection的框架，和缓解这种攻击的方法
+
+    https://arxiv.org/abs/2310.12815
+
+13. Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models
+
+    Xianjun Yang, Xiao Wang, Qi Zhang, Linda Petzold, William Yang Wang, Xun Zhao, Dahua Lin
+
+    2023.10
+
+    提出了一种叫Shadow Alignment的攻击方法，让llm生成恶意内容
+
+14. GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts
+
+    Jiahao Yu, Xingwei Lin, Zheng Yu, Xinyu Xing
+
+    2023.09
+
+    生成用来越狱的提示模板
+
+    https://arxiv.org/abs/2309.10253
+
+15. Open Sesame! Universal Black Box Jailbreaking of Large Language Models
+
+    Raz Lapid, Ron Langberg, Moshe Sipper
+
+    2023.09
+
+    用遗传算法生成越狱用的提示词
+
+    https://arxiv.org/abs/2309.01446
+
+16. FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models
+    Dongyu Yao, Jianshu Zhang, Ian G. Harris, Marcel Carlsson
+
+    2023.09
+
+    通过fuzz找到能让llm越狱的提示词
+
+    https://arxiv.org/abs/2309.05274
+
+17. Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models
+
+    Zhenhua Wang, Wei Xie, Kai Chen, Baosheng Wang, Zhiwen Gui, Enze Wang
+
+    2023.08
+
+    让llm自我欺骗，能够生成能够越狱的提示词
+
+    https://arxiv.org/abs/2308.11521
+
+18. Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models
+
+    Huachuan Qiu, Shuai Zhang, Anqi Li, Hongliang He, Zhenzhong Lan
+
+    2023.07
+
+    构建了一个llm越狱提示词数据集，分析了什么样的提示词对越狱有帮助
+
+    https://arxiv.org/abs/2307.08487
+
+19. MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots
+    Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, Zefeng Li, Haoyu Wang, Tianwei Zhang, Yang Liu
+
+    2023.07
+
+    一种自动生成越狱提示符的方法
+
+    https://arxiv.org/abs/2307.08715
+
+20. A LLM Assisted Exploitation of AI-Guardian
+    Nicholas Carlini
+
+    2023.07
+
+    对AI-Guardian的攻击（一个发在S&P上的论文，用来保护llm）
+
+    https://arxiv.org/abs/2307.15008
+
+21. From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application?
+    Rodrigo Pedro, Daniel Castro, Paulo Carreira, Nuno Santos
+
+    2023.08
+
+    有些web集成了llm，把用户输入转换成sql查询，利用其进行sql注入
+
+    https://arxiv.org/abs/2308.01990
+
+22. RatGPT: Turning online LLMs into Proxies for Malware Attacks
+
+    Mika Beckerich, Laura Plein, Sergio Coronado
+
+    2023.08
+
+    利用gpt作为代理控制用户主机执行恶意代码，逃脱常见的查杀
+
+    https://arxiv.org/abs/2308.09183
+
+23. Universal and Transferable Adversarial Attacks on Aligned Language Models
+    Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, Matt Fredrikson
+
+    2023.07
+
+    基于梯度的越狱提示词生成
+
+    https://arxiv.org/abs/2307.15043
+
+24. Multi-step Jailbreaking Privacy Attacks on ChatGPT
+    Haoran Li, Dadi Guo, Wei Fan, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
+
+    2023.04
+
+    一种gpt越狱泄露隐私的方法
+
+    https://arxiv.org/abs/2304.05197
+
+25. Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection
+    Jun Yan, Vikas Yadav, Shiyang Li, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin
+
+    2023.07
+
+    类似在llm中留后门的方法
+
+    https://arxiv.org/abs/2307.16888
+
+26. FLIRT: Feedback Loop In-context Red Teaming
+    Ninareh Mehrabi, Palash Goyal, Christophe Dupuy, Qian Hu, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta
+
+    2023.08
+
+    通过给定提示词，让llm越狱
+
+    https://arxiv.org/abs/2308.04265
+
+27. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models
+    Xinyue Shen, Zeyuan Chen, Michael Backes, Yun Shen, Yang Zhang
+
+    2023.08
+
+    评估了llm越狱的可行性
+
+    https://arxiv.org/abs/2308.03825
 
 #### Information Retrival
 
@@ -771,6 +1217,24 @@ An overview of LLMs for cybersecurity
    llm在网络安全领域知识问答上性能的局限性
 
    https://arxiv.org/abs/2312.07110
+   
+6. In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems
+   Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger
+
+   2023.06
+
+   一个信息收集平台，用来收集和网安相关的知识，作为llm的数据集
+
+   https://arxiv.org/abs/2306.08853
+
+7. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions
+   Reza Fayyazi, Shanchieh Jay Yang
+
+   2023.06
+
+   用llm微调，能够描述网络攻击
+
+   https://arxiv.org/abs/2306.14062
 
 
 
@@ -778,91 +1242,91 @@ An overview of LLMs for cybersecurity
 
 1. TrustLLM: Trustworthiness in Large Language Models
 
-   Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
+      Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
 
-   2024.01
+      2024.01
 
-   评估llm生成的内容的可信性
+      评估llm生成的内容的可信性
 
-   https://arxiv.org/abs/2401.05561
+      https://arxiv.org/abs/2401.05561
 
 2. Impact of Big Data Analytics and ChatGPT on Cybersecurity
 
-   Pawankumar Sharma, Bibhu Dash
+      Pawankumar Sharma, Bibhu Dash
 
-   2023.03
+      2023.03
 
-   llm在安全领域可能有什么应用前景
+      llm在安全领域可能有什么应用前景
 
-   https://ieeexplore.ieee.org/abstract/document/10127411
-
+      https://ieeexplore.ieee.org/abstract/document/10127411
+      
 3. CAN LANGUAGE MODELS BE INSTRUCTED TO PROTECT PERSONAL INFORMATION?
 
-   Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter
+      Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter
 
-   2023.10
+      2023.10
 
-   采取了一些措施减少llm泄露训练时用到的个人隐私数据
+      采取了一些措施减少llm泄露训练时用到的个人隐私数据
 
-   https://arxiv.org/abs/2310.02224
+      https://arxiv.org/abs/2310.02224
 
 4. Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework
 
-   Imdad Ullah, Najm Hassan, Sukhpal Singh Gill, Basem Suleiman, Tariq Ahamed Ahanger, Zawar Shah, Junaid Qadir, Salil S. Kanhere
+      Imdad Ullah, Najm Hassan, Sukhpal Singh Gill, Basem Suleiman, Tariq Ahamed Ahanger, Zawar Shah, Junaid Qadir, Salil S. Kanhere
 
-   2023.10
+      2023.10
 
-   保护训练时用到的隐私数据
+      保护训练时用到的隐私数据
 
-   https://arxiv.org/abs/2310.12523
+      https://arxiv.org/abs/2310.12523
 
 5. Identifying and Mitigating Vulnerabilities in LLM-Integrated Applications
 
-   Fengqing Jiang, Zhangchen Xu, Luyao Niu, Boxin Wang, Jinyuan Jia, Bo Li, Radha Poovendran
+      Fengqing Jiang, Zhangchen Xu, Luyao Niu, Boxin Wang, Jinyuan Jia, Bo Li, Radha Poovendran
 
-   2023.11
+      2023.11
 
-   设计了一个框架用来保护集成了llm的程序不会被诱导产生有害信息
+      设计了一个框架用来保护集成了llm的程序不会被诱导产生有害信息
 
 6. The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance
 
-   Abel Salinas, Fred Morstatter
+      Abel Salinas, Fred Morstatter
 
-   2024.01
+      2024.01
 
-   分析添加小的输入扰动之后对模型结果的影响
+      分析添加小的输入扰动之后对模型结果的影响
 
-   https://arxiv.org/abs/2401.03729
+      https://arxiv.org/abs/2401.03729
 
 7. Malla: Demystifying Real-world Large Language Model Integrated Malicious Services
 
-   Zilong Lin, Jian Cui, Xiaojing Liao, XiaoFeng Wang
+      Zilong Lin, Jian Cui, Xiaojing Liao, XiaoFeng Wang
 
-   2024.01
+      2024.01
 
-   评估当前滥用llm的行为（提供有害信息、未经审查的滥用）
+      评估当前滥用llm的行为（提供有害信息、未经审查的滥用）
 
-   https://arxiv.org/abs/2401.03315
+      https://arxiv.org/abs/2401.03315
 
 8. Identifying and Mitigating the Security Risks of Generative AI
 
-   Clark Barrett, Brad Boyd, Elie Burzstein, Nicholas Carlini, Brad Chen, Jihye Choi, Amrita Roy Chowdhury, Mihai Christodorescu, Anupam Datta, Soheil Feizi, Kathleen Fisher, Tatsunori Hashimoto, Dan Hendrycks, Somesh Jha, Daniel Kang, Florian Kerschbaum, Eric Mitchell, John Mitchell, Zulfikar Ramzan, Khawaja Shams, Dawn Song, Ankur Taly, Diyi Yang
+      Clark Barrett, Brad Boyd, Elie Burzstein, Nicholas Carlini, Brad Chen, Jihye Choi, Amrita Roy Chowdhury, Mihai Christodorescu, Anupam Datta, Soheil Feizi, Kathleen Fisher, Tatsunori Hashimoto, Dan Hendrycks, Somesh Jha, Daniel Kang, Florian Kerschbaum, Eric Mitchell, John Mitchell, Zulfikar Ramzan, Khawaja Shams, Dawn Song, Ankur Taly, Diyi Yang
 
-   2023.12
+      2023.12
 
-   用llm发现新的攻击手段
+      用llm发现新的攻击手段
 
-   https://arxiv.org/abs/2308.14840
+      https://arxiv.org/abs/2308.14840
 
 9. Jatmo: Prompt Injection Defense by Task-Specific Finetuning
 
-   Julien Piet, Maha Alrashed, Chawin Sitawarin, Sizhe Chen, Zeming Wei, Elizabeth Sun, Basel Alomair, David Wagner
+      Julien Piet, Maha Alrashed, Chawin Sitawarin, Sizhe Chen, Zeming Wei, Elizabeth Sun, Basel Alomair, David Wagner
 
-   2023.12
+      2023.12
 
-   通过微调来抵御prompt-injection攻击
+      通过微调来抵御prompt-injection攻击
 
-   https://arxiv.org/abs/2312.17673
+      https://arxiv.org/abs/2312.17673
 
 10. Breaking the Silence: the Threats of Using LLMs in Software Engineering
 
@@ -886,15 +1350,42 @@ An overview of LLMs for cybersecurity
 
 12. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation
 
-    Xiaowei Huang, Wenjie Ruan, Wei Huang, Gaojie Jin, Yi Dong, Changshun Wu, Saddek Bensalem, Ronghui Mu, Yi Qi, Xingyu Zhao, Kaiwen Cai, Yanghao Zhang, Sihao Wu, Peipei Xu, Dengyu Wu, Andre Freitas, Mustafa A. Mustafa
+       Xiaowei Huang, Wenjie Ruan, Wei Huang, Gaojie Jin, Yi Dong, Changshun Wu, Saddek Bensalem, Ronghui Mu, Yi Qi, Xingyu Zhao, Kaiwen Cai, Yanghao Zhang, Sihao Wu, Peipei Xu, Dengyu Wu, Andre Freitas, Mustafa A. Mustafa
 
-    2023.05
+       2023.05
 
-    llm的安全性/可靠性分析，综述
+       llm的安全性/可靠性分析，综述
 
-    
+13. Baseline Defenses for Adversarial Attacks Against Aligned Language Models
+       Neel Jain, Avi Schwarzschild, Yuxin Wen, Gowthami Somepalli, John Kirchenbauer, Ping-yeh Chiang, Micah Goldblum, Aniruddha Saha, Jonas Geiping, Tom Goldstein
+
+       2023.09
+
+       评估已有的llm抵御攻击的方法
+
+       https://arxiv.org/abs/2309.00614
+
+14. From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads
+       P.V. Sai Charan, Hrushikesh Chunduri, P. Mohan Anand, Sandeep K Shukla
+
+       2023.05
+
+       llm用于制造恶意攻击的可行性
+
+       https://arxiv.org/abs/2305.15336
+
+15. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment
+       Rishabh Bhardwaj, Soujanya Poria
+
+       2023.08
+
+       提出一种llm安全评估标准
+
+       https://arxiv.org/abs/2308.09662
 
        
+
+16.    
 
 #### ？
 
@@ -928,3 +1419,71 @@ An overview of LLMs for cybersecurity
 
    https://arxiv.org/abs/2312.02003
 
+4. OWL: A Large Language Model for IT Operations
+
+   Hongcheng Guo, Jian Yang, Jiaheng Liu, Liqun Yang, Linzheng Chai, Jiaqi Bai, Junran Peng, Xiaorong Hu, Chao Chen, Dongfeng Zhang, Xu Shi, Tieqiao Zheng, Liangfan Zheng, Bo Zhang, Ke Xu, Zhoujun Li
+
+   2023.09
+
+   IT运营？
+
+   https://arxiv.org/abs/2309.09298
+
+5. AN EMPIRICAL STUDY OF NETOPS CAPABILITY OF PRE-TRAINED LARGE LANGUAGE MODELS
+
+   Yukai Miao, Yu Bai, Li Chen, Dan Li, Haifeng Sun, Xizheng Wang, Ziqiu Luo, Yanyu Ren, Dapeng Sun, Xiuting Xu, Qi Zhang, Chao Xiang, Xinchi Li
+
+   2023.09
+
+   llm微调，应用于网络运维？
+
+   https://arxiv.org/abs/2309.05557
+
+6. Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments
+   Maria Rigaki, Ondřej Lukáš, Carlos A. Catania, Sebastian Garcia
+
+   2023.08
+
+   没看懂，不太了解llm agent
+
+   https://arxiv.org/abs/2308.12086
+
+7. ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation
+
+   Xueying Du, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou
+
+   2023.08
+
+   评估llm生成的代码
+
+   https://arxiv.org/abs/2308.01861
+
+8. A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages
+   Alessio Buscemi
+
+   2023.08
+
+   评估llm使用10种编程语言生成代码的质量
+
+   https://arxiv.org/abs/2308.04477
+
+9. Evaluating and Explaining Large Language Models for Code Using Syntactic Structures
+
+   David N Palacio, Alejandro Velasco, Daniel Rodriguez-Cardenas, Kevin Moran, Denys Poshyvanyk
+
+   2023.08
+
+   让llm对其生成的代码进行可解释性分析
+
+   https://arxiv.org/abs/2308.03873
+
+10. Enhancing Network Management Using Code Generated by Large Language Models
+
+    Sathiya Kumaran Mani, Yajie Zhou, Kevin Hsieh, Santiago Segarra, Trevor Eberl, Eliran Azulai, Ido Frizler, 
+    Ranveer Chandra, Srikanth Kandula
+
+    2023.11
+
+    基于自然语言的网络管理
+
+    https://dl.acm.org/doi/abs/10.1145/3626111.3628183
