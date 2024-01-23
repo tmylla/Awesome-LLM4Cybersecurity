@@ -496,6 +496,23 @@ An overview of LLMs for cybersecurity
 
     https://arxiv.org/abs/2312.08317
 
+48. Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair
+    Yuxiang Wei, Chunqiu Steven Xia, Lingming Zhang
+
+    2023.11
+
+    代码修复
+
+    https://dl.acm.org/doi/abs/10.1145/3611643.3616271
+
+49. How ChatGPT is Solving Vulnerability Management Problem
+
+    Peiyu Liu, Junming Liu, Lirong Fu, Kangjie Lu, Yifan Xia, Xuhong Zhang, Wenzhi Chen, Haiqin Weng, Shouling Ji, Wenhai Wang
+
+    2023.11
+
+    llm用于分析代码漏洞
+
     
 
     
@@ -697,7 +714,17 @@ An overview of LLMs for cybersecurity
 
    https://arxiv.org/abs/2310.15140
 
-   
+10. Open Sesame! Universal Black Box Jailbreaking of Large Language Models
+
+    Raz Lapid, Ron Langberg, Moshe Sipper
+
+    2023.09
+
+    模型的黑盒攻击
+
+    https://arxiv.org/abs/2309.01446
+
+    
 
 #### Information Retrival
 
@@ -857,6 +884,16 @@ An overview of LLMs for cybersecurity
 
        https://arxiv.org/abs/2312.06674
 
+12. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation
+
+    Xiaowei Huang, Wenjie Ruan, Wei Huang, Gaojie Jin, Yi Dong, Changshun Wu, Saddek Bensalem, Ronghui Mu, Yi Qi, Xingyu Zhao, Kaiwen Cai, Yanghao Zhang, Sihao Wu, Peipei Xu, Dengyu Wu, Andre Freitas, Mustafa A. Mustafa
+
+    2023.05
+
+    llm的安全性/可靠性分析，综述
+
+    
+
        
 
 #### ？
@@ -867,7 +904,7 @@ An overview of LLMs for cybersecurity
 
    2024.01
 
-   针对奖励模型（proxies for human preferences）存在的问题（数据集有偏性、难以推广到数据及分布之外），引入了voting mechanism of multiple reward models和对比学习。
+   针对奖励模型（proxies for human preferences）存在的问题（数据集有偏性、难以推广到数据集分布之外），引入了voting mechanism of multiple reward models和对比学习。
 
    https://arxiv.org/abs/2401.06080
 
