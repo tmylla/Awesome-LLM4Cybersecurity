@@ -10,7 +10,7 @@
 
 #### Threat Intelligence
 
-1. **LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge** *Mitra, Shaswata, Subash Neupane, Trisha Chakraborty, Sudip Mittal, Aritran Piplai, Manas Gaur, and Shahram Rahimi* [[<u>paper</u>]](https://arxiv.org/abs/2401.10036) 2024.01
+1. **LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge** *Shaswata Mitra, Subash Neupane, Trisha Chakraborty, Sudip Mittal, Aritran Piplai, Manas Gaur, and Shahram Rahimi* [[<u>paper</u>]](https://arxiv.org/abs/2401.10036) 2024.01
 	> *tl;dr* 用llm从网络知识中生成威胁情报
 
 2. **LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing** *Stephen Moskal, Sam Laney, Erik Hemberg, Una-May O'Reilly* [[<u>paper</u>]](https://arxiv.org/abs/2310.06936) 2023.10
