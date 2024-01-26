@@ -13,8 +13,7 @@
 1. **LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge** *Shaswata Mitra, Subash Neupane, Trisha Chakraborty, Sudip Mittal, Aritran Piplai, Manas Gaur, and Shahram Rahimi* [[<u>paper</u>]](https://arxiv.org/abs/2401.10036) 2024.01
 	> *tl;dr* 用llm从网络知识中生成威胁情报
 
-2. **LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing** *Stephen Moskal, Sam Laney, Erik Hemberg, Una-May O'Reilly* [[<u>paper</u>]](https://arxiv.org/abs/2310.06936) 2023.10
-	> *tl;dr* llm辅助威胁建模情报分析
+
 
 3. **AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation** *Filippo Perrina, Francesco Marchiori, Mauro Conti, Nino Vincenzo Verde* [[<u>paper</u>]](https://arxiv.org/abs/2310.02655) 2023.10
 	> *tl;dr* 用llm辅助撰写威胁情报的报告
@@ -630,3 +629,6 @@
 
 2. **Beyond Code Assistance with GPT-4: Leveraging GitHub Copilot and ChatGPT for Peer Review in VSE Engineering** *Roar Elias Georgsen* [[<u>paper</u>]](https://www.ntnu.no/ojs/index.php/nikt/article/view/5674) 2023.11
 	> *tl;dr* LLM在VSE工程中进行同行评审
+
+2. **LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing** *Stephen Moskal, Sam Laney, Erik Hemberg, Una-May O'Reilly* [[<u>paper</u>]](https://arxiv.org/abs/2310.06936) 2023.10
+	> *tl;dr* llm辅助威胁建模情报分析
