@@ -498,7 +498,7 @@
 	> *tl;dr* 评估了llm越狱的可行性
 
 
-#### Information Retriva
+#### Information Retrieval
 
 1. **HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion** *随着漏洞数量的增多，从NVD，CWE，CVE这些非结构化信息上对漏洞检索很困难，训练一个llm帮用户理解漏洞（没太看懂，什么是Vulnerability to Weakness）)
 
