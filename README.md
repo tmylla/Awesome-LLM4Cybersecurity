@@ -301,7 +301,7 @@
 
 
 2. **Web Content Filtering through knowledge distillation of Large Language Models** *Tamás Vörös, Sean Paul Bergeron, Konstantin Berlin* [[<u>paper</u>]](https://arxiv.org/abs/2305.05027) 2023.05
-	> *tl;dr* 基于url的网站分类
+	> *tl;dr* 用llm对网站内容过滤
 
    
 3. **Devising and Detecting Phishing: Large Language Models vs. Smaller Human Models** *Fredrik Heiding, Bruce Schneier, Arun Vishwanath, Jeremy Bernstein, Peter S. Park* [[<u>paper</u>]](https://arxiv.org/abs/2308.12287) 2023.08
