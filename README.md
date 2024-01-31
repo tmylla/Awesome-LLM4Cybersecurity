@@ -373,7 +373,7 @@
 #### Anomaly Detection
 
 1. **HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)** *Tarek Ali, Panos Kostakos* [[<u>paper</u>]](https://arxiv.org/abs/2309.16021) 2023.09
-	> *tl;dr* llm结合异常检测，增强可解释性
+	> *tl;dr* 检测网络流量异常，llm结合异常检测，增强可解释性
 
 
 2. **Log-based Anomaly Detection based on EVT Theory with feedback** *Jinyang Liu, Junjie Huang, Yintong Huo, Zhihan Jiang, Jiazhen Gu, Zhuangbin Chen, Cong Feng, Minzhi Yan, Michael R. Lyu* [[<u>paper</u>]](https://arxiv.org/abs/2306.05032) 2023.06
