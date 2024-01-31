@@ -328,9 +328,8 @@
 1. **Revolutionizing Cyber Threat Detection with Large Language Models** *Mohamed Amine Ferrag, Mthandazo Ndhlovu, Norbert Tihanyi, Lucas C. Cordeiro, Merouane Debbah, Thierry Lestable* [[<u>paper</u>]](https://arxiv.org/abs/2306.14263) 2023.06
 	> *tl;dr* 识别流量中的安全威胁
 
-
-
-
+5. **An LLM-based Framework for Fingerprinting Internet-connected Devices** *Armin Sarabi, Tongxin Yin, Mingyan Liu* [[<u>paper</u>]]([url](https://dl.acm.org/doi/10.1145/3618257.3624845) 2023.10
+	> *tl;dr* 互联网连接设备指纹识别
 
 
 #### Botnet
@@ -388,8 +387,7 @@
 	> *tl;dr* 基于日志的异常检测
 
 	
-5. **An LLM-based Framework for Fingerprinting Internet-connected Devices** *Armin Sarabi, Tongxin Yin, Mingyan Liu* [[<u>paper</u>]]([url](https://dl.acm.org/doi/10.1145/3618257.3624845) 2023.10
-	> *tl;dr* 互联网连接设备指纹识别
+
 
 #### llm Attack （poisoning/backdoor...）
 
