@@ -625,7 +625,6 @@
 	> *tl;dr* LLM在VSE工程中进行同行评审
 
 2. **LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing** *Stephen Moskal, Sam Laney, Erik Hemberg, Una-May O'Reilly* [[<u>paper</u>]](https://arxiv.org/abs/2310.06936) 2023.10
-	> *tl;dr* llm辅助威胁建模情报分析
 
 1. **An Empirical Study of NetOps Capability of Pre-Trained Large Language Models** *Yukai Miao, Yu Bai, Li Chen, Dan Li, Haifeng Sun, Xizheng Wang, Ziqiu Luo, Yanyu Ren, Dapeng Sun, Xiuting Xu, Qi Zhang, Chao Xiang, Xinchi Li* [[<u>paper</u>]](https://arxiv.org/abs/2309.05557) 2023.09
 	
