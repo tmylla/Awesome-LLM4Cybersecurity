@@ -162,11 +162,6 @@
 1. **Software Vulnerability Detection with GPT and In-Context Learning** *Zhihong Liu, Qing Liao, Wenchao Gu, Cuiyun Gao* [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10381286/) 2023.08
 	> *tl;dr* 用llm检测软件漏洞
 
-
-1. **Using Large Language Models to Mitigate Ransomware Threats（不是很清楚该分到哪一类里）** *Fang Wang* [[<u>paper</u>]](https://www.preprints.org/manuscript/202311.0676/v1) 2023.11
-	> *tl;dr* 用llm制定Ransomware Policies，防护勒索软件
-
-
 1. **Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities** *Avishree Khare, Saikat Dutta, Ziyang Li, Alaia Solko-Breslin, Rajeev Alur, Mayur Naik* [[<u>paper</u>]](https://arxiv.org/abs/2311.16169) 2023.11
 	> *tl;dr* 评估llm检测漏洞的效果/能力
 
@@ -522,7 +517,8 @@
 
 
 #### llm Evaluation/Defense
-
+1. **Using Large Language Models to Mitigate Ransomware Threats** *Fang Wang* [[<u>paper</u>]](https://www.preprints.org/manuscript/202311.0676/v1) 2023.11
+	> *tl;dr* 用llm制定Ransomware Policies，防护勒索软件
 
 
 2. **Impact of Big Data Analytics and ChatGPT on Cybersecurity** *Pawankumar Sharma, Bibhu Dash* [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10127411) 2023.03
