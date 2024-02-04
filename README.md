@@ -491,23 +491,24 @@
 
 #### Information Retrieval
 
-1. **HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion** *随着漏洞数量的增多，从NVD，CWE，CVE这些非结构化信息上对漏洞检索很困难，训练一个llm帮用户理解漏洞（没太看懂，什么是Vulnerability to Weakness）)
+1. **HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion** *Yu-Zheng Lin, Muntasir Mamun, Muhtasim Alam Chowdhury, Shuyu Cai, Mingyu Zhu, Banafsheh Saber Latibari, Kevin Immanuel Gubbi, Najmeh Nazari Bavarsad, Arjun Caputo, Avesta Sasan, Houman Homayoun, Setareh Rafatirad, Pratik Satam, Soheil Salehi*    [[<u>paper</u>]](https://arxiv.org/abs/2312.13530) 2023.12
+   	> *tl;dr* 随着漏洞数量的增多，从NVD，CWE，CVE这些非结构化信息上对漏洞检索很困难，训练一个llm帮用户理解漏洞
 
-2. **Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions** *Wesley Tann, Yuancheng Liu, Jun Heng Sim, Choon Meng Seah, Ee-Chien Chang* [[<u>paper</u>]](https://arxiv.org/abs/2308.10443) 2023.08
+3. **Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions** *Wesley Tann, Yuancheng Liu, Jun Heng Sim, Choon Meng Seah, Ee-Chien Chang* [[<u>paper</u>]](https://arxiv.org/abs/2308.10443) 2023.08
 	> *tl;dr* 用llm帮助打ctf
-3. **Large Language Models for Networking: Applications, Enabling Techniques, and Challenges** *Yudong Huang, Hongyang Du, Xinyuan Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuo Wang, Tao Huang* [[<u>paper</u>]](https://arxiv.org/abs/2311.17474) 2023.11
+4. **Large Language Models for Networking: Applications, Enabling Techniques, and Challenges** *Yudong Huang, Hongyang Du, Xinyuan Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuo Wang, Tao Huang* [[<u>paper</u>]](https://arxiv.org/abs/2311.17474) 2023.11
 	> *tl;dr* 网络知识问答（但好像和安全没太大关系？）
 
 
-4. **LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature** *Maxime Würsch, Andrei Kucharavy, Dimitri Percia David, Alain Mermoud* [[<u>paper</u>]](https://arxiv.org/abs/2312.07110) 2023.12
+5. **LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature** *Maxime Würsch, Andrei Kucharavy, Dimitri Percia David, Alain Mermoud* [[<u>paper</u>]](https://arxiv.org/abs/2312.07110) 2023.12
 	> *tl;dr* llm在网络安全领域知识问答上性能的局限性
 
    
-5. **In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems** *Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger* [[<u>paper</u>]](https://arxiv.org/abs/2306.08853) 2023.06
+6. **In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems** *Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger* [[<u>paper</u>]](https://arxiv.org/abs/2306.08853) 2023.06
 	> *tl;dr* 一个信息收集平台，用来收集和网安相关的知识，作为llm的数据集
 
 
-6. **On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions** *Reza Fayyazi, Shanchieh Jay Yang* [[<u>paper</u>]](https://arxiv.org/abs/2306.14062) 2023.06
+7. **On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions** *Reza Fayyazi, Shanchieh Jay Yang* [[<u>paper</u>]](https://arxiv.org/abs/2306.14062) 2023.06
 	> *tl;dr* 用llm微调，能够描述网络攻击
 
 
