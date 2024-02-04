@@ -596,7 +596,6 @@
 
 
 6. **Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments** *Maria Rigaki, Ondřej Lukáš, Carlos A. Catania, Sebastian Garcia* [[<u>paper</u>]](https://arxiv.org/abs/2308.12086) 2023.08
-	> *tl;dr* 没看懂，不太了解llm agent
 
 
 7. **ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation** *Xueying Du, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou* [[<u>paper</u>]](https://arxiv.org/abs/2308.01861) 2023.08
