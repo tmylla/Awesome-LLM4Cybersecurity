@@ -15,10 +15,12 @@
 
 
 
-3. **AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation** *Filippo Perrina, Francesco Marchiori, Mauro Conti, Nino Vincenzo Verde* [[<u>paper</u>]](https://arxiv.org/abs/2310.02655) 2023.10
+2. **AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation** *Filippo Perrina, Francesco Marchiori, Mauro Conti, Nino Vincenzo Verde* [[<u>paper</u>]](https://arxiv.org/abs/2310.02655) 2023.10
 	> *tl;dr* 用llm辅助撰写威胁情报的报告
 
+3. **Llm-Tikg: Threat Intelligence Knowledge Graph Construction Utilizing Large Language Model** *Yuelin Hu, Futai Zou, Jiajia Han, Xin Sun, Yilei Wang* [[<u>paper</u>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671345) 2023.12
 
+4. **Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild** *Giuseppe Siracusano and Davide Sanvito and Roberto Gonzalez and Manikantan Srinivasan and Sivakaman Kamatchi and Wataru Takahashi and Masaru Kawakita and Takahiro Kakumaru and Roberto Bifulco*  [[<u>paper</u>]](https://arxiv.org/abs/2307.10214) 2023.07
 
 #### Code Analysis & Vulnerability Discovery
 
