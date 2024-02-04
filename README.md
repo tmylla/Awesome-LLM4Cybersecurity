@@ -495,25 +495,19 @@
 
 2. **Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions** *Wesley Tann, Yuancheng Liu, Jun Heng Sim, Choon Meng Seah, Ee-Chien Chang* [[<u>paper</u>]](https://arxiv.org/abs/2308.10443) 2023.08
 	> *tl;dr* 用llm帮助打ctf
-
-
-3. **Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4** *Mehrdad Kaheh, Danial Khosh Kholgh, Panos Kostakos* [[<u>paper</u>]](https://arxiv.org/abs/2309.16422) 2023.09
-	> *tl;dr* 安全知识问答
-
-
-4. **Large Language Models for Networking: Applications, Enabling Techniques, and Challenges** *Yudong Huang, Hongyang Du, Xinyuan Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuo Wang, Tao Huang* [[<u>paper</u>]](https://arxiv.org/abs/2311.17474) 2023.11
+3. **Large Language Models for Networking: Applications, Enabling Techniques, and Challenges** *Yudong Huang, Hongyang Du, Xinyuan Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuo Wang, Tao Huang* [[<u>paper</u>]](https://arxiv.org/abs/2311.17474) 2023.11
 	> *tl;dr* 网络知识问答（但好像和安全没太大关系？）
 
 
-5. **LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature** *Maxime Würsch, Andrei Kucharavy, Dimitri Percia David, Alain Mermoud* [[<u>paper</u>]](https://arxiv.org/abs/2312.07110) 2023.12
+4. **LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature** *Maxime Würsch, Andrei Kucharavy, Dimitri Percia David, Alain Mermoud* [[<u>paper</u>]](https://arxiv.org/abs/2312.07110) 2023.12
 	> *tl;dr* llm在网络安全领域知识问答上性能的局限性
 
    
-6. **In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems** *Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger* [[<u>paper</u>]](https://arxiv.org/abs/2306.08853) 2023.06
+5. **In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems** *Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger* [[<u>paper</u>]](https://arxiv.org/abs/2306.08853) 2023.06
 	> *tl;dr* 一个信息收集平台，用来收集和网安相关的知识，作为llm的数据集
 
 
-1. **On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions** *Reza Fayyazi, Shanchieh Jay Yang* [[<u>paper</u>]](https://arxiv.org/abs/2306.14062) 2023.06
+6. **On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions** *Reza Fayyazi, Shanchieh Jay Yang* [[<u>paper</u>]](https://arxiv.org/abs/2306.14062) 2023.06
 	> *tl;dr* 用llm微调，能够描述网络攻击
 
 
@@ -624,4 +618,5 @@
 
 2. **LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing** *Stephen Moskal, Sam Laney, Erik Hemberg, Una-May O'Reilly* [[<u>paper</u>]](https://arxiv.org/abs/2310.06936) 2023.10
 
+3. **Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4** *Mehrdad Kaheh, Danial Khosh Kholgh, Panos Kostakos* [[<u>paper</u>]](https://arxiv.org/abs/2309.16422) 2023.09
 
