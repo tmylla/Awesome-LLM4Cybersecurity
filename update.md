@@ -12,95 +12,93 @@
 
 1. LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge [[<u>paper</u>]](https://arxiv.org/abs/2401.10036)
 
-2. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]]()
+2. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10386116)
 
-3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions [[<u>paper</u>]]()
+3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions [[<u>paper</u>]](https://arxiv.org/abs/2306.14062)
 
-4. Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation [[<u>paper</u>]]()
+4. Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation [[<u>paper</u>]](https://arxiv.org/abs/2401.00280)
 
-5. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures [[<u>paper</u>]]()
+5. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures [[<u>paper</u>]](https://arxiv.org/abs/2308.04898)
 
-6. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models [[<u>paper</u>]]()
+6. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.14607)
 
-7. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild [[<u>paper</u>]]()
+7. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild [[<u>paper</u>]](https://arxiv.org/abs/2307.10214)
 
-8. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]]()
+8. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection [[<u>paper</u>]](https://arxiv.org/abs/2308.10022)
 
-9. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection [[<u>paper</u>]]()
+9. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion [[<u>paper</u>]](https://arxiv.org/abs/2312.13530)
 
-10. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion [[<u>paper</u>]]()
+10. Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4 [[<u>paper</u>]](https://arxiv.org/abs/2309.16422)
 
-11. Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4 [[<u>paper</u>]]()
+11. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness [[<u>paper</u>]](https://arxiv.org/abs/2401.15127)
 
-12. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness [[<u>paper</u>]]()
-
-13. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models [[<u>paper</u>]]()
+12. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2403.00878)
 
 #### FUZZ
 
-1. Augmenting Greybox Fuzzing with Generative AI [[<u>paper</u>]]()
+1. Augmenting Greybox Fuzzing with Generative AI [[<u>paper</u>]](https://arxiv.org/abs/2306.06782)
 
-2. How well does LLM generate security tests? [[<u>paper</u>]]()
+2. How well does LLM generate security tests? [[<u>paper</u>]](https://arxiv.org/abs/2310.00710)
 
-3. Fuzz4All: Universal Fuzzing with Large Language Models [[<u>paper</u>]]()
+3. Fuzz4All: Universal Fuzzing with Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2308.04748)
 
-4. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models [[<u>paper</u>]]()
+4. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models [[<u>paper</u>]](https://ieeexplore.ieee.org/document/10172800/)
 
-5. Understanding Large Language Model Based Fuzz Driver Generation [[<u>paper</u>]]()
+5. Understanding Large Language Model Based Fuzz Driver Generation [[<u>paper</u>]](https://arxiv.org/abs/2307.12469)
 
-6. Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models [[<u>paper</u>]]()
+6. Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2212.14834)
 
-7. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [[<u>paper</u>]]()
+7. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [[<u>paper</u>]](https://arxiv.org/abs/2304.02014)
 
-8. Large language model guided protocol fuzzing [[<u>paper</u>]]()
+8. Large language model guided protocol fuzzing [[<u>paper</u>]](https://www.ndss-symposium.org/wp-content/uploads/2024-556-paper.pdf?ref=blog.exploits.club)
 
-9. Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing [[<u>paper</u>]]()
+9. Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing [[<u>paper</u>]](https://arxiv.org/abs/2403.03897)
 
 #### Vulnerabilities Detection
 
-1. Evaluation of ChatGPT Model for Vulnerability Detection [[<u>paper</u>]]()
+1. Evaluation of ChatGPT Model for Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/abs/2304.07232)
 
-2. Detecting software vulnerabilities using Language Models [[<u>paper</u>]]()
+2. Detecting software vulnerabilities using Language Models [[<u>paper</u>]](https://arxiv.org/abs/2302.11773)
 
-3. Software Vulnerability Detection using Large Language Models [[<u>paper</u>]]()
+3. Software Vulnerability Detection using Large Language Models [[<u>paper</u>]](https://ieeexplore.ieee.org/document/10301302/)
 
-4. Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities [[<u>paper</u>]]()
+4. Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities [[<u>paper</u>]](https://arxiv.org/abs/2311.16169)
 
-5. Software Vulnerability and Functionality Assessment using LLMs [[<u>paper</u>]]()
+5. Software Vulnerability and Functionality Assessment using LLMs [[<u>paper</u>]](https://arxiv.org/abs/2403.08429)
 
-6. Finetuning Large Language Models for Vulnerability Detection [[<u>paper</u>]]()
+6. Finetuning Large Language Models for Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/abs/2401.17010)
 
-7. The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models [[<u>paper</u>]]()
+7. The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2308.00245)
 
-8. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism [[<u>paper</u>]]()
+8. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism [[<u>paper</u>]](https://arxiv.org/abs/2309.15324)
 
-9. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT [[<u>paper</u>]]()
+9. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT [[<u>paper</u>]](https://arxiv.org/abs/2308.12697)
 
-10. Using ChatGPT as a Static Application Security Testing Tool [[<u>paper</u>]]()
+10. Using ChatGPT as a Static Application Security Testing Tool [[<u>paper</u>]](https://arxiv.org/abs/2308.14434)
 
-11. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection [[<u>paper</u>]]()
+11. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/abs/2401.01269)
 
-12. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives [[<u>paper</u>]]()
+12. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives [[<u>paper</u>]](https://arxiv.org/abs/2310.01152)
 
-13. Software Vulnerability Detection with GPT and In-Context Learning [[<u>paper</u>]]()
+13. Software Vulnerability Detection with GPT and In-Context Learning [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10381286)
 
-14. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis [[<u>paper</u>]]()
+14. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis [[<u>paper</u>]](https://arxiv.org/abs/2308.03314)
 
-15. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model [[<u>paper</u>]]()
+15. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model [[<u>paper</u>]](https://arxiv.org/abs/2308.04662)
 
-16. LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning [[<u>paper</u>]]()
+16. LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning [[<u>paper</u>]](https://arxiv.org/abs/2401.16185)
 
-17. Large Language Models for Test-Free Fault Localization [[<u>paper</u>]]()
+17. Large Language Models for Test-Free Fault Localization [[<u>paper</u>]](https://arxiv.org/abs/2310.01726)
  
-18. Multi-role Consensus through LLMs Discussions for Vulnerability Detection [[<u>paper</u>]]()
+18. Multi-role Consensus through LLMs Discussions for Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/abs/2403.14274)
 
-19. How ChatGPT is Solving Vulnerability Management Problem [[<u>paper</u>]]()
+19. How ChatGPT is Solving Vulnerability Management Problem [[<u>paper</u>]](https://arxiv.org/abs/2311.06530)
 
-20. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection [[<u>paper</u>]]()
+20. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/abs/2304.00409)
 
-21. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification [[<u>paper</u>]]()
+21. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification [[<u>paper</u>]](https://arxiv.org/abs/2307.02192)
 
-22. How Far Have We Gone in Vulnerability Detection Using Large Language Models [[<u>paper</u>]]()
+22. How Far Have We Gone in Vulnerability Detection Using Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2311.12420)
 
 #### Insecure code Generation
 
