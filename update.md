@@ -14,266 +14,266 @@
 
 2. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]]()
 
-3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions
+3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions [[<u>paper</u>]]()
 
-4. Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation
+4. Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation [[<u>paper</u>]]()
 
-5. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures
+5. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures [[<u>paper</u>]]()
 
-6. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models
+6. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models [[<u>paper</u>]]()
 
-7. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild
+7. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild [[<u>paper</u>]]()
 
-8. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation
+8. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]]()
 
-9. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection
+9. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection [[<u>paper</u>]]()
 
-10. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion
+10. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion [[<u>paper</u>]]()
 
-11. Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4
+11. Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4 [[<u>paper</u>]]()
 
-12. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness
+12. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness [[<u>paper</u>]]()
 
-13. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models
+13. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models [[<u>paper</u>]]()
 
 #### FUZZ
 
-1. Augmenting Greybox Fuzzing with Generative AI
+1. Augmenting Greybox Fuzzing with Generative AI [[<u>paper</u>]]()
 
-2. How well does LLM generate security tests?
+2. How well does LLM generate security tests? [[<u>paper</u>]]()
 
-3. Fuzz4All: Universal Fuzzing with Large Language Models
+3. Fuzz4All: Universal Fuzzing with Large Language Models [[<u>paper</u>]]()
 
-4. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models
+4. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models [[<u>paper</u>]]()
 
-5. Understanding Large Language Model Based Fuzz Driver Generation
+5. Understanding Large Language Model Based Fuzz Driver Generation [[<u>paper</u>]]()
 
-6. Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models
+6. Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models [[<u>paper</u>]]()
 
-7. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT
+7. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [[<u>paper</u>]]()
 
-8. Large language model guided protocol fuzzing
+8. Large language model guided protocol fuzzing [[<u>paper</u>]]()
 
-9. Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing
+9. Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing [[<u>paper</u>]]()
 
 #### Vulnerabilities Detection
 
-1. Evaluation of ChatGPT Model for Vulnerability Detection
+1. Evaluation of ChatGPT Model for Vulnerability Detection [[<u>paper</u>]]()
 
-2. Detecting software vulnerabilities using Language Models
+2. Detecting software vulnerabilities using Language Models [[<u>paper</u>]]()
 
-3. Software Vulnerability Detection using Large Language Models
+3. Software Vulnerability Detection using Large Language Models [[<u>paper</u>]]()
 
-4. Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities
+4. Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities [[<u>paper</u>]]()
 
-5. Software Vulnerability and Functionality Assessment using LLMs
+5. Software Vulnerability and Functionality Assessment using LLMs [[<u>paper</u>]]()
 
-6. Finetuning Large Language Models for Vulnerability Detection
+6. Finetuning Large Language Models for Vulnerability Detection [[<u>paper</u>]]()
 
-7. The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models
+7. The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models [[<u>paper</u>]]()
 
-8. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism
+8. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism [[<u>paper</u>]]()
 
-9. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT
+9. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT [[<u>paper</u>]]()
 
-10. Using ChatGPT as a Static Application Security Testing Tool
+10. Using ChatGPT as a Static Application Security Testing Tool [[<u>paper</u>]]()
 
-11. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection
+11. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection [[<u>paper</u>]]()
 
-12. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives
+12. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives [[<u>paper</u>]]()
 
-13. Software Vulnerability Detection with GPT and In-Context Learning
+13. Software Vulnerability Detection with GPT and In-Context Learning [[<u>paper</u>]]()
 
-14. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis
+14. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis [[<u>paper</u>]]()
 
-15. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model
+15. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model [[<u>paper</u>]]()
 
-16. LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning
+16. LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning [[<u>paper</u>]]()
 
-17. Large Language Models for Test-Free Fault Localization
+17. Large Language Models for Test-Free Fault Localization [[<u>paper</u>]]()
+ 
+18. Multi-role Consensus through LLMs Discussions for Vulnerability Detection [[<u>paper</u>]]()
 
-18. Multi-role Consensus through LLMs Discussions for Vulnerability Detection
+19. How ChatGPT is Solving Vulnerability Management Problem [[<u>paper</u>]]()
 
-19. How ChatGPT is Solving Vulnerability Management Problem
+20. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection [[<u>paper</u>]]()
 
-20. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection
+21. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification [[<u>paper</u>]]()
 
-21. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification
-
-22. How Far Have We Gone in Vulnerability Detection Using Large Language Models
+22. How Far Have We Gone in Vulnerability Detection Using Large Language Models [[<u>paper</u>]]()
 
 #### Insecure code Generation
 
-1. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants
+1. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants [[<u>paper</u>]]()
 
-2. Bugs in Large Language Models Generated Code
+2. Bugs in Large Language Models Generated Code [[<u>paper</u>]]()
 
-3. Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions
+3. Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions [[<u>paper</u>]]()
 
-4. The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for Security-Oriented Code Analysis
+4. The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for Security-Oriented Code Analysis [[<u>paper</u>]]()
 
-5. No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT
+5. No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT [[<u>paper</u>]]()
 
-6. Generate and Pray: Using SALLMS to Evaluate the Security of LLM Generated Code
+6. Generate and Pray: Using SALLMS to Evaluate the Security of LLM Generated Code [[<u>paper</u>]]()
 
-7. Is your code generated by chatgpt really correct? rigorous evaluation of large language models for code generation
+7. Is your code generated by chatgpt really correct? rigorous evaluation of large language models for code generation [[<u>paper</u>]]()
 
-8. Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet
+8. Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet [[<u>paper</u>]]()
 
-9. A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages
+9. A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages [[<u>paper</u>]]()
 
-10. How Secure is Code Generated by ChatGPT?
+10. How Secure is Code Generated by ChatGPT? [[<u>paper</u>]]()
 
-11. Large Language Models for Code: Security Hardening and Adversarial Testing
+11. Large Language Models for Code: Security Hardening and Adversarial Testing [[<u>paper</u>]]()
 
-12. Pop Quiz! Can a Large Language Model Help With Reverse Engineering?
+12. Pop Quiz! Can a Large Language Model Help With Reverse Engineering? [[<u>paper</u>]]()
 
-13. LLM4Decompile: Decompiling Binary Code with Large Language Models
+13. LLM4Decompile: Decompiling Binary Code with Large Language Models [[<u>paper</u>]]()
 
-14. Large Language Models for Code Analysis: Do LLMs Really Do Their Job?
+14. Large Language Models for Code Analysis: Do LLMs Really Do Their Job? [[<u>paper</u>]]()
 
-15. Understanding Programs by Exploiting (Fuzzing) Test Cases
+15. Understanding Programs by Exploiting (Fuzzing) Test Cases [[<u>paper</u>]]()
 
-16. Evaluating and Explaining Large Language Models for Code Using Syntactic Structures
+16. Evaluating and Explaining Large Language Models for Code Using Syntactic Structures [[<u>paper</u>]]()
 
-17. Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4
+17. Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4 [[<u>paper</u>]]()
 
-18. Using ChatGPT to Analyze Ransomware Messages and to Predict Ransomware Threats
+18. Using ChatGPT to Analyze Ransomware Messages and to Predict Ransomware Threats [[<u>paper</u>]]()
 
-19. Shifting the Lens: Detecting Malware in npm Ecosystem with Large Language Models
+19. Shifting the Lens: Detecting Malware in npm Ecosystem with Large Language Models [[<u>paper</u>]]()
 
-20. DebugBench: Evaluating Debugging Capability of Large Language Models
+20. DebugBench: Evaluating Debugging Capability of Large Language Models [[<u>paper</u>]]()
 
-21. Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions
+21. Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions [[<u>paper</u>]]()
 
-22. FLAG: Finding Line Anomalies (in code) with Generative AI
+22. FLAG: Finding Line Anomalies (in code) with Generative AI [[<u>paper</u>]]()
 
 #### Program Repair 
 
-1. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs
+1. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs [[<u>paper</u>]]()
 
-2. An Analysis of the Automatic Bug Fixing Performance of ChatGPT
+2. An Analysis of the Automatic Bug Fixing Performance of ChatGPT [[<u>paper</u>]]()
 
-3. AI-powered patching: the future of automated vulnerability fixes
+3. AI-powered patching: the future of automated vulnerability fixes [[<u>paper</u>]]()
 
-4. Practical Program Repair in the Era of Large Pre-trained Language Models
+4. Practical Program Repair in the Era of Large Pre-trained Language Models [[<u>paper</u>]]()
 
-5. Security Code Review by LLMs: A Deep Dive into Responses 
+5. Security Code Review by LLMs: A Deep Dive into Responses  [[<u>paper</u>]]()
 
-6. Examining Zero-Shot Vulnerability Repair with Large Language Models
+6. Examining Zero-Shot Vulnerability Repair with Large Language Models [[<u>paper</u>]]()
 
-7. How Effective Are Neural Networks for Fixing Security Vulnerabilities
+7. How Effective Are Neural Networks for Fixing Security Vulnerabilities [[<u>paper</u>]]()
 
-8. Can LLMs Patch Security Issues?
+8. Can LLMs Patch Security Issues? [[<u>paper</u>]]()
 
-9. InferFix: End-to-End Program Repair with LLMs
+9. InferFix: End-to-End Program Repair with LLMs [[<u>paper</u>]]()
 
-10. ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching
+10. ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching [[<u>paper</u>]]()
 
-11. DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and Policy-based Protection
+11. DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and Policy-based Protection [[<u>paper</u>]]()
 
-12. Fixing Hardware Security Bugs with Large Language Models
+12. Fixing Hardware Security Bugs with Large Language Models [[<u>paper</u>]]()
 
-13. A Study of Vulnerability Repair in JavaScript Programs with Large Language Models
+13. A Study of Vulnerability Repair in JavaScript Programs with Large Language Models [[<u>paper</u>]]()
 
-14. Enhanced Automated Code Vulnerability Repair using Large Language Models
+14. Enhanced Automated Code Vulnerability Repair using Large Language Models [[<u>paper</u>]]()
 
-15. Teaching Large Language Models to Self-Debug
+15. Teaching Large Language Models to Self-Debug [[<u>paper</u>]]()
 
-16. Better Patching Using LLM Prompting, via Self-Consistency
+16. Better Patching Using LLM Prompting, via Self-Consistency [[<u>paper</u>]]()
 
-17. Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair
+17. Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair [[<u>paper</u>]]()
+ 
+18. LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward [[<u>paper</u>]]()
 
-18. LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward
+19. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [[<u>paper</u>]]()
 
-19. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs
-
-20. When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?
+20. When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done? [[<u>paper</u>]]()
 
 #### Anomaly Detection
 
-1. Benchmarking Large Language Models for Log Analysis, Security, and Interpretation
+1. Benchmarking Large Language Models for Log Analysis, Security, and Interpretation [[<u>paper</u>]]()
 
-2. Log-based Anomaly Detection based on EVT Theory with feedback
+2. Log-based Anomaly Detection based on EVT Theory with feedback [[<u>paper</u>]]()
 
-3. LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection
+3. LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection [[<u>paper</u>]]()
 
-4. LogGPT: Log Anomaly Detection via GPT
+4. LogGPT: Log Anomaly Detection via GPT [[<u>paper</u>]]()
 
-5. Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies
+5. Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [[<u>paper</u>]]()
 
-6. Lemur: Log Parsing with Entropy Sampling and Chain-of-Thought Merging
+6. Lemur: Log Parsing with Entropy Sampling and Chain-of-Thought Merging [[<u>paper</u>]]()
 
-7. Web Content Filtering through knowledge distillation of Large Language Models
+7. Web Content Filtering through knowledge distillation of Large Language Models [[<u>paper</u>]]()
 
-8. Application of Large Language Models to DDoS Attack Detection
+8. Application of Large Language Models to DDoS Attack Detection [[<u>paper</u>]]()
 
-9. An Improved Transformer-based Model for Detecting Phishing, Spam, and Ham: A Large Language Model Approach
+9. An Improved Transformer-based Model for Detecting Phishing, Spam, and Ham: A Large Language Model Approach [[<u>paper</u>]]()
 
-10. Evaluating the Performance of ChatGPT for Spam Email Detection
+10. Evaluating the Performance of ChatGPT for Spam Email Detection [[<u>paper</u>]]()
+ 
+11. Prompted Contextual Vectors for Spear-Phishing Detection [[<u>paper</u>]]()
 
-11. Prompted Contextual Vectors for Spear-Phishing Detection
+12. Devising and Detecting Phishing: Large Language Models vs. Smaller Human Models [[<u>paper</u>]]()
 
-12. Devising and Detecting Phishing: Large Language Models vs. Smaller Human Models
+13. Explaining Tree Model Decisions in Natural Language for Network Intrusion Detection [[<u>paper</u>]]()
 
-13. Explaining Tree Model Decisions in Natural Language for Network Intrusion Detection
+14. Revolutionizing Cyber Threat Detection with Large Language Models: A privacy-preserving BERT-based Lightweight Model for IoT/IIoT Devices [[<u>paper</u>]]()
 
-14. Revolutionizing Cyber Threat Detection with Large Language Models: A privacy-preserving BERT-based Lightweight Model for IoT/IIoT Devices
+15. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs) [[<u>paper</u>]]()
 
-15. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)
-
-16. ChatGPT for digital forensic investigation: The good, the bad, and the unknown
+16. ChatGPT for digital forensic investigation: The good, the bad, and the unknown [[<u>paper</u>]]()
 
 #### LLM Assisted Attack
 
-1. Identifying and mitigating the security risks of generative ai
+1. Identifying and mitigating the security risks of generative ai [[<u>paper</u>]]()
 
-2. Impact of Big Data Analytics and ChatGPT on Cybersecurity
+2. Impact of Big Data Analytics and ChatGPT on Cybersecurity [[<u>paper</u>]]()
 
-3. From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy
+3. From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy [[<u>paper</u>]]()
+ 
+4. LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing [[<u>paper</u>]]()
 
-4. LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing
+5. Malla: Demystifying Real-world Large Language Model Integrated Malicious Services [[<u>paper</u>]]()
 
-5. Malla: Demystifying Real-world Large Language Model Integrated Malicious Services
+6. Evaluating LLMs for Privilege-Escalation Scenarios [[<u>paper</u>]]()
 
-6. Evaluating LLMs for Privilege-Escalation Scenarios
+7. Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions [[<u>paper</u>]]()
 
-7. Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions
+8. Exploring the Dark Side of AI: Advanced Phishing Attack Design and Deployment Using ChatGPT [[<u>paper</u>]]()
+ 
+9. From Chatbots to PhishBots? - Preventing Phishing scams created using ChatGPT, Google Bard and Claude [[<u>paper</u>]]()
 
-8. Exploring the Dark Side of AI: Advanced Phishing Attack Design and Deployment Using ChatGPT
+10. From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads [[<u>paper</u>]]()
 
-9. From Chatbots to PhishBots? - Preventing Phishing scams created using ChatGPT, Google Bard and Claude
+11. PentestGPT: An LLM-empowered Automatic Penetration Testing Tool [[<u>paper</u>]]()
 
-10. From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads
+12. AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks [[<u>paper</u>]]()
 
-11. PentestGPT: An LLM-empowered Automatic Penetration Testing Tool
+13. RatGPT: Turning online LLMs into Proxies for Malware Attacks [[<u>paper</u>]]()
 
-12. AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks
-
-13. RatGPT: Turning online LLMs into Proxies for Malware Attacks
-
-14. Getting pwn’d by AI: Penetration Testing with Large Language Models
+14. Getting pwn’d by AI: Penetration Testing with Large Language Models [[<u>paper</u>]]()
 
 #### Others
 
-1. An LLM-based Framework for Fingerprinting Internet-connected Devices
+1. An LLM-based Framework for Fingerprinting Internet-connected Devices [[<u>paper</u>]]()
    
-2. Anatomy of an AI-powered malicious social botnet
+2. Anatomy of an AI-powered malicious social botnet [[<u>paper</u>]]()
 
-3. Just-in-Time Security Patch Detection -- LLM At the Rescue for Data Augmentation
+3. Just-in-Time Security Patch Detection -- LLM At the Rescue for Data Augmentation [[<u>paper</u>]]()
 
-4. LLM for SoC Security: A Paradigm Shift
+4. LLM for SoC Security: A Paradigm Shift [[<u>paper</u>]]()
 
-5. Harnessing the Power of LLM to Support Binary Taint Analysis
+5. Harnessing the Power of LLM to Support Binary Taint Analysis [[<u>paper</u>]]()
 
-6. Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations
+6. Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations [[<u>paper</u>]]()
 
-7. LLM in the Shell: Generative Honeypots
+7. LLM in the Shell: Generative Honeypots [[<u>paper</u>]]()
 
-8. Employing LLMs for Incident Response Planning and Review
+8. Employing LLMs for Incident Response Planning and Review [[<u>paper</u>]]()
 
-9. Enhancing Network Management Using Code Generated by Large Language Models
+9. Enhancing Network Management Using Code Generated by Large Language Models [[<u>paper</u>]]()
 
-10. Prompting Is All You Need: Automated Android Bug Replay with Large Language Models
+10. Prompting Is All You Need: Automated Android Bug Replay with Large Language Models [[<u>paper</u>]]()
 
-11. Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions
+11. Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions [[<u>paper</u>]]()
