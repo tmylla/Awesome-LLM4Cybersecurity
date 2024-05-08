@@ -299,3 +299,20 @@
 9.  Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.04724) 2023.12.07
 
 10.  LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations [[<u>paper</u>]](https://arxiv.org/abs/2303.09384) 2023.03.16
+
+
+#### Further Research 
+
+1. Cybersecurity Issues and Challenges [[<u>paper</u>]](https://www.researchgate.net/publication/367250373_Cybersecurity_Issues_and_Challenges) 2022.08
+
+2. A unified cybersecurity framework for complex environments [[<u>paper</u>]](https://dl.acm.org/doi/10.1145/3278681.3278682) 2018.09.26
+
+3. LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution [[<u>paper</u>]](https://arxiv.org/abs/2312.09007) 2024.02.20
+
+4. Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments [[<u>paper</u>]](https://arxiv.org/abs/2308.12086) 2023.08.28
+
+5. Llm agents can autonomously hack websites. [[<u>paper</u>]](https://arxiv.org/abs/2402.06664v1) 2024.02.16
+
+6. Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides [[<u>paper</u>]](https://arxiv.org/abs/2402.17531v1) 2024.02.27
+
+7. TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage [[<u>paper</u>]](https://arxiv.org/abs/2308.03427) 2023.11.07 
