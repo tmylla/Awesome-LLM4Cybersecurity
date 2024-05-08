@@ -315,4 +315,22 @@
 
 6. Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides [[<u>paper</u>]](https://arxiv.org/abs/2402.17531v1) 2024.02.27
 
-7. TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage [[<u>paper</u>]](https://arxiv.org/abs/2308.03427) 2023.11.07 
+7. TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage [[<u>paper</u>]](https://arxiv.org/abs/2308.03427) 2023.11.07
+
+8. The Rise and Potential of Large Language Model Based Agents: A Survey [[<u>paper</u>]](https://arxiv.org/abs/2309.07864) 2023.09.19
+
+9. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[<u>paper</u>]](https://arxiv.org/abs/2307.16789) 2023.10.03
+
+10. From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs [[<u>paper</u>]](https://arxiv.org/abs/2402.18157) 2024.02.28
+
+11. If llm is the wizard, then code is the wand: A survey on how code empowers large language models to serve as intelligent agents. [[<u>paper</u>]](https://arxiv.org/abs/2401.00812) 2024.01.08
+
+12. TaskWeaver: A Code-First Agent Framework [[<u>paper</u>]](https://arxiv.org/abs/2311.17541) 2023.12.01
+
+13. Large Language Models for Networking: Applications, Enabling Techniques, and Challenges [[<u>paper</u>]](https://arxiv.org/abs/2311.17474) 2023.11.29
+
+14. R-Judge: Benchmarking Safety Risk Awareness for LLM Agents [[<u>paper</u>]](https://web3.arxiv.org/abs/2401.10019) 2024.02.18
+
+15. WIPI: A New Web Threat for LLM-Driven Web Agents [[<u>paper</u>]](https://arxiv.org/abs/2402.16965) 2024.02.26
+
+16. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents [[<u>paper</u>]](https://arxiv.org/abs/2403.02691) 2024.03.25
