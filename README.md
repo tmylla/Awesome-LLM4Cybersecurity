@@ -10,9 +10,9 @@
 
 #### Threat Intelligence
 
-1. LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge [[<u>paper</u>]](https://arxiv.org/abs/2401.10036)
+1. LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge [[<u>paper</u>]](https://arxiv.org/abs/2401.10036) 2024.01.18
 
-2. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10386116)
+2. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10386116) 2023.10.04
 
 3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions [[<u>paper</u>]](https://arxiv.org/abs/2306.14062)
 
