@@ -275,3 +275,21 @@
 10. Prompting Is All You Need: Automated Android Bug Replay with Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2306.01987) 2023.07.18
 
 11. Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions [[<u>paper</u>]](https://arxiv.org/abs/2308.02312) 2024.02.07
+
+
+
+#### Selection of Base Model for Constructing Domain LLM by Evaluating Cybersecurity Capabilities
+
+1. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity [[<u>paper</u>]](https://arxiv.org/abs/2402.07688) 2024.02.12
+
+2. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models [[<u>paper</u>]](https://xuanwuai.github.io/SecEval/) 2023
+
+3. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security [[<u>paper</u>]] https://arxiv.org/abs/2312.15838v1 2023.12.26
+
+4.  Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. [[<u>paper</u>]](https://dl.acm.org/doi/10.1145/3549035.3561184) 2022.11.09
+
+5.  Can llms patch security issues? [[<u>paper</u>]](https://arxiv.org/abs/2312.00024) 2024.02.19
+
+6.  DebugBench: Evaluating Debugging Capability of Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2401.04621) 2024.01.11
+
+7.  An empirical study of netops capability of pre-trained large language models. [[<u>paper</u>]](https://arxiv.org/abs/2309.05557) 2023.09.19
