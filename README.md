@@ -293,3 +293,9 @@
 6.  DebugBench: Evaluating Debugging Capability of Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2401.04621) 2024.01.11
 
 7.  An empirical study of netops capability of pre-trained large language models. [[<u>paper</u>]](https://arxiv.org/abs/2309.05557) 2023.09.19
+
+8.  OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2310.07637) 2024.02.16
+
+9.  Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.04724) 2023.12.07
+
+10.  LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations [[<u>paper</u>]](https://arxiv.org/abs/2303.09384) 2023.03.16
