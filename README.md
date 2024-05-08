@@ -14,25 +14,25 @@
 
 2. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation [[<u>paper</u>]](https://ieeexplore.ieee.org/abstract/document/10386116) 2023.10.04
 
-3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions [[<u>paper</u>]](https://arxiv.org/abs/2306.14062)
+3. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions [[<u>paper</u>]](https://arxiv.org/abs/2306.14062) 2023.08.22
 
-4. Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation [[<u>paper</u>]](https://arxiv.org/abs/2401.00280)
+4. Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation [[<u>paper</u>]](https://arxiv.org/abs/2401.00280) 2024.01.12
 
-5. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures [[<u>paper</u>]](https://arxiv.org/abs/2308.04898)
+5. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures [[<u>paper</u>]](https://arxiv.org/abs/2308.04898) 2023.08.09
 
-6. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.14607)
+6. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.14607) 2023.12.22
 
-7. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild [[<u>paper</u>]](https://arxiv.org/abs/2307.10214)
+7. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild [[<u>paper</u>]](https://arxiv.org/abs/2307.10214) 2023.07.14
 
-8. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection [[<u>paper</u>]](https://arxiv.org/abs/2308.10022)
+8. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection [[<u>paper</u>]](https://arxiv.org/abs/2308.10022) 2023.08.27
 
-9. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion [[<u>paper</u>]](https://arxiv.org/abs/2312.13530)
+9. HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion [[<u>paper</u>]](https://arxiv.org/abs/2312.13530) 2023.12.21
 
-10. Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4 [[<u>paper</u>]](https://arxiv.org/abs/2309.16422)
+10. Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4 [[<u>paper</u>]](https://arxiv.org/abs/2309.16422) 2023.09.28
 
-11. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness [[<u>paper</u>]](https://arxiv.org/abs/2401.15127)
+11. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness [[<u>paper</u>]](https://arxiv.org/abs/2401.15127) 2024.03.13
 
-12. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2403.00878)
+12. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2403.00878) 2024.03.01
 
 #### FUZZ
 
