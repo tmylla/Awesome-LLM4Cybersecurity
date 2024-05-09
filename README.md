@@ -1,12 +1,83 @@
-# LLM4Cybersecurity
-> An overview of LLMs for cybersecurity
 
-## Overview
 
-- [ ] overview map: figure 
-- [ ] category outline: figure
-- [ ] literature review: table
+## <div align="center">When LLMs Meet Cybersecurity: A Systematic Literature Review<div> 
 
+<div align="center">
+<a href="https://arxiv.org/abs/2405.03644"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:LLM4Cybersecurity&color=red&logo=arxiv"></a> &ensp;
+</div>
+
+<!-- TOC -->
+
+- [When LLMs Meet Cybersecurity: A Systematic Literature Review](#when-llms-meet-cybersecurity-a-systematic-literature-review)
+- [🌈 Introduction](#-introduction)
+- [🚩Features](#features)
+- [🌟 Literatures](#-literatures)
+  - [RQ1: How to construct cybersecurity-oriented domain LLMs?](#rq1-how-to-construct-cybersecurity-oriented-domain-llms)
+    - [Cybersecurity Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks)
+    - [Fine-tuned Domain LLMs for Cybersecurity](#fine-tuned-domain-llms-for-cybersecurity)
+  - [RQ2: What are the potential applications of LLMs in cybersecurity?](#rq2-what-are-the-potential-applications-of-llms-in-cybersecurity)
+    - [Threat Intelligence](#threat-intelligence)
+    - [FUZZ](#fuzz)
+    - [Vulnerabilities Detection](#vulnerabilities-detection)
+    - [Insecure code Generation](#insecure-code-generation)
+    - [Program Repair](#program-repair)
+    - [Anomaly Detection](#anomaly-detection)
+    - [LLM Assisted Attack](#llm-assisted-attack)
+    - [Others](#others)
+  - [RQ3: What are further research directions about the application of LLMs in cybersecurity?](#rq3-what-are-further-research-directions-about-the-application-of-llms-in-cybersecurity)
+    - [Further Research: Agent4Cybersecurity](#further-research-agent4cybersecurity)
+- [📖BibTeX](#bibtex)
+
+<!-- /TOC -->
+
+## 🌈 Introduction
+We are excited to present "When LLMs Meet Cybersecurity: A Systematic Literature Review," a comprehensive overview of LLM applications in cybersecurity.
+
+We seek to address three key questions: 
+- RQ1: How to construct cyber security-oriented domain LLMs?
+- RQ2: What are the potential applications of LLMs in cybersecurity?
+- RQ3: What are the existing challenges and further research directions about the application of LLMs in cybersecurity?
+
+![table_1](figs/table1.png)
+
+
+## 🚩Features
+Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and more than 10 downstream scenarios.
+
+![statistic](figs/statistic.png)
+
+
+## 🌟 Literatures
+
+### RQ1: How to construct cybersecurity-oriented domain LLMs?
+
+#### Cybersecurity Evaluation Benchmarks
+
+1. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity [[<u>paper</u>]](https://arxiv.org/abs/2402.07688) 2024.02.12
+
+2. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models [[<u>paper</u>]](https://xuanwuai.github.io/SecEval/) 2023
+
+3. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security [[<u>paper</u>]] https://arxiv.org/abs/2312.15838v1 2023.12.26
+
+4.  Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. [[<u>paper</u>]](https://dl.acm.org/doi/10.1145/3549035.3561184) 2022.11.09
+
+5.  Can llms patch security issues? [[<u>paper</u>]](https://arxiv.org/abs/2312.00024) 2024.02.19
+
+6.  DebugBench: Evaluating Debugging Capability of Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2401.04621) 2024.01.11
+
+7.  An empirical study of netops capability of pre-trained large language models. [[<u>paper</u>]](https://arxiv.org/abs/2309.05557) 2023.09.19
+
+8.  OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2310.07637) 2024.02.16
+
+9.  Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.04724) 2023.12.07
+
+10.  LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations [[<u>paper</u>]](https://arxiv.org/abs/2303.09384) 2023.03.16
+
+#### Fine-tuned Domain LLMs for Cybersecurity
+
+*todo*
+
+### RQ2: What are the potential applications of LLMs in cybersecurity?
 
 #### Threat Intelligence
 
@@ -278,30 +349,9 @@
 
 
 
-#### Selection of Base Model for Constructing Domain LLM by Evaluating Cybersecurity Capabilities
+### RQ3: What are further research directions about the application of LLMs in cybersecurity?
 
-1. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity [[<u>paper</u>]](https://arxiv.org/abs/2402.07688) 2024.02.12
-
-2. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models [[<u>paper</u>]](https://xuanwuai.github.io/SecEval/) 2023
-
-3. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security [[<u>paper</u>]] https://arxiv.org/abs/2312.15838v1 2023.12.26
-
-4.  Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. [[<u>paper</u>]](https://dl.acm.org/doi/10.1145/3549035.3561184) 2022.11.09
-
-5.  Can llms patch security issues? [[<u>paper</u>]](https://arxiv.org/abs/2312.00024) 2024.02.19
-
-6.  DebugBench: Evaluating Debugging Capability of Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2401.04621) 2024.01.11
-
-7.  An empirical study of netops capability of pre-trained large language models. [[<u>paper</u>]](https://arxiv.org/abs/2309.05557) 2023.09.19
-
-8.  OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2310.07637) 2024.02.16
-
-9.  Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.04724) 2023.12.07
-
-10.  LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations [[<u>paper</u>]](https://arxiv.org/abs/2303.09384) 2023.03.16
-
-
-#### Further Research 
+#### Further Research: Agent4Cybersecurity
 
 1. Cybersecurity Issues and Challenges [[<u>paper</u>]](https://www.researchgate.net/publication/367250373_Cybersecurity_Issues_and_Challenges) 2022.08
 
@@ -334,3 +384,15 @@
 15. WIPI: A New Web Threat for LLM-Driven Web Agents [[<u>paper</u>]](https://arxiv.org/abs/2402.16965) 2024.02.26
 
 16. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents [[<u>paper</u>]](https://arxiv.org/abs/2403.02691) 2024.03.25
+
+
+## 📖BibTeX
+```
+@misc{zhang2024llms,
+      title={When LLMs Meet Cybersecurity: A Systematic Literature Review}, 
+      author={Jie Zhang and Haoyu Bu and Hui Wen and Yu Chen and Lun Li and Hongsong Zhu},
+      year={2024},
+      eprint={2405.03644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
