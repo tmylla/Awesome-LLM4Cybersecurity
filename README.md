@@ -29,7 +29,6 @@
 - [📖BibTeX](#bibtex)
 
 <!-- /TOC -->
-
 ## 🌈 Introduction
 We are excited to present "When LLMs Meet Cybersecurity: A Systematic Literature Review," a comprehensive overview of LLM applications in cybersecurity.
 
@@ -207,7 +206,7 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 
 17. Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4 [[<u>paper</u>]](https://arxiv.org/abs/2312.08317) 2023.12.13
 
-18. Using ChatGPT to Analyze Ransomware Messages and to Predict Ransomware Threats [[<u>paper</u>]] (https://www.researchgate.net/publication/375827732_Using_ChatGPT_to_Analyze_Ransomware_Messages_and_to_Predict_Ransomware_Threats) 2023.11.21
+18. Using ChatGPT to Analyze Ransomware Messages and to Predict Ransomware Threats [[<u>paper</u>]](https://assets.researchsquare.com/files/rs-3645967/v1_covered_a2d4c021-581c-44a3-ba60-058002d65bf9.pdf) 2023.11.21
 
 19. Shifting the Lens: Detecting Malware in npm Ecosystem with Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2403.12196) 2024.03.18
 
