@@ -76,14 +76,23 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 #### Fine-tuned Domain LLMs for Cybersecurity
 
 1. Finetuning Large Language Models for Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/abs/2401.17010) 2024.02.29
+
 2. SecureFalcon: The Next Cyber Reasoning System for Cyber Security [[<u>paper</u>]](https://arxiv.org/abs/2307.06616) 2023.07.13
+
 3. Large Language Models for Test-Free Fault Localization [[<u>paper</u>]](https://arxiv.org/abs/2310.01726) 2023.10.03
+
 4. RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair [[<u>paper</u>]](https://arxiv.org/abs/2312.15698) 2024.03.11
+
 5. Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding [[<u>paper</u>]](https://arxiv.org/abs/2309.09826) 2023.10.06
+
 6. Instruction Tuning for Secure Code Generation [[<u>paper</u>]](https://arxiv.org/abs/2402.09497) 2024.02.14
+
 7. Nova+: Generative Language Models for Binaries [[<u>paper</u>]](https://arxiv.org/abs/2311.13721) 2023.11.27
+
 8. Owl: A Large Language Model for IT Operations [[<u>paper</u>]](https://arxiv.org/abs/2309.09298) 2023.09.17
-9. HackMentor: Fine-tuning Large Language Models for Cybersecurity [[<u>paper</u>]](https://github.com/tmylla/HackMentor) 2023.09
+
+9.  HackMentor: Fine-tuning Large Language Models for Cybersecurity [[<u>paper</u>]](https://github.com/tmylla/HackMentor) 2023.09
+
 
 ### RQ2: What are the potential applications of LLMs in cybersecurity?
 
