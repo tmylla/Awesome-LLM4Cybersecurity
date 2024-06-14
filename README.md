@@ -6,12 +6,18 @@
 <a href="https://arxiv.org/abs/2405.03644"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:LLM4Cybersecurity&color=red&logo=arxiv"></a> &ensp;
 </div>
 
+## 🔥 Updates
+
+📆[2024-06-14] We have updated the related papers up to **May 31st**, with *37* new papers added (2024.03.20-2024.05.31).
+
+---
+
 <!-- TOC -->
 
-
 - [When LLMs Meet Cybersecurity: A Systematic Literature Review](#when-llms-meet-cybersecurity-a-systematic-literature-review)
+- [🔥 Updates](#-updates)
 - [🌈 Introduction](#-introduction)
-- [🚩Features](#features)
+- [🚩 Features](#-features)
 - [🌟 Literatures](#-literatures)
   - [RQ1: How to construct cybersecurity-oriented domain LLMs?](#rq1-how-to-construct-cybersecurity-oriented-domain-llms)
     - [Cybersecurity Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks)
@@ -41,8 +47,8 @@ We seek to address three key questions:
 ![table_1](figs/table1.png)
 
 
-## 🚩Features
-Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and more than 10 downstream scenarios.
+## 🚩 Features
+(2023.03.20) Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and more than 10 downstream scenarios.
 
 ![statistic](figs/statistic.png)
 
@@ -57,7 +63,7 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 
 2. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models [[<u>paper</u>]](https://xuanwuai.github.io/SecEval/) 2023
 
-3. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security [[<u>paper</u>]] https://arxiv.org/abs/2312.15838v1 2023.12.26
+3. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security [[<u>paper</u>]](https://arxiv.org/abs/2312.15838v1) 2023.12.26
 
 4.  Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. [[<u>paper</u>]](https://dl.acm.org/doi/10.1145/3549035.3561184) 2022.11.09
 
@@ -72,6 +78,12 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 9.  Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models [[<u>paper</u>]](https://arxiv.org/abs/2312.04724) 2023.12.07
 
 10.  LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations [[<u>paper</u>]](https://arxiv.org/abs/2303.09384) 2023.03.16
+    
+11.  Can LLMs Understand Computer Networks? Towards a Virtual System Administrator [[<u>paper</u>]](https://arxiv.org/pdf/2404.12689) 2024.04.22
+    
+12.  Assessing Cybersecurity Vulnerabilities in Code Large Language Models [[<u>paper</u>]](https://arxiv.org/pdf/2404.18567) 2024.04.29
+    
+13.  SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory [[<u>paper</u>]](https://arxiv.org/pdf/2405.20441) 2024.05.30
 
 #### Fine-tuned Domain LLMs for Cybersecurity
 
@@ -92,6 +104,8 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 8. Owl: A Large Language Model for IT Operations [[<u>paper</u>]](https://arxiv.org/abs/2309.09298) 2023.09.17
 
 9.  HackMentor: Fine-tuning Large Language Models for Cybersecurity [[<u>paper</u>]](https://github.com/tmylla/HackMentor) 2023.09
+    
+10. Assessing LLMs in Malicious Code Deobfuscation of Real-world Malware Campaigns [[<u>paper</u>]](https://arxiv.org/pdf/2404.19715) 2024.04.30
 
 
 ### RQ2: What are the potential applications of LLMs in cybersecurity?
@@ -121,6 +135,10 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 11. Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness [[<u>paper</u>]](https://arxiv.org/abs/2401.15127) 2024.03.13
 
 12. Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2403.00878) 2024.03.01
+    
+13. SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence [[<u>paper</u>]](https://arxiv.org/pdf/2405.03446) 2024.05.06
+    
+14. AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models [[<u>paper</u>]](https://arxiv.org/pdf/2405.04753) 2024.05.08
 
 #### FUZZ
 
@@ -141,6 +159,8 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 8. Large language model guided protocol fuzzing [[<u>paper</u>]](https://www.ndss-symposium.org/wp-content/uploads/2024-556-paper.pdf?ref=blog.exploits.club) 2024.02.26
 
 9. Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing [[<u>paper</u>]](https://arxiv.org/abs/2403.03897) 2024.03.06
+    
+10. When Fuzzing Meets LLMs: Challenges and Opportunities [[<u>paper</u>]](https://arxiv.org/pdf/2404.16297) 2024.04.25
 
 #### Vulnerabilities Detection
 
@@ -187,6 +207,14 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 21. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification [[<u>paper</u>]](https://arxiv.org/abs/2307.02192) 2023.09.02
 
 22. How Far Have We Gone in Vulnerability Detection Using Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2311.12420) 2023.12.22
+    
+23. Large Language Model for Vulnerability Detection and Repair: Literature Review and Roadmap [[<u>paper</u>]](https://arxiv.org/pdf/2404.02525) 2024.04.04
+    
+24. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection [[<u>paper</u>]](https://arxiv.org/pdf/2405.01202) 2024.05.02
+    
+25. Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study [[<u>paper</u>]](https://arxiv.org/pdf/2405.15614) 2024.05.24
+    
+26. LLM-Assisted Static Analysis for Detecting Security Vulnerabilities [[<u>paper</u>]](https://arxiv.org/pdf/2405.17238) 2024.05.27
 
 #### Insecure code Generation
 
@@ -233,6 +261,14 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 21. Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions [[<u>paper</u>]](https://arxiv.org/abs/2310.15780) 2023.10.24
 
 22. FLAG: Finding Line Anomalies (in code) with Generative AI [[<u>paper</u>]](https://arxiv.org/abs/2306.12643) 2023.07.22
+    
+23. Evolutionary Large Language Models for Hardware Security: A Comparative Survey [[<u>paper</u>]](https://arxiv.org/abs/2404.16651) 2024.04.25
+    
+24. Do Neutral Prompts Produce Insecure Code? FormAI-v2 Dataset: Labelling Vulnerabilities in Code Generated by Large Language Models [[<u>paper</u>]](https://arxiv.org/pdf/2404.18353) 2024.04.29
+    
+25. LLM Security Guard for Code [[<u>paper</u>]](https://arxiv.org/pdf/2405.01103) 2024.05.03
+    
+26. Code Repair with LLMs gives an Exploration-Exploitation Tradeoff [[<u>paper</u>]](https://arxiv.org/pdf/2405.17503) 2024.05.30
 
 #### Program Repair 
 
@@ -275,6 +311,20 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 19. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [[<u>paper</u>]](https://arxiv.org/abs/2403.01971) 2024.03.07
 
 20. When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done? [[<u>paper</u>]](https://arxiv.org/abs/2403.00448) 2023.03.01
+    
+21. Aligning LLMs for FL-free Program Repair [[<u>paper</u>]](https://arxiv.org/pdf/2404.08877) 2024.04.13
+    
+22. Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs [[<u>paper</u>]](https://arxiv.org/pdf/2404.12636) 2024.04.22
+    
+23. How Far Can We Go with Practical Function-Level Program Repair? [[<u>paper</u>]](https://arxiv.org/pdf/2404.12833) 2024.04.19
+    
+24. Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models [[<u>paper</u>]](https://arxiv.org/pdf/2404.15236) 2024.03.23
+    
+25. A Systematic Literature Review on Large Language Models for Automated Program Repair [[<u>paper</u>]](https://arxiv.org/pdf/2405.01466) 2024.05.12
+    
+26. Automated Repair of AI Code with Large Language Models and Formal Verification [[<u>paper</u>]](https://arxiv.org/pdf/2405.08848) 2024.05.14
+    
+27. A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback [[<u>paper</u>]](https://arxiv.org/pdf/2405.15690) 2024.05.24
 
 #### Anomaly Detection
 
@@ -309,6 +359,15 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 15. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs) [[<u>paper</u>]](https://arxiv.org/abs/2309.16021) 2023.09.27
 
 16. ChatGPT for digital forensic investigation: The good, the bad, and the unknown [[<u>paper</u>]](https://arxiv.org/abs/2307.10195) 2023.07.10
+    
+17. Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance [[<u>paper</u>]](http://arxiv.org/abs/2404.15485) 2024.04.23
+    
+18. LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing [[<u>paper</u>]](https://arxiv.org/pdf/2404.18001) 2024.04.27
+    
+19. DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS [[<u>paper</u>]](https://arxiv.org/pdf/2405.07638) 2024.05.12
+    
+20. Large Language Models in Wireless Application Design: In-Context Learning-enhanced Automatic Network Intrusion Detection [[<u>paper</u>]](https://arxiv.org/pdf/2405.11002) 2024.05.17
+
 
 #### LLM Assisted Attack
 
@@ -363,6 +422,20 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 10. Prompting Is All You Need: Automated Android Bug Replay with Large Language Models [[<u>paper</u>]](https://arxiv.org/abs/2306.01987) 2023.07.18
 
 11. Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions [[<u>paper</u>]](https://arxiv.org/abs/2308.02312) 2024.02.07
+    
+12. How Far Have We Gone in Stripped Binary Code Understanding Using Large Language Models [[<u>paper</u>]](https://arxiv.org/pdf/2404.09836) 2024.04.16
+    
+13. Act as a Honeytoken Generator! An Investigation into Honeytoken Generation with Large Language Models [[<u>paper</u>]](https://arxiv.org/pdf/2404.16118) 2024.04.24
+    
+14. AppPoet: Large Language Model based Android malware detection via multi-view prompt engineering [[<u>paper</u>]](https://arxiv.org/pdf/2404.18816) 2024.04.29
+    
+15. Large Language Models for Cyber Security: A Systematic Literature Review [[<u>paper</u>]](https://arxiv.org/pdf/2405.04760) 2024.05.08
+    
+16. Critical Infrastructure Protection: Generative AI, Challenges, and Opportunities [[<u>paper</u>]](https://arxiv.org/pdf/2405.04874) 2024.05.08
+    
+17. LLMPot: Automated LLM-based Industrial Protocol and Physical Process Emulation for ICS Honeypots [[<u>paper</u>]](https://arxiv.org/pdf/2405.05999) 2024.05.10
+    
+18. A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions [[<u>paper</u>]](https://arxiv.org/pdf/2405.14487) 2024.05.23
 
 
 
@@ -401,6 +474,14 @@ Our study encompasses an analysis of over 180 works, spanning across 25 LLMs and
 15. WIPI: A New Web Threat for LLM-Driven Web Agents [[<u>paper</u>]](https://arxiv.org/abs/2402.16965) 2024.02.26
 
 16. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents [[<u>paper</u>]](https://arxiv.org/abs/2403.02691) 2024.03.25
+
+17. LLM Agents can Autonomously Exploit One-day Vulnerabilities [[<u>paper</u>]](https://arxiv.org/pdf/2404.08144) 2024.04.17
+    
+18.  Large Language Models for Networking: Workflow, Advances and Challenges [[<u>paper</u>]](https://arxiv.org/pdf/2404.12901) 2024.04.29
+    
+19.  Generative AI in Cybersecurity [[<u>paper</u>]](https://arxiv.org/pdf/2405.01674) 2024.05.02
+    
+20.  Generative AI and Large Language Models for Cyber Security: All Insights You Need [[<u>paper</u>]](https://arxiv.org/pdf/2405.12750) 2024.05.21
 
 
 ## 📖BibTeX
