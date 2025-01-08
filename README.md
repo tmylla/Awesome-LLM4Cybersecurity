@@ -7,7 +7,7 @@
 </div>
 
 ## 🔥 Updates
-📆[2024-01-08] We have included **the publication venues** for each paper.
+📆[2025-01-08] We have included **the publication venues** for each paper.
 
 📆[2024-09-21] We have updated the related papers up to **Aug 31st**, with *75* new papers added (2024.06.01-2024.08.31).
 
