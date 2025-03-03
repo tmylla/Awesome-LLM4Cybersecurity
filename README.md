@@ -7,13 +7,13 @@
 </div>
 
 ## 🔥 Updates
-📆[2025-01-21] We have updated the related papers up to **Dec 31st**, with *74* new papers added (2024.08.31-2024.12.31).
+📆[2025-03-03] We have updated the related papers up to **Feb 28th**, with *33* new papers added (2025.01.01-2025.02.28).
+
+📆[2025-01-21] We have updated the related papers up to **Dec 31st**, with *74* new papers added (2024.09.01-2024.12.31).
 
 📆[2025-01-08] We have included **the publication venues** for each paper.
 
 📆[2024-09-21] We have updated the related papers up to **Aug 31st**, with *75* new papers added (2024.06.01-2024.08.31).
-
-📆[2024-06-14] We have updated the related papers up to **May 31st**, with *37* new papers added (2024.03.20-2024.05.31).
 
 <!-- TOC -->
 
@@ -37,6 +37,8 @@
   - [RQ3: What are further research directions about the application of LLMs in cybersecurity?](#rq3-what-are-further-research-directions-about-the-application-of-llms-in-cybersecurity)
     - [Further Research: Agent4Cybersecurity](#further-research-agent4cybersecurity)
 - [📖BibTeX](#bibtex)
+
+<!-- /TOC -->
 
 <!-- /TOC -->
 
@@ -104,6 +106,9 @@ We seek to address three key questions:
 19. AI Cyber Risk Benchmark: Automated Exploitation Capabilities | *arXiv* | 2024.12.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21939)
 
 20. SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity | *arXiv* | 2024.12.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.20787)
+
+21. Primus: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training
+ | *arXiv* | 2025.02.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.11191)
     
 
 
@@ -245,8 +250,16 @@ We seek to address three key questions:
 15. Harnessing Large Language Models for Seed Generation in Greybox Fuzzing | *arXiv* | 2024.11.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.18143)
 
 16. Large Language Model assisted Hybrid Fuzzing | *arXiv* | 2024.12.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.15931)
+    
+17. Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models | *arXiv* | 2025.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.04312)
 
+<!-- 18. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
 
+19. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+
+20. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+    
+21. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
 
 
 #### Vulnerabilities Detection
@@ -364,7 +377,16 @@ We seek to address three key questions:
 56. Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection | *arXiv* | 2024.12.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.12039)
 
 57. Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study | *arXiv* | 2024.12.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.18260)
+    
+58. Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection | *arXiv* | 2025.01.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.02229)
 
+59. CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection | *arXiv* | 2025.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.04510)
+
+60. Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis | *arXiv* | 2025.01.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.14841)
+
+<!-- 61. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+    
+62. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
 
 
 #### Insecure code Generation
@@ -518,6 +540,13 @@ We seek to address three key questions:
 
 42. From Defects to Demands: A Unified, Iterative, and Heuristically Guided LLM-Based Framework for Automated Software Repair and Requirement Realization | *arXiv* | 2024.12.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.05098)
 
+43. LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models | *arXiv* | 2025.01.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.03446)
+
+<!-- 44. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+
+45. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+    
+46. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
 
 
 
@@ -603,6 +632,16 @@ We seek to address three key questions:
 
 40. Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction | *arXiv* | 2024.12.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.02301)
 
+41. Exploring Large Language Models for Semantic Analysis and Categorization of Android Malware | *arXiv* | 2025.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.04848)
+
+42. Confront Insider Threat: Precise Anomaly Detection in Behavior Logs Based on LLM Fine-Tuning | *COLING* | 2024 | [<u>Paper Link</u>](https://aclanthology.org/2025.coling-main.574/)
+
+<!-- 43. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+
+44. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+    
+45. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
+
 
 
 
@@ -680,6 +719,13 @@ We seek to address three key questions:
     
 36. HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing | *arXiv* | 2024.12.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.01778)
 
+37. RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents | *arXiv* | 2025.02.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.16730)
+
+<!-- 38. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+
+39. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+    
+40. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
 
 
 #### Others
@@ -751,6 +797,16 @@ We seek to address three key questions:
 33. Emerging Security Challenges of Large Language Models | *arXiv* | 2024.12.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.17614)
 
 34. Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense | *arXiv* | 2024.12.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.21051)
+
+35. BARTPredict: Empowering IoT Security with LLM-Driven Cyber Threat Prediction | *arXiv* | 2025.01.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.01664)
+
+36. Empowering AIOps: Leveraging Large Language Models for IT Operations Management | *arXiv* | 2025.01.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.12461)
+
+<!-- 37. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+    
+38. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+
+39. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]() -->
     
 
 
@@ -813,27 +869,16 @@ We seek to address three key questions:
     
 27. Multi-Agent Collaboration in Incident Response with Large Language Models | *arXiv* | 2024.12.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.00652)
 
-<!-- 28. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+28. VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework | *arXiv* | 2025.01.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.13411)
 
-29. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+<!-- 29. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
 
-30. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+30. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
 
-31. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+31. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
     
-32. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
+32. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
 
-33. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
-    
-34. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
-
-35. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
-
-36. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
-
-37. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]()
-
-38. title | *arXiv* | 2024.12.02 | [<u>Paper Link</u>]() -->
 
 
 
@@ -848,3 +893,12 @@ We seek to address three key questions:
       primaryClass={cs.CR}
 }
 ```
+
+
+<!-- 29. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+
+30. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+
+31. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]()
+    
+32. title | *arXiv* | 2025.01.02 | [<u>Paper Link</u>]() -->
