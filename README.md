@@ -882,13 +882,15 @@ We seek to address three key questions:
 
 ## 📖BibTeX
 ```
-@misc{zhang2024llms,
-      title={When LLMs Meet Cybersecurity: A Systematic Literature Review}, 
-      author={Jie Zhang and Haoyu Bu and Hui Wen and Yu Chen and Lun Li and Hongsong Zhu},
-      year={2024},
-      eprint={2405.03644},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@article{zhang2025llms,
+  title={When llms meet cybersecurity: A systematic literature review},
+  author={Zhang, Jie and Bu, Haoyu and Wen, Hui and Liu, Yongji and Fei, Haiqiang and Xi, Rongrong and Li, Lun and Yang, Yun and Zhu, Hongsong and Meng, Dan},
+  journal={Cybersecurity},
+  volume={8},
+  number={1},
+  pages={1--41},
+  year={2025},
+  publisher={SpringerOpen}
 }
 ```
 
