@@ -1,0 +1,12 @@
+# Python files
+reformat_output.py
+
+# General
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
