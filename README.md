@@ -25,7 +25,7 @@
 - [🔥 Updates](#-updates)
 - [🌈 Introduction](#-introduction)
 - [🚩 Features](#-features)
-- [🌟 Literatures](#-literatures)
+- [📜 Literatures](#-literatures)
   - [RQ1: How to construct cybersecurity-oriented domain LLMs?](#rq1-how-to-construct-cybersecurity-oriented-domain-llms)
     - [Cybersecurity Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks)
     - [Fine-tuned Domain LLMs for Cybersecurity](#fine-tuned-domain-llms-for-cybersecurity)
@@ -40,7 +40,8 @@
     - [Others](#others)
   - [RQ3: What are further research directions about the application of LLMs in cybersecurity?](#rq3-what-are-further-research-directions-about-the-application-of-llms-in-cybersecurity)
     - [Further Research: Agent4Cybersecurity](#further-research-agent4cybersecurity)
-- [📖BibTeX](#bibtex)
+- [📖 BibTeX](#bibtex)
+- [⭐ Star History](#star-history)
 
 <!-- /TOC -->
 ## 🌈 Introduction
@@ -1256,3 +1257,7 @@ We seek to address three key questions:
   publisher={SpringerOpen}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)](https://www.star-history.com/#tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)
