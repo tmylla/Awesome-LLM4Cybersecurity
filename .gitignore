@@ -1,5 +1,5 @@
 # Python files
-reformat_output.py
+*.py
 
 # General
 .DS_Store
@@ -10,3 +10,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+*.txt
+*.xlsx
+*.csv
