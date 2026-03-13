@@ -68,85 +68,88 @@ We seek to address three key questions:
 
 #### Cybersecurity Evaluation Benchmarks
 
-1. AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence | *arxiv* | 2025.11.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2511.01144)
+1. CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? | *TMLR* | 2026.03.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2603.09452v1)
 
-2. PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities | *arxiv* | 2025.10.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2510.11688)
+2. AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence | *arxiv* | 2025.11.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2511.01144)
 
-3. SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios | *arxiv* | 2025.09.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.22097)
+3. PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities | *arxiv* | 2025.10.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2510.11688)
 
-4. CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning | *arxiv* | 2025.09.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.20166)
+4. SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios | *arxiv* | 2025.09.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.22097)
 
-5. AQUA-LLM: Evaluating Accuracy, Quantization, and Adversarial Robustness Trade-offs in LLMs for Cybersecurity Question Answering | *arxiv* | 2025.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.13514)
+5. CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning | *arxiv* | 2025.09.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.20166)
 
-6. AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models | *arxiv* | 2025.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.09580)
+6. AQUA-LLM: Evaluating Accuracy, Quantization, and Adversarial Robustness Trade-offs in LLMs for Cybersecurity Question Answering | *arxiv* | 2025.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.13514)
 
-7. ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation | *arxiv* | 2025.07.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.14201)
+7. AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models | *arxiv* | 2025.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.09580)
 
-8. DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments | *arxiv* | 2025.06.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.00739)
+8. ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation | *arxiv* | 2025.07.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.14201)
 
-9. CyberGym: Evaluating AI Agents Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | *arxiv* | 2025.06.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.02548)
+9. DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments | *arxiv* | 2025.06.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.00739)
 
-10. DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19973)
+10. CyberGym: Evaluating AI Agents Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | *arxiv* | 2025.06.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.02548)
 
-11. VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19395)
+11. DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19973)
 
-12. BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models | *arxiv* | 2025.05.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07360)
+12. VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19395)
 
-13. The Digital Cybersecurity Expert: How Far Have We Come? | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.11783)
+13. BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models | *arxiv* | 2025.05.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07360)
 
-14. On Benchmarking Code LLMs for Android Malware Analysis | *arxiv* | 2025.04.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.00694)
+14. The Digital Cybersecurity Expert: How Far Have We Come? | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.11783)
 
-15. CVE-Bench: A Benchmark for AI Agents Ability to Exploit Real-World Web Application Vulnerabilities | *arxiv* | 2025.03.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.17332)
+15. On Benchmarking Code LLMs for Android Malware Analysis | *arxiv* | 2025.04.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.00694)
 
-16. Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03586)
+16. CVE-Bench: A Benchmark for AI Agents Ability to Exploit Real-World Web Application Vulnerabilities | *arxiv* | 2025.03.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.17332)
 
-17. AttackSeqBench: Benchmarking Large Language Models Understanding of Sequential Patterns in Cyber Attacks | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03170)
+17. Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03586)
 
-18. CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data | *arxiv* | 2025.03.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.09334)
+18. AttackSeqBench: Benchmarking Large Language Models Understanding of Sequential Patterns in Cyber Attacks | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03170)
 
-19. Primus: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training | *arXiv* | 2025.02.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.11191)
+19. CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data | *arxiv* | 2025.03.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.09334)
 
-20. ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks | *arXiv* | 2025.02.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.05352)
+20. Primus: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training | *arXiv* | 2025.02.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.11191)
 
-21. SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity | *arXiv* | 2024.12.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.20787)
+21. ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks | *arXiv* | 2025.02.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.05352)
 
-22. AI Cyber Risk Benchmark: Automated Exploitation Capabilities | *arXiv* | 2024.12.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21939)
+22. SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity | *arXiv* | 2024.12.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.20787)
 
-23. CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity | *arXiv* | 2024.11.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.16239)
+23. AI Cyber Risk Benchmark: Automated Exploitation Capabilities | *arXiv* | 2024.12.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21939)
 
-24. AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset | *arXiv* | 2024.08.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.05149)
+24. CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity | *arXiv* | 2024.11.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.16239)
 
-25. CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | *arXiv* | 2024.08.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.01605)
+25. AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset | *arXiv* | 2024.08.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.05149)
 
-26. eyeballvul: a future-proof benchmark for vulnerability detection in the wild | *arXiv* | 2024.07.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08708)
+26. CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | *arXiv* | 2024.08.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.01605)
 
-27. NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05590)
+27. eyeballvul: a future-proof benchmark for vulnerability detection in the wild | *arXiv* | 2024.07.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08708)
 
-28. SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory | *arXiv* | 2024.05.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.20441)
+28. NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05590)
 
-29. Assessing Cybersecurity Vulnerabilities in Code Large Language Models | *arXiv* | 2024.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.18567)
+29. SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory | *arXiv* | 2024.05.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.20441)
 
-30. Can LLMs Understand Computer Networks? Towards a Virtual System Administrator | *arXiv* | 2024.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.12689)
+30. Assessing Cybersecurity Vulnerabilities in Code Large Language Models | *arXiv* | 2024.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.18567)
 
-31. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations | *IEEE/ACM International Conference on Mining Software Repositories* | 2023.03.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2303.09384)
+31. Can LLMs Understand Computer Networks? Towards a Virtual System Administrator | *arXiv* | 2024.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.12689)
 
-32. OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models | *arXiv* | 2024.02.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.07637)
+32. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations | *IEEE/ACM International Conference on Mining Software Repositories* | 2023.03.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2303.09384)
 
-33. Can llms patch security issues? | *arXiv* | 2024.02.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.00024)
+33. OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models | *arXiv* | 2024.02.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.07637)
 
-34. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity | *arXiv* | 2024.02.12 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.07688)
+34. Can llms patch security issues? | *arXiv* | 2024.02.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.00024)
 
-35. DebugBench: Evaluating Debugging Capability of Large Language Models | *ACL Findings* | 2024.01.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.04621)
+35. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity | *arXiv* | 2024.02.12 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.07688)
 
-36. Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. | *Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security* | 2022.11.09 | [<u>Paper Link</u>](https://dl.acm.org/doi/10.1145/3549035.3561184)
+36. DebugBench: Evaluating Debugging Capability of Large Language Models | *ACL Findings* | 2024.01.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.04621)
 
-37. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security | *arXiv* | 2023.12.26 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.15838v1)
+37. Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. | *Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security* | 2022.11.09 | [<u>Paper Link</u>](https://dl.acm.org/doi/10.1145/3549035.3561184)
 
-38. Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models | *arXiv* | 2023.12.07 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.04724)
+38. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security | *arXiv* | 2023.12.26 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.15838v1)
 
-39. An empirical study of netops capability of pre-trained large language models. | *arXiv* | 2023.09.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.05557)
+39. Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models | *arXiv* | 2023.12.07 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.04724)
 
-40. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models | *Github* | 2023 | [<u>Paper Link</u>](https://xuanwuai.github.io/SecEval/)
+40. An empirical study of netops capability of pre-trained large language models. | *arXiv* | 2023.09.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.05557)
+
+41. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models | *Github* | 2023 | [<u>Paper Link</u>](https://xuanwuai.github.io/SecEval/)
+
     
 
 #### Fine-tuned Domain LLMs for Cybersecurity
