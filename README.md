@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Categories-11+-orange">
 </div>
 
----
 
 <div align="center">
 
@@ -18,7 +17,7 @@
 
 </div>
 
----
+
 
 
 ## Updates
@@ -108,8 +107,7 @@
 
 ## Literatures
 
-<details>
-<summary><b>📊 RQ1: How to construct cybersecurity-oriented domain LLMs?</b> <i>(73 papers)</i></summary>
+### 📊 RQ1: How to construct cybersecurity-oriented domain LLMs? *(73 papers)*
 
 
 #### Cybersecurity Evaluation Benchmarks
@@ -275,12 +273,8 @@
 
 </div>
 
-</details>
 
-
-
-<details>
-<summary><b>🎯 RQ2: What are the potential applications of LLMs in cybersecurity?</b> <i>(514 papers)</i></summary>
+### 🎯 RQ2: What are the potential applications of LLMs in cybersecurity? *(514 papers)*
 
 
 #### Threat Intelligence
@@ -1406,11 +1400,8 @@
 
 </div>
 
-</details>
 
-
-<details>
-<summary><b>🤖 RQ3: What are further research directions about the application of LLMs in cybersecurity?</b> <i>(56 papers)</i></summary>
+### 🤖 RQ3: What are further research directions about the application of LLMs in cybersecurity? *(56 papers)*
 
 
 #### Further Research: Agent4Cybersecurity
