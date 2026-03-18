@@ -647,7 +647,7 @@
 
 
 
-#### Program/Vulnerability Repair
+#### Program or Vulnerability Repair
 
 1. Vul-R2: A Reasoning LLM for Automated Vulnerability Repair | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.05480)
 
