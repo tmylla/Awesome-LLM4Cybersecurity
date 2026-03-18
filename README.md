@@ -47,7 +47,7 @@
 ## Brief Introduction
 
 
-### 📊 Paper Distribution by Category
+#### 📊 Paper Distribution by Category
 
 | Category | Papers | Percentage | Trend |
 |----------|--------|------------|-------|
@@ -62,47 +62,45 @@
 | 🔧 Fine-tuned LLMs | 32 | 5.2% | 📊 Stable |
 | 🔍 FUZZ | 25 | 4.1% | 📊 Stable |
 
-**Total: 612+ papers**
 
 
-
-### 🌟 Key Highlights
+#### 🌟 Key Highlights
 
 - **Fastest Growing**: LLM Assisted Attack (83 papers)
 - **Hot Topic**: Vulnerability Detection (94 papers)
 - **Latest Trend**: Agent4Cybersecurity (56 papers)
 
 
-### 📊 RQ1: How to construct cybersecurity-oriented domain LLMs? *(73 papers)*
+#### 📊 RQ1: How to construct cybersecurity-oriented domain LLMs? *(73 papers)*
 
 
-| [Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks) | [Fine-tuned LLMs](#rq1-fine-tuned-domain-llms-for-cybersecurity) |
+| [Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks) | [Fine-tuned LLMs](#fine-tuned-domain-llms-for-cybersecurity) |
 |:---:|:---:|
 | 41 papers | 32 papers |
 
 
 
 
-### 🎯 RQ2: What are the potential applications of LLMs in cybersecurity? *(514 papers)*
+#### 🎯 RQ2: What are the potential applications of LLMs in cybersecurity? *(514 papers)*
 
 
-| [Threat Intel](#rq2-threat-intelligence) | [FUZZ](#rq2-fuzz) | [Vuln Detection](#rq2-vulnerability-detection) |
+| [Threat Intel](#threat-intelligence) | [FUZZ](#fuzz) | [Vuln Detection](#vulnerability-detection) |
 |:---:|:---:|:---:|
 | 46 papers | 25 papers | 94 papers |
 
-| [Program Repair](#rq2-program-or-vulnerability-repair) | [Insecure Code](#rq2-insecure-code-generation) | [Defense](#rq2-llm-assisted-defense) |
+| [Program Repair](#program-or-vulnerability-repair) | [Insecure Code](#insecure-code-generation) | [Defense](#llm-assisted-defense) |
 |:---:|:---:|:---:|
 | 66 papers | 31 papers | 113 papers |
 
-| [Attack](#rq2-llm-assisted-attack) | [Others](#rq2-others) |
+| [Attack](#llm-assisted-attack) | [Others](#others) |
 |:---:|:---:|
 | 83 papers | 56 papers |
 
 
 
-### 🤖 RQ3: What are further research directions?
+#### 🤖 RQ3: What are further research directions?
 
-| [Agent4Cybersecurity](#rq3-further-research-agent4cybersecurity) |
+| [Agent4Cybersecurity](#further-research-agent4cybersecurity) |
 |:---:|
 | 56 papers |
 
@@ -113,11 +111,8 @@
 <details>
 <summary><b>📊 RQ1: How to construct cybersecurity-oriented domain LLMs?</b> <i>(73 papers)</i></summary>
 
-<div style="margin-left: 24px;">
 
-<details>
-<summary><b>🎯 Cybersecurity Evaluation Benchmarks</b> <i>(41 papers)</i></summary>
-
+#### Cybersecurity Evaluation Benchmarks
 
 1. CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? | *TMLR* | 2026.03.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2603.09452v1)
 
@@ -202,12 +197,13 @@
 41. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models | *Github* | 2023 | [<u>Paper Link</u>](https://xuanwuai.github.io/SecEval/)
 
     
+<div align="right">
 
-</details>
+<a href="#top">🔝 Back to Top</a>
 
-<details>
-<summary><b>🔧 Fine-tuned Domain LLMs for Cybersecurity</b> <i>(32 papers)</i></summary>
+</div>
 
+#### Fine-tuned Domain LLMs for Cybersecurity
 
 1. RedSage: A Cybersecurity Generalist LLM | *arxiv* | 2026.01.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.22159)
 
@@ -273,20 +269,21 @@
 
 32. SecureFalcon: The Next Cyber Reasoning System for Cyber Security | *arXiv* | 2023.07.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.06616)
 
+<div align="right">
 
+<a href="#top">🔝 Back to Top</a>
 
-</details>
 </div>
+
 </details>
+
+
 
 <details>
 <summary><b>🎯 RQ2: What are the potential applications of LLMs in cybersecurity?</b> <i>(514 papers)</i></summary>
 
-<div style="margin-left: 24px;">
 
-<details>
-<summary><b>🎯 Threat Intelligence</b> <i>(46 papers)</i></summary>
-
+#### Threat Intelligence
 
 1. Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs | *arxiv* | 2026.01.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2602.00513)
 
@@ -381,13 +378,15 @@
 46. Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild | *arXiv* | 2023.07.14 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.10214)
 
 
+<div align="right">
+
+<a href="#top">🔝 Back to Top</a>
+
+</div>
 
 
-</details>
 
-<details>
-<summary><b>🔍 FUZZ</b> <i>(25 papers)</i></summary>
-
+#### FUZZ
 
 1. LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models | *arxiv* | 2025.10.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.10179)
 
@@ -440,12 +439,14 @@
 25. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT | *arXiv* | 2023.04.04 | [<u>Paper Link</u>](https://arxiv.org/abs/2304.02014)
 
 
+<div align="right">
+
+<a href="#top">🔝 Back to Top</a>
+
+</div>
 
 
-</details>
-
-<details>
-<summary><b>🐛 Vulnerability Detection</b> <i>(94 papers)</i></summary>
+#### Vulnerability Detection
 
 
 1. LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet? | *arxiv* | 2025.10.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.14700)
@@ -638,11 +639,15 @@
     
 
 
-</details>
+<div align="right">
 
-<details>
-<summary><b>🔨 Program/Vulnerability Repair</b> <i>(66 papers)</i></summary>
+<a href="#top">🔝 Back to Top</a>
 
+</div>
+
+
+
+#### Program/Vulnerability Repair
 
 1. Vul-R2: A Reasoning LLM for Automated Vulnerability Repair | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.05480)
 
@@ -777,11 +782,14 @@
 66. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs | *arXiv* | 2023.11.06 | [<u>Paper Link</u>](https://arxiv.org/abs/2111.03922)
 
 
+<div align="right">
 
-</details>
+<a href="#top">🔝 Back to Top</a>
 
-<details>
-<summary><b>⚠️ Insecure code Generation</b> <i>(31 papers)</i></summary>
+</div>
+
+
+#### Insecure code Generation
 
 
 > Since this part has evolved to focus more on Code LLM research, it is no longer actively maintained.
@@ -850,11 +858,15 @@
 
 
 
+<div align="right">
 
-</details>
+<a href="#top">🔝 Back to Top</a>
 
-<details>
-<summary><b>🛡️ LLM Assisted Defense</b> <i>(113 papers)</i></summary>
+</div>
+
+
+
+#### LLM Assisted Defense
 
 
 1. Towards a Cognitive-Support Tool for Threat Hunters | *arxiv* | 2026.01.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2602.00432)
@@ -1085,10 +1097,15 @@
 
 
 
-</details>
+<div align="right">
 
-<details>
-<summary><b>⚔️ LLM Assisted Attack</b> <i>(83 papers)</i></summary>
+<a href="#top">🔝 Back to Top</a>
+
+</div>
+
+
+
+#### LLM Assisted Attack
 
 
 1. Lightweight LLMs for Network Attack Detection in IoT Networks | *arxiv* | 2026.01.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.15269)
@@ -1259,11 +1276,15 @@
 
 
 
+<div align="right">
 
-</details>
+<a href="#top">🔝 Back to Top</a>
 
-<details>
-<summary><b>📦 Others</b> <i>(56 papers)</i></summary>
+</div>
+
+
+
+#### Others
 
 
 1. Towards Cybersecurity Superintelligence: from AI-guided humans to human-guided AI | *arxiv* | 2026.01.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.14614)
@@ -1379,8 +1400,12 @@
 56. An LLM-based Framework for Fingerprinting Internet-connected Devices | *ACM on Internet Measurement Conference* | 2023.10.24 | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3618257.3624845)
 
 
-</details>
+<div align="right">
+
+<a href="#top">🔝 Back to Top</a>
+
 </div>
+
 </details>
 
 
@@ -1388,10 +1413,7 @@
 <summary><b>🤖 RQ3: What are further research directions about the application of LLMs in cybersecurity?</b> <i>(56 papers)</i></summary>
 
 
-<div style="margin-left: 24px;">
-
-<details>
-<summary><b>Further Research: Agent4Cybersecurity</b> <i>(56 papers)</i></summary>
+#### Further Research: Agent4Cybersecurity
 
 
 1. A Survey of Agentic AI and Cybersecurity: Challenges, Opportunities and Use-case Prototypes | *arxiv* | 2026.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.05293)
@@ -1506,22 +1528,17 @@
 
 56. Cybersecurity Issues and Challenges | *Handbook of research on cybersecurity issues and challenges for business and FinTech applications* | 2022.08 | [<u>Paper Link</u>](https://www.researchgate.net/publication/367250373_Cybersecurity_Issues_and_Challenges)
 
-</details>
 
-
-</div>
-
-</details>
-
-
-
----
 
 <div align="right">
 
 <a href="#top">🔝 Back to Top</a>
 
 </div>
+
+</details>
+
+
 
 ## BibTeX
 ```
