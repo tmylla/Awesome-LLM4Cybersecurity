@@ -13,3 +13,5 @@ Thumbs.db
 *.txt
 *.xlsx
 *.csv
+
+*.backup

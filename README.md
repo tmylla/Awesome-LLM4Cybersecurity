@@ -1,12 +1,33 @@
-
-
-## <div align="center">When LLMs Meet Cybersecurity: A Systematic Literature Review<div> 
+<a name="top"></a>
+## <div align="center">When LLMs Meet Cybersecurity: A Systematic Literature Review<div>
 
 <div align="center">
 <a href="https://arxiv.org/abs/2405.03644"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:LLM4Cybersecurity&color=red&logo=arxiv"></a> &ensp;
+<img src="https://img.shields.io/badge/Papers-612+-blue"> &ensp;
+<img src="https://img.shields.io/badge/Updated-2026.03.18-green"> &ensp;
+<img src="https://img.shields.io/badge/Categories-11+-orange">
 </div>
 
-## 🔥 Updates
+---
+
+<div align="center">
+
+### 🔍 Explore 612+ Papers Across 11 Research Categories
+
+**📊 RQ1: Domain LLMs** | **🎯 RQ2: Applications** | **🤖 RQ3: Future Directions**
+
+</div>
+
+---
+
+
+## Updates
+
+📆[LATEST] We have updated the related papers up to **2026/01/31**, with *80* new papers added (2025.08.31-2026.01.31).
+
+<details>
+<summary><b> Changelog (Click to expand)</b></summary>
+
 📆[2026-02-09] We have updated the related papers up to **2026/01/31**, with *80* new papers added (2025.08.31-2026.01.31).
 
 📆[2025-11-17] We have updated the related papers up to **2025/08/31**, with *176* new papers added (2025.03.01-2025.08.31).
@@ -19,54 +40,84 @@
 
 📆[2024-09-21] We have updated the related papers up to **2024/08/31**, with *75* new papers added (2024.06.01-2024.08.31).
 
-<!-- TOC -->
 
-- [When LLMs Meet Cybersecurity: A Systematic Literature Review](#when-llms-meet-cybersecurity-a-systematic-literature-review)
-- [🔥 Updates](#-updates)
-- [🌈 Introduction](#-introduction)
-- [🚩 Features](#-features)
-- [📜 Literatures](#-literatures)
-  - [RQ1: How to construct cybersecurity-oriented domain LLMs?](#rq1-how-to-construct-cybersecurity-oriented-domain-llms)
-    - [Cybersecurity Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks)
-    - [Fine-tuned Domain LLMs for Cybersecurity](#fine-tuned-domain-llms-for-cybersecurity)
-  - [RQ2: What are the potential applications of LLMs in cybersecurity?](#rq2-what-are-the-potential-applications-of-llms-in-cybersecurity)
-    - [Threat Intelligence](#threat-intelligence)
-    - [FUZZ](#fuzz)
-    - [Vulnerability Detection](#vulnerability-detection)
-    - [Program/Vulnerability Repair](#program-or-vulnerability-repair)
-    - [Insecure code Generation](#insecure-code-generation)
-    - [LLM Assisted Defense](#llm-assisted-defense)
-    - [LLM Assisted Attack](#llm-assisted-attack)
-    - [Others](#others)
-  - [RQ3: What are further research directions about the application of LLMs in cybersecurity?](#rq3-what-are-further-research-directions-about-the-application-of-llms-in-cybersecurity)
-    - [Further Research: Agent4Cybersecurity](#further-research-agent4cybersecurity)
-- [📖 BibTeX](#bibtex)
-- [⭐ Star History](#star-history)
-
-<!-- /TOC -->
-## 🌈 Introduction
-We are excited to present "When LLMs Meet Cybersecurity: A Systematic Literature Review," a comprehensive overview of LLM applications in cybersecurity.
-
-We seek to address three key questions: 
-- RQ1: How to construct cyber security-oriented domain LLMs?
-- RQ2: What are the potential applications of LLMs in cybersecurity?
-- RQ3: What are the existing challenges and further research directions about the application of LLMs in cybersecurity?
-
-![table_1](figs/table1.png)
+</details>
 
 
-## 🚩 Features
-
-(2024.08.20) Our study encompasses an analysis of over 300 works, spanning across 25+ LLMs and more than 10 downstream scenarios.
-
-![statistic](figs/statistic.png)
+## Brief Introduction
 
 
-## 🌟 Literatures
+### 📊 Paper Distribution by Category
 
-### RQ1: How to construct cybersecurity-oriented domain LLMs?
+| Category | Papers | Percentage | Trend |
+|----------|--------|------------|-------|
+| 🛡️ LLM Assisted Defense | 113 | 18.5% | 📈 Growing  |
+| 🐛 Vulnerability Detection | 94 | 15.4% | 📈 Growing |
+| ⚔️ LLM Assisted Attack | 83 | 13.6% | 🔥 Hot |
+| 🔨 Program/Vulnerability Repair | 66 | 10.8% | 📊 Stable |
+| 📦 Others | 56 | 9.2% | 📊 Stable |
+| 🤖 Agent4Cybersecurity | 56 | 9.2% | 🚀 Emerging  |
+| 🎯 Threat Intelligence | 46 | 7.5% | 📊 Stable |
+| 📊 Evaluation Benchmarks | 41 | 6.7% | 📊 Stable |
+| 🔧 Fine-tuned LLMs | 32 | 5.2% | 📊 Stable |
+| 🔍 FUZZ | 25 | 4.1% | 📊 Stable |
 
-#### Cybersecurity Evaluation Benchmarks
+**Total: 612+ papers**
+
+
+
+### 🌟 Key Highlights
+
+- **Fastest Growing**: LLM Assisted Attack (83 papers)
+- **Hot Topic**: Vulnerability Detection (94 papers)
+- **Latest Trend**: Agent4Cybersecurity (56 papers)
+
+
+### 📊 RQ1: How to construct cybersecurity-oriented domain LLMs? *(73 papers)*
+
+
+| [Evaluation Benchmarks](#cybersecurity-evaluation-benchmarks) | [Fine-tuned LLMs](#rq1-fine-tuned-domain-llms-for-cybersecurity) |
+|:---:|:---:|
+| 41 papers | 32 papers |
+
+
+
+
+### 🎯 RQ2: What are the potential applications of LLMs in cybersecurity? *(514 papers)*
+
+
+| [Threat Intel](#rq2-threat-intelligence) | [FUZZ](#rq2-fuzz) | [Vuln Detection](#rq2-vulnerability-detection) |
+|:---:|:---:|:---:|
+| 46 papers | 25 papers | 94 papers |
+
+| [Program Repair](#rq2-program-or-vulnerability-repair) | [Insecure Code](#rq2-insecure-code-generation) | [Defense](#rq2-llm-assisted-defense) |
+|:---:|:---:|:---:|
+| 66 papers | 31 papers | 113 papers |
+
+| [Attack](#rq2-llm-assisted-attack) | [Others](#rq2-others) |
+|:---:|:---:|
+| 83 papers | 56 papers |
+
+
+
+### 🤖 RQ3: What are further research directions?
+
+| [Agent4Cybersecurity](#rq3-further-research-agent4cybersecurity) |
+|:---:|
+| 56 papers |
+
+
+
+## Literatures
+
+<details>
+<summary><b>📊 RQ1: How to construct cybersecurity-oriented domain LLMs?</b> <i>(73 papers)</i></summary>
+
+<div style="margin-left: 24px;">
+
+<details>
+<summary><b>🎯 Cybersecurity Evaluation Benchmarks</b> <i>(41 papers)</i></summary>
+
 
 1. CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? | *TMLR* | 2026.03.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2603.09452v1)
 
@@ -152,7 +203,11 @@ We seek to address three key questions:
 
     
 
-#### Fine-tuned Domain LLMs for Cybersecurity
+</details>
+
+<details>
+<summary><b>🔧 Fine-tuned Domain LLMs for Cybersecurity</b> <i>(32 papers)</i></summary>
+
 
 1. RedSage: A Cybersecurity Generalist LLM | *arxiv* | 2026.01.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.22159)
 
@@ -220,9 +275,18 @@ We seek to address three key questions:
 
 
 
-### RQ2: What are the potential applications of LLMs in cybersecurity?
+</details>
+</div>
+</details>
 
-#### Threat Intelligence
+<details>
+<summary><b>🎯 RQ2: What are the potential applications of LLMs in cybersecurity?</b> <i>(514 papers)</i></summary>
+
+<div style="margin-left: 24px;">
+
+<details>
+<summary><b>🎯 Threat Intelligence</b> <i>(46 papers)</i></summary>
+
 
 1. Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs | *arxiv* | 2026.01.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2602.00513)
 
@@ -319,7 +383,11 @@ We seek to address three key questions:
 
 
 
-#### FUZZ
+</details>
+
+<details>
+<summary><b>🔍 FUZZ</b> <i>(25 papers)</i></summary>
+
 
 1. LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models | *arxiv* | 2025.10.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.10179)
 
@@ -374,7 +442,11 @@ We seek to address three key questions:
 
 
 
-#### Vulnerability Detection
+</details>
+
+<details>
+<summary><b>🐛 Vulnerability Detection</b> <i>(94 papers)</i></summary>
+
 
 1. LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet? | *arxiv* | 2025.10.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.14700)
 
@@ -566,7 +638,11 @@ We seek to address three key questions:
     
 
 
-#### Program or Vulnerability Repair
+</details>
+
+<details>
+<summary><b>🔨 Program/Vulnerability Repair</b> <i>(66 papers)</i></summary>
+
 
 1. Vul-R2: A Reasoning LLM for Automated Vulnerability Repair | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.05480)
 
@@ -702,7 +778,11 @@ We seek to address three key questions:
 
 
 
-#### Insecure code Generation 
+</details>
+
+<details>
+<summary><b>⚠️ Insecure code Generation</b> <i>(31 papers)</i></summary>
+
 
 > Since this part has evolved to focus more on Code LLM research, it is no longer actively maintained.
 
@@ -771,7 +851,11 @@ We seek to address three key questions:
 
 
 
-#### LLM Assisted Defense
+</details>
+
+<details>
+<summary><b>🛡️ LLM Assisted Defense</b> <i>(113 papers)</i></summary>
+
 
 1. Towards a Cognitive-Support Tool for Threat Hunters | *arxiv* | 2026.01.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2602.00432)
 
@@ -1001,7 +1085,11 @@ We seek to address three key questions:
 
 
 
-#### LLM Assisted Attack
+</details>
+
+<details>
+<summary><b>⚔️ LLM Assisted Attack</b> <i>(83 papers)</i></summary>
+
 
 1. Lightweight LLMs for Network Attack Detection in IoT Networks | *arxiv* | 2026.01.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.15269)
 
@@ -1172,7 +1260,11 @@ We seek to address three key questions:
 
 
 
-#### Others
+</details>
+
+<details>
+<summary><b>📦 Others</b> <i>(56 papers)</i></summary>
+
 
 1. Towards Cybersecurity Superintelligence: from AI-guided humans to human-guided AI | *arxiv* | 2026.01.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.14614)
 
@@ -1287,11 +1379,20 @@ We seek to address three key questions:
 56. An LLM-based Framework for Fingerprinting Internet-connected Devices | *ACM on Internet Measurement Conference* | 2023.10.24 | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3618257.3624845)
 
 
+</details>
+</div>
+</details>
 
 
-### RQ3: What are further research directions about the application of LLMs in cybersecurity?
+<details>
+<summary><b>🤖 RQ3: What are further research directions about the application of LLMs in cybersecurity?</b> <i>(56 papers)</i></summary>
 
-#### Further Research: Agent4Cybersecurity
+
+<div style="margin-left: 24px;">
+
+<details>
+<summary><b>Further Research: Agent4Cybersecurity</b> <i>(56 papers)</i></summary>
+
 
 1. A Survey of Agentic AI and Cybersecurity: Challenges, Opportunities and Use-case Prototypes | *arxiv* | 2026.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.05293)
 
@@ -1405,10 +1506,24 @@ We seek to address three key questions:
 
 56. Cybersecurity Issues and Challenges | *Handbook of research on cybersecurity issues and challenges for business and FinTech applications* | 2022.08 | [<u>Paper Link</u>](https://www.researchgate.net/publication/367250373_Cybersecurity_Issues_and_Challenges)
 
+</details>
+
+
+</div>
+
+</details>
 
 
 
-## 📖BibTeX
+---
+
+<div align="right">
+
+<a href="#top">🔝 Back to Top</a>
+
+</div>
+
+## BibTeX
 ```
 @article{zhang2025llms,
   title={When llms meet cybersecurity: A systematic literature review},
