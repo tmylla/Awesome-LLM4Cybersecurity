@@ -82,6 +82,7 @@ The complete literature review with 612+ papers has been moved to a separate fil
   - [Others](LITERATURES.md#others) (56 papers)
 
 - **[RQ3: Future Research Directions](LITERATURES.md#-rq3-what-are-further-research-directions-about-the-application-of-llms-in-cybersecurity-56-papers)**
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
   - [Agent4Cybersecurity](LITERATURES.md#further-research-agent4cybersecurity) (56 papers)
 
 
