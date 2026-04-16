@@ -45,7 +45,7 @@
 
 | RQ | Category | Papers | Percentage | Trend |
 |:---:|----------|--------|:----------:|:-------:|
-| **RQ1** | 📊 [Evaluation Benchmarks](LITERATURES.md#cybersecurity-evaluation-benchmarks) | 41 | 6.7% | 📊 Stable |
+| **RQ1** | 📊 [Evaluation Benchmarks](LITERATURES.md#cybersecurity-evaluation-benchmarks) | 42 | 6.8% | 📊 Stable |
 | | 🔧 [Fine-tuned LLMs](LITERATURES.md#fine-tuned-domain-llms-for-cybersecurity) | 32 | 5.2% | 📊 Stable |
 | **RQ2** | 🛡️ [LLM Assisted Defense](LITERATURES.md#llm-assisted-defense) | 113 | 18.5% | 📈 Growing |
 | | 🐛 [Vulnerability Detection](LITERATURES.md#vulnerability-detection) | 94 | 15.4% | 📈 Growing |
@@ -67,8 +67,8 @@ The complete literature review with 612+ papers has been moved to a separate fil
 
 ### Quick Links by Research Question:
 
-- **[RQ1: Domain LLMs Construction](LITERATURES.md#-rq1-how-to-construct-cybersecurity-oriented-domain-llmss-73-papers)**
-  - [Cybersecurity Evaluation Benchmarks](LITERATURES.md#cybersecurity-evaluation-benchmarks) (41 papers)
+- **[RQ1: Domain LLMs Construction](LITERATURES.md#-rq1-how-to-construct-cybersecurity-oriented-domain-llmss-74-papers)**
+  - [Cybersecurity Evaluation Benchmarks](LITERATURES.md#cybersecurity-evaluation-benchmarks) (42 papers)
   - [Fine-tuned Domain LLMs](LITERATURES.md#fine-tuned-domain-llms-for-cybersecurity) (32 papers)
 
 - **[RQ2: LLM Applications in Cybersecurity](LITERATURES.md#-rq2-what-are-the-potential-applications-of-llms-in-cybersecurity-514-papers)**
