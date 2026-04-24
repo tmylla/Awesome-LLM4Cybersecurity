@@ -343,193 +343,195 @@
 #### Vulnerability Detection
 
 
-1. LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet? | *arxiv* | 2025.10.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.14700)
+1. An Outside-In Replication of Project Glasswing: Mythos Research Edition — a sink-guided, agentic pipeline for defensive vulnerability discovery with a general-purpose frontier model | *Research Report* | 2026.04.24 | [<u>Paper Link</u>](https://doi.org/10.5281/zenodo.19727857) | [<u>Code</u>](https://github.com/Keyvanhardani/mythos-research)
 
-2. Synergizing Static Analysis with Large Language Models for Vulnerability Discovery and beyond | *arxiv* | 2025.09.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.15433)
+2. LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet? | *arxiv* | 2025.10.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.14700)
 
-3. SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks | *arxiv* | 2025.06.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11791)
+3. Synergizing Static Analysis with Large Language Models for Vulnerability Discovery and beyond | *arxiv* | 2025.09.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.15433)
 
-4. Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection | *arxiv* | 2025.08.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.04448)
+4. SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks | *arxiv* | 2025.06.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11791)
 
-5. A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models | *arxiv* | 2025.07.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.22659)
+5. Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection | *arxiv* | 2025.08.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.04448)
 
-6. Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses? | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21817)
+6. A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models | *arxiv* | 2025.07.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.22659)
 
-7. LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models | *USENIX* | 2025.07.22 | [<u>Paper Link</u>](https://arxiv.org/abs/2507.16585)
+7. Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses? | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.21817)
 
-8. Revisiting Pre-trained Language Models for Vulnerability Detection | *arxiv* | 2025.07.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.16887)
+8. LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models | *USENIX* | 2025.07.22 | [<u>Paper Link</u>](https://arxiv.org/abs/2507.16585)
 
-9. MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning | *arxiv* | 2025.07.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.10898)
+9. Revisiting Pre-trained Language Models for Vulnerability Detection | *arxiv* | 2025.07.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.16887)
 
-10. Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study | *arxiv* | 2025.06.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11561)
+10. MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning | *arxiv* | 2025.07.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.10898)
 
-11. VulStamp: Vulnerability Assessment using Large Language Model | *arxiv* | 2025.06.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11484)
+11. Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study | *arxiv* | 2025.06.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11561)
 
-12. Large Language Models for Multilingual Vulnerability Detection: How Far Are We? | *arxiv* | 2025.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.07503)
+12. VulStamp: Vulnerability Assessment using Large Language Model | *arxiv* | 2025.06.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.11484)
 
-13. Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data | *arxiv* | 2025.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.07390)
+13. Large Language Models for Multilingual Vulnerability Detection: How Far Are We? | *arxiv* | 2025.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.07503)
 
-14. Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.10961)
+14. Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data | *arxiv* | 2025.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.07390)
 
-15. A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection | *arxiv* | 2025.05.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07376)
+15. Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents | *arxiv* | 2025.05.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.10961)
 
-16. Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection | *arxiv* | 2025.05.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.05600)
+16. A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection | *arxiv* | 2025.05.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07376)
 
-17. LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs | *arxiv* | 2025.04.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21770)
+17. Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection | *arxiv* | 2025.05.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.05600)
 
-18. LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection | *arxiv* | 2025.04.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.18423)
+18. LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs | *arxiv* | 2025.04.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21770)
 
-19. Context-Enhanced Vulnerability Detection Based on Large Language Model | *arxiv* | 2025.04.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.16877)
+19. LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection | *arxiv* | 2025.04.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.18423)
 
-20. Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach | *arxiv* | 2025.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.16057)
+20. Context-Enhanced Vulnerability Detection Based on Large Language Model | *arxiv* | 2025.04.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.16877)
 
-21. Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask | *arxiv* | 2025.04.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.13474)
+21. Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach | *arxiv* | 2025.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.16057)
 
-22. MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.12234)
+22. Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask | *arxiv* | 2025.04.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.13474)
 
-23. Malware analysis assisted by AI with R2AI | *arxiv* | 2025.04.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.07574)
+23. MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.12234)
 
-24. Large Language Model (LLM) for Software Security: Code Analysis, Malware Analysis, Reverse Engineering | *arxiv* | 2025.04.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.07137)
+24. Malware analysis assisted by AI with R2AI | *arxiv* | 2025.04.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.07574)
 
-25. CVE-Bench: Benchmarking LLM-based Software Engineering Agent`s Ability to Repair Real-World CVE Vulnerabilities | *NAACL* | 2025.03 | [<u>Paper Link</u>](https://aclanthology.org/2025.naacl-long.212/)
+25. Large Language Model (LLM) for Software Security: Code Analysis, Malware Analysis, Reverse Engineering | *arxiv* | 2025.04.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.07137)
 
-26. Reasoning with LLMs for Zero-Shot Vulnerability Detection | *arxiv* | 2025.03.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.17885)
+26. CVE-Bench: Benchmarking LLM-based Software Engineering Agent`s Ability to Repair Real-World CVE Vulnerabilities | *NAACL* | 2025.03 | [<u>Paper Link</u>](https://aclanthology.org/2025.naacl-long.212/)
 
-27. Vulnerability Detection: From Formal Verification to Large Language Models and Hybrid Approaches: A Comprehensive Overview | *arxiv* | 2025.03.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.10784)
+27. Reasoning with LLMs for Zero-Shot Vulnerability Detection | *arxiv* | 2025.03.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.17885)
 
-28. CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection | *arxiv* | 2025.03.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.09433)
+28. Vulnerability Detection: From Formal Verification to Large Language Models and Hybrid Approaches: A Comprehensive Overview | *arxiv* | 2025.03.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.10784)
 
-29. Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection | *arxiv* | 2025.03.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.01449)
+29. CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection | *arxiv* | 2025.03.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.09433)
 
-30. CVE-LLM : Ontology-Assisted Automatic Vulnerability Evaluation Using Large Language Models | *arXiv* | 2025.02.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.15932)
+30. Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection | *arxiv* | 2025.03.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.01449)
 
-31. Large Language Models in Software Security: A Survey of Vulnerability Detection Techniques and Insights | *arXiv* | 2025.02.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.07049)
+31. CVE-LLM : Ontology-Assisted Automatic Vulnerability Evaluation Using Large Language Models | *arXiv* | 2025.02.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.15932)
 
-32. Large Language Models for In-File Vulnerability Localization Can Be "Lost in the End" | *arXiv* | 2025.02.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.06898)
+32. Large Language Models in Software Security: A Survey of Vulnerability Detection Techniques and Insights | *arXiv* | 2025.02.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.07049)
 
-33. Streamlining Security Vulnerability Triage with Large Language Models | *arXiv* | 2025.01.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.18908)
+33. Large Language Models for In-File Vulnerability Localization Can Be "Lost in the End" | *arXiv* | 2025.02.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.06898)
 
-34. Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows | *arXiv* | 2025.01.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.00064)
+34. Streamlining Security Vulnerability Triage with Large Language Models | *arXiv* | 2025.01.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.18908)
 
-35. Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis | *arXiv* | 2025.01.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.14841)
+35. Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows | *arXiv* | 2025.01.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.00064)
 
-36. CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection | *arXiv* | 2025.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.04510)
+36. Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis | *arXiv* | 2025.01.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.14841)
 
-37. Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection | *arXiv* | 2025.01.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.02229)
+37. CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection | *arXiv* | 2025.01.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.04510)
 
-38. Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study | *arXiv* | 2024.12.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.18260)
+38. Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection | *arXiv* | 2025.01.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.02229)
 
-39. Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection | *arXiv* | 2024.12.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.12039)
+39. Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study | *arXiv* | 2024.12.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.18260)
 
-40. ChatNVD: Advancing Cybersecurity Vulnerability Assessment with Large Language Models | *arXiv* | 2024.12.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.04756)
+40. Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection | *arXiv* | 2024.12.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.12039)
 
-41. CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics | *arXiv* | 2024.11.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.17274)
+41. ChatNVD: Advancing Cybersecurity Vulnerability Assessment with Large Language Models | *arXiv* | 2024.12.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.04756)
 
-42. EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code | *arXiv* | 2024.11.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.16561)
+42. CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics | *arXiv* | 2024.11.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.17274)
 
-43. CryptoFormalEval: Integrating LLMs and Formal Verification for Automated Cryptographic Protocol Vulnerability Detection | *arXiv* | 2024.11.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13627)
+43. EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code | *arXiv* | 2024.11.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.16561)
 
-44. Beyond Static Tools: Evaluating Large Language Models for Cryptographic Misuse Detection | *arXiv* | 2024.11.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.09772)
+44. CryptoFormalEval: Integrating LLMs and Formal Verification for Automated Cryptographic Protocol Vulnerability Detection | *arXiv* | 2024.11.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.13627)
 
-45. LProtector: An LLM-driven Vulnerability Detection System | *arXiv* | 2024.11.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.06493)
+45. Beyond Static Tools: Evaluating Large Language Models for Cryptographic Misuse Detection | *arXiv* | 2024.11.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.09772)
 
-46. Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries | *arXiv* | 2024.11.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.04981)
+46. LProtector: An LLM-driven Vulnerability Detection System | *arXiv* | 2024.11.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.06493)
 
-47. ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs | *arXiv* | 2024.10.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.17406)
+47. Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries | *arXiv* | 2024.11.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.04981)
 
-48. RealVul: Can We Detect Vulnerabilities in Web Applications with LLM? | *arXiv* | 2024.10.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.07573)
+48. ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs | *arXiv* | 2024.10.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.17406)
 
-49. Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning | *arXiv* | 2024.09.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.18395)
+49. RealVul: Can We Detect Vulnerabilities in Web Applications with LLM? | *arXiv* | 2024.10.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.07573)
 
-50. Boosting Cybersecurity Vulnerability Scanning based on LLM-supported Static Application Security Testing | *arXiv* | 2024.09.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.15735)
+50. Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning | *arXiv* | 2024.09.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.18395)
 
-51. VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching | *arXiv* | 2024.09.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.10756)
+51. Boosting Cybersecurity Vulnerability Scanning based on LLM-supported Static Application Security Testing | *arXiv* | 2024.09.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.15735)
 
-52. Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models | *arXiv* | 2024.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.10490)
+52. VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching | *arXiv* | 2024.09.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.10756)
 
-53. Exploring LLMs for Malware Detection: Review, Framework Design, and Countermeasure Approaches | *arXiv* | 2024.09.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.07587)
+53. Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models | *arXiv* | 2024.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.10490)
 
-54. SAFE: Advancing Large Language Models in Leveraging Semantic and Syntactic Relationships for Software Vulnerability Detection | *arXiv* | 2024.09.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.00882)
+54. Exploring LLMs for Malware Detection: Review, Framework Design, and Countermeasure Approaches | *arXiv* | 2024.09.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.07587)
 
-55. Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection | *European symposium on research in computer security* | 2024.08.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.16400)
+55. SAFE: Advancing Large Language Models in Leveraging Semantic and Syntactic Relationships for Software Vulnerability Detection | *arXiv* | 2024.09.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.00882)
 
-56. ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data | *arXiv* | 2024.08.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.16028)
+56. Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection | *European symposium on research in computer security* | 2024.08.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.16400)
 
-57. LLM-Enhanced Static Analysis for Precise Identification of Vulnerable OSS Versions | *arXiv* | 2024.08.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.07321)
+57. ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data | *arXiv* | 2024.08.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.16028)
 
-58. Exploring RAG-based Vulnerability Augmentation with LLMs | *arXiv* | 2024.08.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.04125)
+58. LLM-Enhanced Static Analysis for Precise Identification of Vulnerable OSS Versions | *arXiv* | 2024.08.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.07321)
 
-59. Harnessing the Power of LLMs in Source Code Vulnerability Detection | *arXiv* | 2024.08.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.03489)
+59. Exploring RAG-based Vulnerability Augmentation with LLMs | *arXiv* | 2024.08.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.04125)
 
-60. Towards Effectively Detecting and Explaining Vulnerabilities Using Large Language Models | *arXiv* | 2024.08.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.09701)
+60. Harnessing the Power of LLMs in Source Code Vulnerability Detection | *arXiv* | 2024.08.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.03489)
 
-61. Comparison of Static Application Security Testing Tools and Large Language Models for Repo-level Vulnerability Detection | *arXiv* | 2024.07.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.16235)
+61. Towards Effectively Detecting and Explaining Vulnerabilities Using Large Language Models | *arXiv* | 2024.08.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.09701)
 
-62. SCoPE: Evaluating LLMs for Software Vulnerability Detection | *arXiv* | 2024.07.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.14372)
+62. Comparison of Static Application Security Testing Tools and Large Language Models for Repo-level Vulnerability Detection | *arXiv* | 2024.07.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.16235)
 
-63. Static Detection of Filesystem Vulnerabilities in Android Systems | *arXiv* | 2024.07.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.11279)
+63. SCoPE: Evaluating LLMs for Software Vulnerability Detection | *arXiv* | 2024.07.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.14372)
 
-64. Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models | *Information Security and Privacy* | 2024.07.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08969)
+64. Static Detection of Filesystem Vulnerabilities in Android Systems | *arXiv* | 2024.07.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.11279)
 
-65. Assessing the Effectiveness of LLMs in Android Application Vulnerability Analysis | *arXiv* | 2024.06.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.18894)
+65. Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models | *Information Security and Privacy* | 2024.07.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08969)
 
-66. MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization | *arXiv* | 2024.06.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.18379)
+66. Assessing the Effectiveness of LLMs in Android Application Vulnerability Analysis | *arXiv* | 2024.06.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.18894)
 
-67. Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG | *arXiv* | 2024.06.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.11147)
+67. MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization | *arXiv* | 2024.06.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.18379)
 
-68. Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning | *ACL Findings* | 2024.06.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.03718)
+68. Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG | *arXiv* | 2024.06.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.11147)
 
-69. LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | *arXiv* | 2024.05.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.17238)
+69. Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning | *ACL Findings* | 2024.06.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.03718)
 
-70. Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study | *arXiv* | 2024.05.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.15614)
+70. LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | *arXiv* | 2024.05.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.17238)
 
-71. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection | *Journal of Systems and Software* | 2024.05.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.01202)
+71. Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study | *arXiv* | 2024.05.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.15614)
 
-72. Large Language Model for Vulnerability Detection and Repair: Literature Review and Roadmap | *arXiv* | 2024.04.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.02525)
+72. DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection | *Journal of Systems and Software* | 2024.05.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.01202)
 
-73. How Far Have We Gone in Vulnerability Detection Using Large Language Models | *arXiv* | 2023.12.22 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.12420)
+73. Large Language Model for Vulnerability Detection and Repair: Literature Review and Roadmap | *arXiv* | 2024.04.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.02525)
 
-74. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification | *International Conference on Predictive Models and Data Analytics in Software Engineering* | 2023.09.02 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.02192)
+74. How Far Have We Gone in Vulnerability Detection Using Large Language Models | *arXiv* | 2023.12.22 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.12420)
 
-75. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection | *International Symposium on Research in Attacks, Intrusions and Defenses* | 2023.08.09 | [<u>Paper Link</u>](https://arxiv.org/abs/2304.00409)
+75. The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification | *International Conference on Predictive Models and Data Analytics in Software Engineering* | 2023.09.02 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.02192)
 
-76. How ChatGPT is Solving Vulnerability Management Problem | *arXiv* | 2023.11.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.06530)
+76. DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection | *International Symposium on Research in Attacks, Intrusions and Defenses* | 2023.08.09 | [<u>Paper Link</u>](https://arxiv.org/abs/2304.00409)
 
-77. Multi-role Consensus through LLMs Discussions for Vulnerability Detection | *arXiv* | 2024.03.21 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.14274)
+77. How ChatGPT is Solving Vulnerability Management Problem | *arXiv* | 2023.11.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.06530)
 
-78. LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning | *arXiv* | 2024.01.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.16185)
+78. Multi-role Consensus through LLMs Discussions for Vulnerability Detection | *arXiv* | 2024.03.21 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.14274)
 
-79. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection | *arXiv* | 2024.01.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.01269)
+79. LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning | *arXiv* | 2024.01.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.16185)
 
-80. Software Vulnerability Detection with GPT and In-Context Learning | *DSC* | 2024.01.08 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/abstract/document/10381286)
+80. LLbezpeky: Leveraging Large Language Models for Vulnerability Detection | *arXiv* | 2024.01.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.01269)
 
-81. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis | *ICSE* | 2023.12.25 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.03314)
+81. Software Vulnerability Detection with GPT and In-Context Learning | *DSC* | 2024.01.08 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/abstract/document/10381286)
 
-82. Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities | *arXiv* | 2023.11.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.16169)
+82. GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis | *ICSE* | 2023.12.25 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.03314)
 
-83. The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models | *arXiv* | 2023.11.15 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00245)
+83. Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities | *arXiv* | 2023.11.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.16169)
 
-84. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives | *TPS-ISA* | 2023.10.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.01152)
+84. The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models | *arXiv* | 2023.11.15 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.00245)
 
-85. Large Language Models for Test-Free Fault Localization | *ICSE* | 2023.10.03 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.01726)
+85. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives | *TPS-ISA* | 2023.10.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.01152)
 
-86. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism | *arXiv* | 2023.09.27 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.15324)
+86. Large Language Models for Test-Free Fault Localization | *ICSE* | 2023.10.03 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.01726)
 
-87. Software Vulnerability Detection using Large Language Models | *ISSRE Workshop* | 2023.09.02 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/document/10301302/)
+87. DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism | *arXiv* | 2023.09.27 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.15324)
 
-88. Using ChatGPT as a Static Application Security Testing Tool | *arXiv* | 2023.08.28 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.14434)
+88. Software Vulnerability Detection using Large Language Models | *ISSRE Workshop* | 2023.09.02 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/document/10301302/)
 
-89. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | *ICSE* | 2023.08.24 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.12697)
+89. Using ChatGPT as a Static Application Security Testing Tool | *arXiv* | 2023.08.28 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.14434)
 
-90. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model | *arXiv* | 2023.08.09 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.04662)
+90. Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | *ICSE* | 2023.08.24 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.12697)
 
-91. Evaluation of ChatGPT Model for Vulnerability Detection | *arXiv* | 2023.04.12 | [<u>Paper Link</u>](https://arxiv.org/abs/2304.07232)
+91. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model | *arXiv* | 2023.08.09 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.04662)
 
-92. Software Vulnerability and Functionality Assessment using LLMs | *arXiv* | 2024.03.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.08429)
+92. Evaluation of ChatGPT Model for Vulnerability Detection | *arXiv* | 2023.04.12 | [<u>Paper Link</u>](https://arxiv.org/abs/2304.07232)
 
-93. Finetuning Large Language Models for Vulnerability Detection | *arXiv* | 2024.03.01 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.17010)
+93. Software Vulnerability and Functionality Assessment using LLMs | *arXiv* | 2024.03.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.08429)
 
-94. Detecting software vulnerabilities using Language Models | *CSR* | 2023.02.23 | [<u>Paper Link</u>](https://arxiv.org/abs/2302.11773)
+94. Finetuning Large Language Models for Vulnerability Detection | *arXiv* | 2024.03.01 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.17010)
+
+95. Detecting software vulnerabilities using Language Models | *CSR* | 2023.02.23 | [<u>Paper Link</u>](https://arxiv.org/abs/2302.11773)
     
 
 
