@@ -533,6 +533,10 @@
 
 95. Detecting software vulnerabilities using Language Models | *CSR* | 2023.02.23 | [<u>Paper Link</u>](https://arxiv.org/abs/2302.11773)
     
+96. Linevul: A transformer-based line-level vulnerability prediction | *MSR* | 2022.05.23 | [<u>Paper Link</u>](https://dl.acm.org/doi/abs/10.1145/3524842.3528452)
+
+97. DeepVulMatch: Learning and Matching Latent Vulnerability Representations for Dual-Granularity Vulnerability Detection | *IEEE TR* | 2025.10.01 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/abstract/document/11185217)
+
 
 
 <div align="right">
@@ -676,6 +680,10 @@
 65. An Analysis of the Automatic Bug Fixing Performance of ChatGPT | *APR@ICSE* | 2023.01.20 | [<u>Paper Link</u>](https://arxiv.org/abs/2301.08653)
 
 66. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs | *arXiv* | 2023.11.06 | [<u>Paper Link</u>](https://arxiv.org/abs/2111.03922)
+
+67. VulRepair: a T5-based automated software vulnerability repair | *FSE* | 2022.11.09 | [<u>Paper Link</u>](https://dl.acm.org/doi/abs/10.1145/3540250.3549098)
+
+68. Vision transformer inspired automated vulnerability repair | *TOSEM* | 2024.03.15 | [<u>Paper Link</u>](https://dl.acm.org/doi/full/10.1145/3632746)
 
 
 <div align="right">
