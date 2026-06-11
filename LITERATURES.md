@@ -1295,6 +1295,8 @@
 
 56. An LLM-based Framework for Fingerprinting Internet-connected Devices | *ACM on Internet Measurement Conference* | 2023.10.24 | [<u>Paper Link</u>](https://dl.acm.org/doi/pdf/10.1145/3618257.3624845)
 
+57. HoneyGPT: Breaking the Trilemma in Honeypots with Large Language Models | *Computer Networks* | 2026.03.21 | [<u>Paper Link</u>](https://doi.org/10.1016/j.comnet.2026.112223) | [<u>Code</u>](https://github.com/zyw-286/HoneyGPT)
+
 
 <div align="right">
 
