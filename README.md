@@ -48,9 +48,9 @@
 | **RQ1** | 📊 [Evaluation Benchmarks](LITERATURES.md#cybersecurity-evaluation-benchmarks) | 42 | 6.8% | 📊 Stable |
 | | 🔧 [Fine-tuned LLMs](LITERATURES.md#fine-tuned-domain-llms-for-cybersecurity) | 32 | 5.2% | 📊 Stable |
 | **RQ2** | 🛡️ [LLM Assisted Defense](LITERATURES.md#llm-assisted-defense) | 113 | 18.5% | 📈 Growing |
-| | 🐛 [Vulnerability Detection](LITERATURES.md#vulnerability-detection) | 94 | 15.4% | 📈 Growing |
+| | 🐛 [Vulnerability Detection](LITERATURES.md#vulnerability-detection) | 96 | 15.4% | 📈 Growing |
 | | ⚔️ [LLM Assisted Attack](LITERATURES.md#llm-assisted-attack) | 83 | 13.6% | 🔥 Hot |
-| | 🔨 [Program/Vulnerability Repair](LITERATURES.md#program-or-vulnerability-repair) | 66 | 10.8% | 📊 Stable |
+| | 🔨 [Program/Vulnerability Repair](LITERATURES.md#program-or-vulnerability-repair) | 68 | 10.8% | 📊 Stable |
 | | 📦 [Others](LITERATURES.md#others) | 56 | 9.2% | 📊 Stable |
 | | 🎯 [Threat Intelligence](LITERATURES.md#threat-intelligence) | 46 | 7.5% | 📊 Stable |
 | | 🔍 [FUZZ](LITERATURES.md#fuzz) | 25 | 4.1% | 📊 Stable |
