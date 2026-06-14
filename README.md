@@ -101,4 +101,6 @@ The complete literature review with 612+ papers has been moved to a separate fil
 
 ## Star History
 
+- **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML-defined policies (block/warn/strip), sub-100μs latency, zero external dependencies. `pip install agent-memory-guard`
+
 [![Star History Chart](https://api.star-history.com/svg?repos=tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)](https://www.star-history.com/#tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)
