@@ -4,6 +4,13 @@
 # General
 .DS_Store
 Thumbs.db
+SESSION_SUMMARY.md
+.env
+bib/
+docs/
+legacy_workflow/
+updates/
+local_workflow/
 
 # IDE
 .vscode/
