@@ -25,6 +25,12 @@ const els = {
   yearFilter: document.querySelector("#year-filter"),
   resetFilters: document.querySelector("#reset-filters"),
   trendRow: document.querySelector("#trend-row"),
+  figureSourceCount: document.querySelector("#figure-source-count"),
+  timelineTotal: document.querySelector("#timeline-total"),
+  venueTotal: document.querySelector("#venue-total"),
+  yearChart: document.querySelector("#year-chart"),
+  categoryChart: document.querySelector("#category-chart"),
+  venueChart: document.querySelector("#venue-chart"),
   toTop: document.querySelector("#to-top"),
 };
 
@@ -250,6 +256,73 @@ function renderTrend(papers) {
   });
 }
 
+function countBy(items, getKey) {
+  const counts = new Map();
+  items.forEach((item) => {
+    const key = getKey(item);
+    if (!key || key === "Unknown") return;
+    counts.set(key, (counts.get(key) || 0) + 1);
+  });
+  return counts;
+}
+
+function renderCorpusFigures() {
+  const yearCounts = Array.from(countBy(state.papers, (paper) => paper.year).entries())
+    .sort((a, b) => Number(a[0]) - Number(b[0]));
+  const categoryCounts = [...state.categories]
+    .sort((a, b) => b.count - a.count);
+  const venueCounts = Array.from(countBy(state.papers, (paper) => paper.venue).entries())
+    .sort((a, b) => b[1] - a[1]);
+
+  const years = yearCounts.map(([year]) => Number(year));
+  const yearMax = Math.max(1, ...yearCounts.map(([, count]) => count));
+  const categoryMax = Math.max(1, ...categoryCounts.map((category) => category.count));
+  const venueMax = Math.max(1, ...venueCounts.map(([, count]) => count));
+
+  els.figureSourceCount.textContent = `${formatNumber(state.papers.length)} papers in the current corpus`;
+  els.timelineTotal.textContent = years.length ? `${Math.min(...years)}-${Math.max(...years)}` : "No years";
+  els.venueTotal.textContent = `${formatNumber(venueCounts.length)} venues`;
+
+  els.yearChart.innerHTML = "";
+  yearCounts.forEach(([year, count]) => {
+    const item = document.createElement("div");
+    item.className = "corpus-year-bar";
+    item.title = `${year}: ${count} papers`;
+    const height = Math.max(12, Math.round((count / yearMax) * 148));
+    item.innerHTML = `<span style="height:${height}px"></span><strong>${escapeHtml(year)}</strong><small>${formatNumber(count)}</small>`;
+    els.yearChart.appendChild(item);
+  });
+
+  els.categoryChart.innerHTML = "";
+  categoryCounts.forEach((category, index) => {
+    const row = document.createElement("div");
+    row.className = "chart-row";
+    row.style.setProperty("--row-color", CATEGORY_ACCENTS[index % CATEGORY_ACCENTS.length]);
+    const width = Math.max(4, Math.round((category.count / categoryMax) * 100));
+    row.innerHTML = `
+      <span class="chart-label">${escapeHtml(category.name)}</span>
+      <span class="chart-track"><span style="width:${width}%"></span></span>
+      <strong>${formatNumber(category.count)}</strong>
+    `;
+    els.categoryChart.appendChild(row);
+  });
+
+  els.venueChart.innerHTML = "";
+  venueCounts.slice(0, 10).forEach(([venue, count], index) => {
+    const row = document.createElement("div");
+    row.className = "venue-row";
+    row.style.setProperty("--row-color", CATEGORY_ACCENTS[index % CATEGORY_ACCENTS.length]);
+    const width = Math.max(5, Math.round((count / venueMax) * 100));
+    row.innerHTML = `
+      <span class="venue-rank">${String(index + 1).padStart(2, "0")}</span>
+      <span class="venue-name">${escapeHtml(venue)}</span>
+      <span class="venue-meter"><span style="width:${width}%"></span></span>
+      <strong>${formatNumber(count)}</strong>
+    `;
+    els.venueChart.appendChild(row);
+  });
+}
+
 function paperCard(paper) {
   const article = document.createElement("article");
   article.className = "paper-card";
@@ -350,6 +423,7 @@ async function init() {
     renderStats();
     renderMap();
     renderFilters();
+    renderCorpusFigures();
     renderPapers();
   } catch (error) {
     showError(error);

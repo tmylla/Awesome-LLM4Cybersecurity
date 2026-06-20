@@ -22,8 +22,6 @@
       <a href="#map">Map</a>
       <a href="#explorer">Papers</a>
       <a href="#figures">Figures</a>
-      <a href="README.md">README</a>
-      <a href="LITERATURES.md">Literatures</a>
     </nav>
   </header>
 
@@ -120,24 +118,33 @@
     </section>
 
     <section class="figures" id="figures" aria-labelledby="figures-title">
-      <div class="section-kicker">Published figures</div>
+      <div class="section-kicker">Corpus figures</div>
       <div class="section-heading">
-        <h2 id="figures-title">A visual index for the review</h2>
-        <p>Use the original assets as orientation points, then use the explorer for the live paper list.</p>
+        <h2 id="figures-title">Evidence generated from the live literature list</h2>
+        <p>These figures are computed from <span id="figure-source-count">the current corpus</span>, so they move with every paper-list update.</p>
       </div>
-      <div class="figure-grid">
-        <figure>
-          <img src="figs/statistic.png" alt="Time distribution and word cloud from the LLM cybersecurity review">
-          <figcaption>Corpus distribution and topic vocabulary.</figcaption>
-        </figure>
-        <figure>
-          <img src="figs/llms.png" alt="Overview of large language models in cybersecurity">
-          <figcaption>LLM landscape used by the review.</figcaption>
-        </figure>
-        <figure>
-          <img src="figs/table1.png" alt="Summary table from the literature review">
-          <figcaption>Review taxonomy and comparative summary.</figcaption>
-        </figure>
+      <div class="data-figure-grid">
+        <article class="data-figure timeline-figure">
+          <div class="figure-title-row">
+            <h3>Publication timeline</h3>
+            <span id="timeline-total">--</span>
+          </div>
+          <div class="year-chart" id="year-chart" aria-label="Paper count by year"></div>
+        </article>
+        <article class="data-figure category-figure">
+          <div class="figure-title-row">
+            <h3>Category weight</h3>
+            <span>11 tracks</span>
+          </div>
+          <div class="category-chart" id="category-chart" aria-label="Paper count by category"></div>
+        </article>
+        <article class="data-figure venue-figure">
+          <div class="figure-title-row">
+            <h3>Venue mix</h3>
+            <span id="venue-total">--</span>
+          </div>
+          <div class="venue-chart" id="venue-chart" aria-label="Top publication venues"></div>
+        </article>
       </div>
     </section>
   </main>
@@ -146,8 +153,7 @@
 
   <footer class="site-footer">
     <span>When LLMs Meet Cybersecurity</span>
-    <a href="README.md">README</a>
-    <a href="LITERATURES.md">Full literature list</a>
+    <span>Interactive corpus atlas for LLM security research</span>
   </footer>
 
   <script src="assets/site.js" defer></script>
