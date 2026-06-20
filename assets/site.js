@@ -27,10 +27,10 @@ const els = {
   trendRow: document.querySelector("#trend-row"),
   figureSourceCount: document.querySelector("#figure-source-count"),
   timelineTotal: document.querySelector("#timeline-total"),
-  venueTotal: document.querySelector("#venue-total"),
+  wordCloudTotal: document.querySelector("#word-cloud-total"),
   yearChart: document.querySelector("#year-chart"),
   categoryChart: document.querySelector("#category-chart"),
-  venueChart: document.querySelector("#venue-chart"),
+  wordCloud: document.querySelector("#word-cloud"),
   toTop: document.querySelector("#to-top"),
 };
 
@@ -41,6 +41,14 @@ const RQ_DESCRIPTIONS = {
 };
 
 const CATEGORY_ACCENTS = ["#2758d4", "#28785f", "#b7472a", "#c28b1b", "#6f4bb8", "#277f95"];
+const TITLE_STOP_WORDS = new Set([
+  "about", "after", "against", "all", "also", "among", "analysis", "and", "are", "based", "been", "being", "between", "beyond",
+  "can", "case", "challenging", "comprehensive", "does", "doing", "during", "each", "enhanced", "evaluating", "evaluation",
+  "for", "from", "framework", "how", "into", "its", "large", "language", "lessons", "model", "models", "more", "new",
+  "not", "novel", "over", "paper", "papers", "practical", "real", "real-world", "rethinking", "study", "systematic", "than",
+  "that", "the", "their", "through", "toward", "towards", "under", "understanding", "using", "via", "was", "what", "when", "where",
+  "whether", "which", "while", "with", "without", "world"
+]);
 
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, (char) => ({
@@ -266,22 +274,75 @@ function countBy(items, getKey) {
   return counts;
 }
 
+function normalizeTitleToken(token) {
+  const aliases = {
+    "ai": "AI",
+    "aixcc": "AIxCC",
+    "api": "API",
+    "apis": "API",
+    "attackers": "attacker",
+    "attacks": "attack",
+    "benchmarks": "benchmark",
+    "bugs": "bug",
+    "codes": "code",
+    "ctf": "CTF",
+    "cve": "CVE",
+    "cves": "CVE",
+    "cyber-security": "cybersecurity",
+    "datasets": "dataset",
+    "defenses": "defense",
+    "defensive": "defense",
+    "detecting": "detection",
+    "detect": "detection",
+    "exploits": "exploit",
+    "exploiting": "exploit",
+    "fuzzing": "fuzz",
+    "gpt": "GPT",
+    "llm": "LLM",
+    "llms": "LLM",
+    "malwares": "malware",
+    "prompts": "prompt",
+    "repairs": "repair",
+    "secure": "security",
+    "vulnerabilities": "vulnerability",
+    "vulnerable": "vulnerability"
+  };
+  return aliases[token] || token;
+}
+
+function titleWordCounts(papers) {
+  const counts = new Map();
+  papers.forEach((paper) => {
+    const tokens = paper.title.toLowerCase().match(/[a-z][a-z0-9-]{1,}/g) || [];
+    tokens.forEach((rawToken) => {
+      const normalized = normalizeTitleToken(rawToken.replace(/^llm'?s$/, "llm"));
+      const stopKey = normalized.toLowerCase();
+      if (TITLE_STOP_WORDS.has(stopKey) || stopKey.length < 3) return;
+      counts.set(normalized, (counts.get(normalized) || 0) + 1);
+    });
+  });
+  return Array.from(counts.entries())
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, 58);
+}
+
 function renderCorpusFigures() {
   const yearCounts = Array.from(countBy(state.papers, (paper) => paper.year).entries())
     .sort((a, b) => Number(a[0]) - Number(b[0]));
   const categoryCounts = [...state.categories]
     .sort((a, b) => b.count - a.count);
-  const venueCounts = Array.from(countBy(state.papers, (paper) => paper.venue).entries())
-    .sort((a, b) => b[1] - a[1]);
+  const wordCounts = titleWordCounts(state.papers);
 
   const years = yearCounts.map(([year]) => Number(year));
   const yearMax = Math.max(1, ...yearCounts.map(([, count]) => count));
   const categoryMax = Math.max(1, ...categoryCounts.map((category) => category.count));
-  const venueMax = Math.max(1, ...venueCounts.map(([, count]) => count));
+  const wordMax = Math.max(1, ...wordCounts.map(([, count]) => count));
+  const wordMin = Math.min(wordMax, ...wordCounts.map(([, count]) => count));
+  const wordRange = Math.max(1, wordMax - wordMin);
 
   els.figureSourceCount.textContent = `${formatNumber(state.papers.length)} papers in the current corpus`;
   els.timelineTotal.textContent = years.length ? `${Math.min(...years)}-${Math.max(...years)}` : "No years";
-  els.venueTotal.textContent = `${formatNumber(venueCounts.length)} venues`;
+  els.wordCloudTotal.textContent = `${formatNumber(wordCounts.length)} title terms`;
 
   els.yearChart.innerHTML = "";
   yearCounts.forEach(([year, count]) => {
@@ -307,19 +368,18 @@ function renderCorpusFigures() {
     els.categoryChart.appendChild(row);
   });
 
-  els.venueChart.innerHTML = "";
-  venueCounts.slice(0, 10).forEach(([venue, count], index) => {
-    const row = document.createElement("div");
-    row.className = "venue-row";
-    row.style.setProperty("--row-color", CATEGORY_ACCENTS[index % CATEGORY_ACCENTS.length]);
-    const width = Math.max(5, Math.round((count / venueMax) * 100));
-    row.innerHTML = `
-      <span class="venue-rank">${String(index + 1).padStart(2, "0")}</span>
-      <span class="venue-name">${escapeHtml(venue)}</span>
-      <span class="venue-meter"><span style="width:${width}%"></span></span>
-      <strong>${formatNumber(count)}</strong>
-    `;
-    els.venueChart.appendChild(row);
+  els.wordCloud.innerHTML = "";
+  wordCounts.forEach(([word, count], index) => {
+    const token = document.createElement("span");
+    token.className = "word-token";
+    token.style.setProperty("--word-color", CATEGORY_ACCENTS[index % CATEGORY_ACCENTS.length]);
+    const size = 14 + Math.round(((count - wordMin) / wordRange) * 32);
+    const weight = count > wordMax * 0.58 ? 800 : count > wordMax * 0.34 ? 700 : 600;
+    token.style.fontSize = `${size}px`;
+    token.style.fontWeight = weight;
+    token.title = `${word}: ${count} title mentions`;
+    token.textContent = word;
+    els.wordCloud.appendChild(token);
   });
 }
 
