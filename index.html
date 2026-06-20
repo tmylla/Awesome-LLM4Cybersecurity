@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Interactive research atlas for When LLMs Meet Cybersecurity: a systematic literature review.">
+  <title>LLM4Cybersecurity Research Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,500;6..72,650&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#explorer">Skip to paper explorer</a>
+
+  <header class="site-header" data-elevate>
+    <a class="brand" href="#top" aria-label="LLM4Cybersecurity home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>LLM4Cybersecurity</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a href="#map">Map</a>
+      <a href="#explorer">Papers</a>
+      <a href="#figures">Figures</a>
+      <a href="README.md">README</a>
+      <a href="LITERATURES.md">Literatures</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">Systematic literature review</p>
+        <h1 id="hero-title">When LLMs Meet Cybersecurity</h1>
+        <p class="hero-lede">A living atlas of papers on cybersecurity-oriented LLMs, defensive applications, offensive capabilities, vulnerability work, and agentic cyber systems.</p>
+        <div class="hero-actions" aria-label="Primary actions">
+          <a class="button primary" href="#explorer">Explore papers</a>
+          <a class="button ghost" href="https://arxiv.org/abs/2405.03644">Read the paper</a>
+        </div>
+      </div>
+
+      <aside class="hero-panel" aria-label="Corpus overview">
+        <div class="hero-panel-head">
+          <span>Corpus snapshot</span>
+          <span id="last-updated">Loading</span>
+        </div>
+        <div class="metric-grid" aria-live="polite">
+          <div class="metric-tile">
+            <strong id="total-papers">--</strong>
+            <span>Papers tracked</span>
+          </div>
+          <div class="metric-tile">
+            <strong id="category-count">--</strong>
+            <span>Research categories</span>
+          </div>
+          <div class="metric-tile">
+            <strong id="venue-count">--</strong>
+            <span>Publication venues</span>
+          </div>
+          <div class="metric-tile">
+            <strong id="latest-year">--</strong>
+            <span>Latest year</span>
+          </div>
+        </div>
+        <div class="signal-board" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+      </aside>
+    </section>
+
+    <section class="atlas-band" id="map" aria-labelledby="map-title">
+      <div class="section-kicker">Research map</div>
+      <div class="section-heading">
+        <h2 id="map-title">Three questions, eleven working categories</h2>
+        <p>The repository organizes the field around model construction, cybersecurity applications, and agentic research directions.</p>
+      </div>
+      <div class="rq-lanes" id="rq-lanes" aria-live="polite"></div>
+    </section>
+
+    <section class="explorer" id="explorer" aria-labelledby="explorer-title">
+      <div class="section-kicker">Paper explorer</div>
+      <div class="explorer-head">
+        <div>
+          <h2 id="explorer-title">Browse the literature corpus</h2>
+          <p>Search titles, filter categories, and jump directly to paper or code links.</p>
+        </div>
+        <div class="result-count" id="result-count">Loading papers</div>
+      </div>
+
+      <div class="toolbar" role="search">
+        <label class="search-box">
+          <span>Search</span>
+          <input id="search-input" type="search" autocomplete="off" placeholder="agent, fuzz, vulnerability, repair...">
+        </label>
+        <label class="select-box">
+          <span>RQ</span>
+          <select id="rq-filter">
+            <option value="all">All RQs</option>
+          </select>
+        </label>
+        <label class="select-box">
+          <span>Category</span>
+          <select id="category-filter">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+        <label class="select-box">
+          <span>Year</span>
+          <select id="year-filter">
+            <option value="all">All years</option>
+          </select>
+        </label>
+        <button class="button compact" id="reset-filters" type="button">Reset</button>
+      </div>
+
+      <div class="trend-row" id="trend-row" aria-label="Year distribution"></div>
+      <div class="paper-list" id="paper-list" aria-live="polite"></div>
+    </section>
+
+    <section class="figures" id="figures" aria-labelledby="figures-title">
+      <div class="section-kicker">Published figures</div>
+      <div class="section-heading">
+        <h2 id="figures-title">A visual index for the review</h2>
+        <p>Use the original assets as orientation points, then use the explorer for the live paper list.</p>
+      </div>
+      <div class="figure-grid">
+        <figure>
+          <img src="figs/statistic.png" alt="Time distribution and word cloud from the LLM cybersecurity review">
+          <figcaption>Corpus distribution and topic vocabulary.</figcaption>
+        </figure>
+        <figure>
+          <img src="figs/llms.png" alt="Overview of large language models in cybersecurity">
+          <figcaption>LLM landscape used by the review.</figcaption>
+        </figure>
+        <figure>
+          <img src="figs/table1.png" alt="Summary table from the literature review">
+          <figcaption>Review taxonomy and comparative summary.</figcaption>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <button class="to-top" id="to-top" type="button" aria-label="Back to top">↑</button>
+
+  <footer class="site-footer">
+    <span>When LLMs Meet Cybersecurity</span>
+    <a href="README.md">README</a>
+    <a href="LITERATURES.md">Full literature list</a>
+  </footer>
+
+  <script src="assets/site.js" defer></script>
+</body>
+</html>
