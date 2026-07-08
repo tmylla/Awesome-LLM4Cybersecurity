@@ -5,7 +5,7 @@
 
 ---
 
-### 📊 RQ1: How to construct cybersecurity-oriented domain LLMs? *(101 papers)*
+### 📊 RQ1: How to construct cybersecurity-oriented domain LLMs? *(103 papers)*
 
 
 #### Cybersecurity Evaluation Benchmarks
@@ -39,109 +39,111 @@
 
 14. Dynamic Cyber Ranges | *arxiv* | 2026.04.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.24184)
 
-15. CyberCertBench: Evaluating LLMs in Cybersecurity Certification Knowledge | *arxiv* | 2026.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.20389v1)
+15. Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery | *Black Hat Asia 2026* | 2026.04.26 | [<u>Github Link</u>](https://github.com/terranovafr/C-CyberBattleSim)
 
-16. Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs | *arxiv* | 2026.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.20211)
+16. CyberCertBench: Evaluating LLMs in Cybersecurity Certification Knowledge | *arxiv* | 2026.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.20389v1)
 
-17. Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps | *arxiv* | 2026.04.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.19533v3)
+17. Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs | *arxiv* | 2026.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.20211)
 
-18. Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture the Flag Challenges | *arxiv* | 2026.04.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.19354)
+18. Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps | *arxiv* | 2026.04.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.19533v3)
 
-19. Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories | *arxiv* | 2026.04.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.17596)
+19. Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture the Flag Challenges | *arxiv* | 2026.04.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.19354)
 
-20. Systematic Capability Benchmarking of Frontier Large Language Models for Offensive Cyber Tasks | *arxiv* | 2026.04.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.17159)
+20. Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories | *arxiv* | 2026.04.19 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.17596)
 
-21. CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments | *arxiv* | 2026.04.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.06019v1)
+21. Systematic Capability Benchmarking of Frontier Large Language Models for Offensive Cyber Tasks | *arxiv* | 2026.04.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.17159)
 
-22. SecLens: Role-Specific Evaluation of LLMs for Security Vulnerability Detection | *arXiv* | 2026.04.02 | [<u>Paper Link</u>](https://arxiv.org/abs/2604.01637)
+22. CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments | *arxiv* | 2026.04.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.06019v1)
 
-23. CTI-REALM: Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities | *arxiv* | 2026.03.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2603.13517v2)
+23. SecLens: Role-Specific Evaluation of LLMs for Security Vulnerability Detection | *arXiv* | 2026.04.02 | [<u>Paper Link</u>](https://arxiv.org/abs/2604.01637)
 
-24. TOSSS: a CVE-based Software Security Benchmark for Large Language Models | *arxiv* | 2026.03.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2603.10969)
+24. CTI-REALM: Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities | *arxiv* | 2026.03.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2603.13517v2)
 
-25. CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? | *TMLR* | 2026.03.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2603.09452v1)
+25. TOSSS: a CVE-based Software Security Benchmark for Large Language Models | *arxiv* | 2026.03.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2603.10969)
 
-26. ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense | *arxiv* | 2026.03.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2603.02297)
+26. CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? | *TMLR* | 2026.03.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2603.09452v1)
 
-27. AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence | *arxiv* | 2025.11.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2511.01144)
+27. ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense | *arxiv* | 2026.03.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2603.02297)
 
-28. PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities | *arxiv* | 2025.10.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2510.11688)
+28. AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence | *arxiv* | 2025.11.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2511.01144)
 
-29. SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios | *arxiv* | 2025.09.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.22097)
+29. PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities | *arxiv* | 2025.10.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2510.11688)
 
-30. CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning | *arxiv* | 2025.09.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.20166)
+30. SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios | *arxiv* | 2025.09.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.22097)
 
-31. AQUA-LLM: Evaluating Accuracy, Quantization, and Adversarial Robustness Trade-offs in LLMs for Cybersecurity Question Answering | *arxiv* | 2025.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.13514)
+31. CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning | *arxiv* | 2025.09.24 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.20166)
 
-32. ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation | *arxiv* | 2025.07.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.14201)
+32. AQUA-LLM: Evaluating Accuracy, Quantization, and Adversarial Robustness Trade-offs in LLMs for Cybersecurity Question Answering | *arxiv* | 2025.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.13514)
 
-33. AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models | *arxiv* | 2025.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.09580)
+33. ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation | *arxiv* | 2025.07.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.14201)
 
-34. DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments | *arxiv* | 2025.06.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.00739)
+34. AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models | *arxiv* | 2025.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.09580)
 
-35. CyberGym: Evaluating AI Agents Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | *arxiv* | 2025.06.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.02548)
+35. DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments | *arxiv* | 2025.06.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.00739)
 
-36. DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19973)
+36. CyberGym: Evaluating AI Agents Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | *arxiv* | 2025.06.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.02548)
 
-37. VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19395)
+37. DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19973)
 
-38. BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models | *arxiv* | 2025.05.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07360)
+38. VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation | *arxiv* | 2025.05.26 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.19395)
 
-39. The Digital Cybersecurity Expert: How Far Have We Come? | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.11783)
+39. BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models | *arxiv* | 2025.05.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07360)
 
-40. On Benchmarking Code LLMs for Android Malware Analysis | *arxiv* | 2025.04.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.00694)
+40. The Digital Cybersecurity Expert: How Far Have We Come? | *arxiv* | 2025.04.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.11783)
 
-41. CVE-Bench: A Benchmark for AI Agents Ability to Exploit Real-World Web Application Vulnerabilities | *arxiv* | 2025.03.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.17332)
+41. On Benchmarking Code LLMs for Android Malware Analysis | *arxiv* | 2025.04.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.00694)
 
-42. CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data | *arxiv* | 2025.03.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.09334)
+42. CVE-Bench: A Benchmark for AI Agents Ability to Exploit Real-World Web Application Vulnerabilities | *arxiv* | 2025.03.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.17332)
 
-43. Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03586)
+43. CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data | *arxiv* | 2025.03.12 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.09334)
 
-44. AttackSeqBench: Benchmarking Large Language Models Understanding of Sequential Patterns in Cyber Attacks | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03170)
+44. Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03586)
 
-45. Primus: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training | *arXiv* | 2025.02.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.11191)
+45. AttackSeqBench: Benchmarking Large Language Models Understanding of Sequential Patterns in Cyber Attacks | *arxiv* | 2025.03.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.03170)
 
-46. ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks | *arXiv* | 2025.02.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.05352)
+46. Primus: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training | *arXiv* | 2025.02.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.11191)
 
-47. SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity | *arXiv* | 2024.12.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.20787)
+47. ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks | *arXiv* | 2025.02.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2502.05352)
 
-48. AI Cyber Risk Benchmark: Automated Exploitation Capabilities | *arXiv* | 2024.12.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21939)
+48. SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity | *arXiv* | 2024.12.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.20787)
 
-49. CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity | *arXiv* | 2024.11.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.16239)
+49. AI Cyber Risk Benchmark: Automated Exploitation Capabilities | *arXiv* | 2024.12.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21939)
 
-50. AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset | *arXiv* | 2024.08.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.05149)
+50. CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity | *arXiv* | 2024.11.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.16239)
 
-51. CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | *arXiv* | 2024.08.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.01605)
+51. AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset | *arXiv* | 2024.08.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.05149)
 
-52. eyeballvul: a future-proof benchmark for vulnerability detection in the wild | *arXiv* | 2024.07.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08708)
+52. CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | *arXiv* | 2024.08.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.01605)
 
-53. NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05590)
+53. eyeballvul: a future-proof benchmark for vulnerability detection in the wild | *arXiv* | 2024.07.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.08708)
 
-54. SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory | *arXiv* | 2024.05.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.20441)
+54. NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05590)
 
-55. Assessing Cybersecurity Vulnerabilities in Code Large Language Models | *arXiv* | 2024.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.18567)
+55. SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory | *arXiv* | 2024.05.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.20441)
 
-56. Can LLMs Understand Computer Networks? Towards a Virtual System Administrator | *arXiv* | 2024.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.12689)
+56. Assessing Cybersecurity Vulnerabilities in Code Large Language Models | *arXiv* | 2024.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.18567)
 
-57. Can llms patch security issues? | *arXiv* | 2024.02.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.00024)
+57. Can LLMs Understand Computer Networks? Towards a Virtual System Administrator | *arXiv* | 2024.04.22 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.12689)
 
-58. OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models | *arXiv* | 2024.02.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.07637)
+58. Can llms patch security issues? | *arXiv* | 2024.02.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.00024)
 
-59. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity | *arXiv* | 2024.02.12 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.07688)
+59. OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models | *arXiv* | 2024.02.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.07637)
 
-60. DebugBench: Evaluating Debugging Capability of Large Language Models | *ACL Findings* | 2024.01.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.04621)
+60. CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity | *arXiv* | 2024.02.12 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.07688)
 
-61. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security | *arXiv* | 2023.12.26 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.15838v1)
+61. DebugBench: Evaluating Debugging Capability of Large Language Models | *ACL Findings* | 2024.01.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.04621)
 
-62. Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models | *arXiv* | 2023.12.07 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.04724)
+62. SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security | *arXiv* | 2023.12.26 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.15838v1)
 
-63. An empirical study of netops capability of pre-trained large language models. | *arXiv* | 2023.09.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.05557)
+63. Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models | *arXiv* | 2023.12.07 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.04724)
 
-64. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations | *IEEE/ACM International Conference on Mining Software Repositories* | 2023.03.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2303.09384)
+64. An empirical study of netops capability of pre-trained large language models. | *arXiv* | 2023.09.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.05557)
 
-65. Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. | *Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security* | 2022.11.09 | [<u>Paper Link</u>](https://dl.acm.org/doi/10.1145/3549035.3561184)
+65. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations | *IEEE/ACM International Conference on Mining Software Repositories* | 2023.03.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2303.09384)
 
-66. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models | *Github* | 2023 | [<u>Paper Link</u>](https://xuanwuai.github.io/SecEval/)
+66. Securityeval dataset: mining vulnerability examples to evaluate machine learning-based code generation techniques. | *Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security* | 2022.11.09 | [<u>Paper Link</u>](https://dl.acm.org/doi/10.1145/3549035.3561184)
+
+67. SecEval: A Comprehensive Benchmark for Evaluating Cybersecurity Knowledge of Foundation Models | *Github* | 2023 | [<u>Paper Link</u>](https://xuanwuai.github.io/SecEval/)
 
 <div align="right">
 
@@ -152,75 +154,77 @@
 #### Fine-tuned Domain LLMs for Cybersecurity
 
 
-1. Cybersecurity AI (CAI) Dataset | *arxiv* | 2026.05.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2605.28146v1)
+1. Multi-Taxonomy Vulnerability Classification with Hierarchically Finetuned Language Models | *DIMVA'26* | 2026.07.01 | [<u>Paper Link</u>](https://hal.science/hal-05500820)
 
-2. Fine-Tuning Small Language Models for Solution-Oriented Windows Event Log Analysis | *arxiv* | 2026.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2605.06330)
+2. Cybersecurity AI (CAI) Dataset | *arxiv* | 2026.05.27 | [<u>Paper Link</u>](https://arxiv.org/pdf/2605.28146v1)
 
-3. OpenSOC-AI: Democratizing Security Operations with Parameter Efficient LLM Log Analysis | *arxiv* | 2026.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.26217)
+3. Fine-Tuning Small Language Models for Solution-Oriented Windows Event Log Analysis | *arxiv* | 2026.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2605.06330)
 
-4. RedSage: A Cybersecurity Generalist LLM | *arxiv* | 2026.01.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.22159)
+4. OpenSOC-AI: Democratizing Security Operations with Parameter Efficient LLM Log Analysis | *arxiv* | 2026.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2604.26217)
 
-5. Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report | *arxiv* | 2026.01.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.21051)
+5. RedSage: A Cybersecurity Generalist LLM | *arxiv* | 2026.01.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.22159)
 
-6. Large Language Models for Cyber Security | *arxiv* | 2025.11.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2511.04508)
+6. Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report | *arxiv* | 2026.01.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2601.21051)
 
-7. Toward Cybersecurity-Expert Small Language Models | *arxiv* | 2025.10.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.14113)
+7. Large Language Models for Cyber Security | *arxiv* | 2025.11.06 | [<u>Paper Link</u>](https://arxiv.org/pdf/2511.04508)
 
-8. Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report | *arxiv* | 2025.08.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.01059)
+8. Toward Cybersecurity-Expert Small Language Models | *arxiv* | 2025.10.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.14113)
 
-9. Cyber-Zero: Training Cybersecurity Agents without Runtime | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.00910)
+9. Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report | *arxiv* | 2025.08.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.01059)
 
-10. PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation | *arxiv* | 2025.07.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.15419)
+10. Cyber-Zero: Training Cybersecurity Agents without Runtime | *arxiv* | 2025.07.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.00910)
 
-11. Less Data, More Security: Advancing Cybersecurity LLMs Specialization via Resource-Efficient Domain-Adaptive Continuous Pre-training with Minimal Tokens | *arxiv* | 2025.06.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.02964)
+11. PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation | *arxiv* | 2025.07.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.15419)
 
-12. Large Language Model-driven Security Assistant for Internet of Things via Chain-of-Thought | *arxiv* | 2025.05.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06307)
+12. Less Data, More Security: Advancing Cybersecurity LLMs Specialization via Resource-Efficient Domain-Adaptive Continuous Pre-training with Minimal Tokens | *arxiv* | 2025.06.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.02964)
 
-13. Llama-3.1-FoundationAI-SecurityLLM-Base-8B Technical Report | *arxiv* | 2025.04.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21039)
+13. Large Language Model-driven Security Assistant for Internet of Things via Chain-of-Thought | *arxiv* | 2025.05.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06307)
 
-14. TrafficLLM: Enhancing Large Language Models for Network Traffic Analysis with Generic Traffic Representation | *arxiv* | 2025.04.05 | [<u>Paper Link</u>](https://arxiv.org/abs/2504.04222)
+14. Llama-3.1-FoundationAI-SecurityLLM-Base-8B Technical Report | *arxiv* | 2025.04.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.21039)
 
-15. CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation | *arxiv* | 2025.04.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.00389)
+15. TrafficLLM: Enhancing Large Language Models for Network Traffic Analysis with Generic Traffic Representation | *arxiv* | 2025.04.05 | [<u>Paper Link</u>](https://arxiv.org/abs/2504.04222)
 
-16. ELTEX: A Framework for Domain-Driven Synthetic Data Generation | *arXiv* | 2025.03.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2503.15055)
+16. CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation | *arxiv* | 2025.04.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.00389)
 
-17. Phishsense-1B: A Technical Perspective on an AI-Powered Phishing Detection Model | *arxiv* | 2025.03.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.10944)
+17. ELTEX: A Framework for Domain-Driven Synthetic Data Generation | *arXiv* | 2025.03.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2503.15055)
 
-18. Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection | *arXiv* | 2024.11.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21723)
+18. Phishsense-1B: A Technical Perspective on an AI-Powered Phishing Detection Model | *arxiv* | 2025.03.14 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.10944)
 
-19. AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations using Fine-tuned and Open-Source LLMs | *arXiv* | 2024.11.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.01073)
+19. Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection | *arXiv* | 2024.11.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.21723)
 
-20. Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments | *arXiv* | 2024.09.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.11276)
+20. AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations using Fine-tuned and Open-Source LLMs | *arXiv* | 2024.11.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2411.01073)
 
-21. CyberPal.AI: Empowering LLMs with Expert-Driven Cybersecurity Instructions | *arXiv* | 2024.08.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.09304)
+21. Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments | *arXiv* | 2024.09.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.11276)
 
-22. IoT-LM: Large Multisensory Language Models for the Internet of Things | *arXiv* | 2024.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.09801)
+22. CyberPal.AI: Empowering LLMs with Expert-Driven Cybersecurity Instructions | *arXiv* | 2024.08.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.09304)
 
-23. A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05639)
+23. IoT-LM: Large Multisensory Language Models for the Internet of Things | *arXiv* | 2024.07.13 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.09801)
 
-24. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05892)
+24. A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05639)
 
-25. Transforming Computer Security and Public Trust Through the Exploration of Fine-Tuning Large Language Models | *arXiv* | 2024.06.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.00628)
+25. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models | *arXiv* | 2024.06.09 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.05892)
 
-26. Assessing LLMs in Malicious Code Deobfuscation of Real-world Malware Campaigns | *arXiv* | 2024.04.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.19715)
+26. Transforming Computer Security and Public Trust Through the Exploration of Fine-Tuning Large Language Models | *arXiv* | 2024.06.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.00628)
 
-27. RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair | *arXiv* | 2024.03.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.15698)
+27. Assessing LLMs in Malicious Code Deobfuscation of Real-world Malware Campaigns | *arXiv* | 2024.04.30 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.19715)
 
-28. Finetuning Large Language Models for Vulnerability Detection | *arXiv* | 2024.02.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.17010)
+28. RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair | *arXiv* | 2024.03.11 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.15698)
 
-29. Instruction Tuning for Secure Code Generation | *ICML* | 2024.02.14 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.09497)
+29. Finetuning Large Language Models for Vulnerability Detection | *arXiv* | 2024.02.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.17010)
 
-30. Nova+: Generative Language Models for Binaries | *arXiv* | 2023.11.27 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.13721)
+30. Instruction Tuning for Secure Code Generation | *ICML* | 2024.02.14 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.09497)
 
-31. Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding | *ISSRE* | 2023.10.06 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.09826)
+31. Nova+: Generative Language Models for Binaries | *arXiv* | 2023.11.27 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.13721)
 
-32. Large Language Models for Test-Free Fault Localization | *ICSE* | 2023.10.03 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.01726)
+32. Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding | *ISSRE* | 2023.10.06 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.09826)
 
-33. Owl: A Large Language Model for IT Operations | *ICLR* | 2023.09.17 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.09298)
+33. Large Language Models for Test-Free Fault Localization | *ICSE* | 2023.10.03 | [<u>Paper Link</u>](https://arxiv.org/abs/2310.01726)
 
-34. SecureFalcon: The Next Cyber Reasoning System for Cyber Security | *arXiv* | 2023.07.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.06616)
+34. Owl: A Large Language Model for IT Operations | *ICLR* | 2023.09.17 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.09298)
 
-35. HackMentor: Fine-tuning Large Language Models for Cybersecurity | *TrustCom* | 2023.09 | [<u>Paper Link</u>](https://github.com/tmylla/HackMentor)
+35. SecureFalcon: The Next Cyber Reasoning System for Cyber Security | *arXiv* | 2023.07.13 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.06616)
+
+36. HackMentor: Fine-tuning Large Language Models for Cybersecurity | *TrustCom* | 2023.09 | [<u>Paper Link</u>](https://github.com/tmylla/HackMentor)
 
 <div align="right">
 
@@ -228,7 +232,7 @@
 
 </div>
 
-### 🎯 RQ2: What are the potential applications of LLMs in cybersecurity? *(591 papers)*
+### 🎯 RQ2: What are the potential applications of LLMs in cybersecurity? *(590 papers)*
 
 
 #### Threat Intelligence
@@ -923,7 +927,7 @@
 
 33. VelLMes: A high-interaction AI-based deception framework | *arxiv* | 2025.10.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.06975)
 
-34. " | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.06343)
+34. Leveraging Large Language Models for Cybersecurity Risk Assessment -- A Case from Forestry Cyber-Physical Systems | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.06343)
 
 35. Memory-Augmented Log Analysis with Phi-4-mini: Enhancing Threat Detection in Structured Security Logs | *arxiv* | 2025.10.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.00529)
 
@@ -1115,9 +1119,7 @@
 
 129. Web Content Filtering through knowledge distillation of Large Language Models | *WI-IAT* | 2023.05.10 | [<u>Paper Link</u>](https://arxiv.org/abs/2305.05027)
 
-130. "Leveraging Large Language Models for Cybersecurity Risk Assessment -- A Case from Forestry Cyber-Physical Systems
-
-131. Confront Insider Threat: Precise Anomaly Detection in Behavior Logs Based on LLM Fine-Tuning | *COLING* | 2024 | [<u>Paper Link</u>](https://aclanthology.org/2025.coling-main.574/)
+130. Confront Insider Threat: Precise Anomaly Detection in Behavior Logs Based on LLM Fine-Tuning | *COLING* | 2024 | [<u>Paper Link</u>](https://aclanthology.org/2025.coling-main.574/)
 
 <div align="right">
 
@@ -1485,7 +1487,7 @@
 
 </div>
 
-### 🤖 RQ3: What are further research directions about the application of LLMs in cybersecurity? *(62 papers)*
+### 🤖 RQ3: What are further research directions about the application of LLMs in cybersecurity? *(63 papers)*
 
 
 #### Further Research: Agent4Cybersecurity
@@ -1511,109 +1513,111 @@
 
 10. AgentCyTE: Leveraging Agentic AI to Generate Cybersecurity Training & Experimentation Scenarios | *arxiv* | 2025.10.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.25189)
 
-11. Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs | *arxiv* | 2025.10.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.17521)
+11. Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces | *RAID'25* | 2025.10.22 | [<u>Paper Link</u>](https://ieeexplore.ieee.org/document/11352493)
 
-12. Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms | *arxiv* | 2025.10.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.13913)
+12. Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs | *arxiv* | 2025.10.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.17521)
 
-13. A Survey on Agentic Security: Applications, Threats and Defenses | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.06445)
+13. Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms | *arxiv* | 2025.10.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.13913)
 
-14. xOffense: An AI-driven autonomous penetration testing framework with offensive knowledge-enhanced LLMs and multi agent systems | *arxiv* | 2025.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.13021)
+14. A Survey on Agentic Security: Applications, Threats and Defenses | *arxiv* | 2025.10.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2510.06445)
 
-15. Shell or Nothing: Real-World Benchmarks and Memory-Activated Agents for Automated Penetration Testing | *arxiv* | 2025.09.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.09207)
+15. xOffense: An AI-driven autonomous penetration testing framework with offensive knowledge-enhanced LLMs and multi agent systems | *arxiv* | 2025.09.16 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.13021)
 
-16. From CVE Entries to Verifiable Exploits: An Automated Multi-Agent Framework for Reproducing CVEs | *arxiv* | 2025.09.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.01835)
+16. Shell or Nothing: Real-World Benchmarks and Memory-Activated Agents for Automated Penetration Testing | *arxiv* | 2025.09.15 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.09207)
 
 17. From CVE Entries to Verifiable Exploits: An Automated Multi-Agent Framework for Reproducing CVEs | *arxiv* | 2025.09.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.01835)
 
-18. Multi-Agent Penetration Testing AI for the Web | *arxiv* | 2025.08.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.20816)
+18. From CVE Entries to Verifiable Exploits: An Automated Multi-Agent Framework for Reproducing CVEs | *arxiv* | 2025.09.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2509.01835)
 
-19. CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics | *arxiv* | 2025.08.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.20643)
+19. Multi-Agent Penetration Testing AI for the Web | *arxiv* | 2025.08.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.20816)
 
-20. Training Language Model Agents to Find Vulnerabilities with CTF-Dojo | *arxiv* | 2025.08.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.18370)
+20. CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics | *arxiv* | 2025.08.28 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.20643)
 
-21. Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark | *arxiv* | 2025.08.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.05674)
+21. Training Language Model Agents to Find Vulnerabilities with CTF-Dojo | *arxiv* | 2025.08.25 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.18370)
 
-22. Autonomous Penetration Testing: Solving Capture-the-Flag Challenges with LLMs | *arxiv* | 2025.08.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.01054)
+22. Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark | *arxiv* | 2025.08.05 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.05674)
 
-23. FaultLine: Automated Proof-of-Vulnerability Generation Using LLM Agents | *arxiv* | 2025.07.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.15241)
+23. Autonomous Penetration Testing: Solving Capture-the-Flag Challenges with LLMs | *arxiv* | 2025.08.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2508.01054)
 
-24. BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems | *arxiv* | 2025.07.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.15216)
+24. FaultLine: Automated Proof-of-Vulnerability Generation Using LLM Agents | *arxiv* | 2025.07.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2507.15241)
 
-25. Measuring and Augmenting Large Language Models for Solving Capture-the-Flag Challenges | *arxiv* | 2025.06.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.17644)
+25. BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems | *arxiv* | 2025.07.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.15216)
 
-26. AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models | *arxiv* | 2025.06.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.14682)
+26. Measuring and Augmenting Large Language Models for Solving Capture-the-Flag Challenges | *arxiv* | 2025.06.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.17644)
 
-27. AURA: A Multi-Agent Intelligence Framework for Knowledge-Enhanced Cyber Threat Attribution | *arxiv* | 2025.06.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.10175)
+27. AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models | *arxiv* | 2025.06.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.14682)
 
-28. Improving LLM Agents with Reinforcement Learning on Cryptographic CTF Challenges | *arxiv* | 2025.06.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.02048)
+28. AURA: A Multi-Agent Intelligence Framework for Knowledge-Enhanced Cyber Threat Attribution | *arxiv* | 2025.06.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.10175)
 
-29. RedTeamLLM: an Agentic AI framework for offensive security | *arxiv* | 2025.05.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06913)
+29. Improving LLM Agents with Reinforcement Learning on Cryptographic CTF Challenges | *arxiv* | 2025.06.01 | [<u>Paper Link</u>](https://arxiv.org/pdf/2506.02048)
 
-30. AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities | *arxiv* | 2025.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.04195)
+30. RedTeamLLM: an Agentic AI framework for offensive security | *arxiv* | 2025.05.11 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.06913)
 
-31. Agent That Debugs: Dynamic State-Guided Vulnerability Repair | *arxiv* | 2025.04.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.07634)
+31. AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities | *arxiv* | 2025.05.07 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.04195)
 
-32. CAI: An Open, Bug Bounty-Ready Cybersecurity AI | *arxiv* | 2025.04.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.06017)
+32. Agent That Debugs: Dynamic State-Guided Vulnerability Repair | *arxiv* | 2025.04.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.07634)
 
-33. Agentic AI and the Cyber Arms Race | *arxiv* | 2025.03.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.04760)
+33. CAI: An Open, Bug Bounty-Ready Cybersecurity AI | *arxiv* | 2025.04.08 | [<u>Paper Link</u>](https://arxiv.org/pdf/2504.06017)
 
-34. VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework | *arXiv* | 2025.01.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.13411)
+34. Agentic AI and the Cyber Arms Race | *arxiv* | 2025.03.10 | [<u>Paper Link</u>](https://arxiv.org/pdf/2503.04760)
 
-35. Multi-Agent Collaboration in Incident Response with Large Language Models | *arXiv* | 2024.12.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.00652)
+35. VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework | *arXiv* | 2025.01.23 | [<u>Paper Link</u>](https://arxiv.org/pdf/2501.13411)
 
-36. LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild | *arXiv* | 2024.10.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.13919)
+36. Multi-Agent Collaboration in Incident Response with Large Language Models | *arXiv* | 2024.12.03 | [<u>Paper Link</u>](https://arxiv.org/pdf/2412.00652)
 
-37. MarsCode Agent: AI-native Automated Bug Fixing | *arXiv* | 2024.09.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.00899)
+37. LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild | *arXiv* | 2024.10.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2410.13919)
 
-38. BreachSeek: A Multi-Agent Automated Penetration Tester | *arXiv* | 2024.08.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.03789)
+38. MarsCode Agent: AI-native Automated Bug Fixing | *arXiv* | 2024.09.04 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.00899)
 
-39. PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection | *arXiv* | 2024.08.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.10738)
+39. BreachSeek: A Multi-Agent Automated Penetration Tester | *arXiv* | 2024.08.31 | [<u>Paper Link</u>](https://arxiv.org/pdf/2409.03789)
 
-40. Using LLMs to Automate Threat Intelligence Analysis Workflows in Security Operation Centers | *arXiv* | 2024.07.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.13093)
+40. PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection | *arXiv* | 2024.08.20 | [<u>Paper Link</u>](https://arxiv.org/pdf/2408.10738)
 
-41. Teams of LLM Agents can Exploit Zero-Day Vulnerabilities | *arXiv* | 2024.06.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.01637)
+41. Using LLMs to Automate Threat Intelligence Analysis Workflows in Security Operation Centers | *arXiv* | 2024.07.18 | [<u>Paper Link</u>](https://arxiv.org/pdf/2407.13093)
 
-42. Generative AI and Large Language Models for Cyber Security: All Insights You Need | *arXiv* | 2024.05.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.12750)
+42. Teams of LLM Agents can Exploit Zero-Day Vulnerabilities | *arXiv* | 2024.06.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2406.01637)
 
-43. Generative AI in Cybersecurity | *arXiv* | 2024.05.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.01674)
+43. Generative AI and Large Language Models for Cyber Security: All Insights You Need | *arXiv* | 2024.05.21 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.12750)
 
-44. Large Language Models for Networking: Workflow, Advances and Challenges | *arXiv* | 2024.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.12901)
+44. Generative AI in Cybersecurity | *arXiv* | 2024.05.02 | [<u>Paper Link</u>](https://arxiv.org/pdf/2405.01674)
 
-45. LLM Agents can Autonomously Exploit One-day Vulnerabilities | *arXiv* | 2024.04.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.08144)
+45. Large Language Models for Networking: Workflow, Advances and Challenges | *arXiv* | 2024.04.29 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.12901)
 
-46. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents | *ACL Findings* | 2024.03.25 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.02691)
+46. LLM Agents can Autonomously Exploit One-day Vulnerabilities | *arXiv* | 2024.04.17 | [<u>Paper Link</u>](https://arxiv.org/pdf/2404.08144)
 
-47. From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs | *arXiv* | 2024.02.28 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.18157)
+47. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents | *ACL Findings* | 2024.03.25 | [<u>Paper Link</u>](https://arxiv.org/abs/2403.02691)
 
-48. Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides | *ECAI* | 2024.02.27 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.17531v1)
+48. From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs | *arXiv* | 2024.02.28 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.18157)
 
-49. WIPI: A New Web Threat for LLM-Driven Web Agents | *arXiv* | 2024.02.26 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.16965)
+49. Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides | *ECAI* | 2024.02.27 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.17531v1)
 
-50. LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution | *arXiv* | 2024.02.20 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.09007)
+50. WIPI: A New Web Threat for LLM-Driven Web Agents | *arXiv* | 2024.02.26 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.16965)
 
-51. R-Judge: Benchmarking Safety Risk Awareness for LLM Agents | *EMNLP Findings* | 2024.02.18 | [<u>Paper Link</u>](https://web3.arxiv.org/abs/2401.10019)
+51. LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution | *arXiv* | 2024.02.20 | [<u>Paper Link</u>](https://arxiv.org/abs/2312.09007)
 
-52. Llm agents can autonomously hack websites. | *arXiv* | 2024.02.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.06664v1)
+52. R-Judge: Benchmarking Safety Risk Awareness for LLM Agents | *EMNLP Findings* | 2024.02.18 | [<u>Paper Link</u>](https://web3.arxiv.org/abs/2401.10019)
 
-53. If llm is the wizard, then code is the wand: A survey on how code empowers large language models to serve as intelligent agents. | *arXiv* | 2024.01.08 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.00812)
+53. Llm agents can autonomously hack websites. | *arXiv* | 2024.02.16 | [<u>Paper Link</u>](https://arxiv.org/abs/2402.06664v1)
 
-54. TaskWeaver: A Code-First Agent Framework | *arXiv* | 2023.12.01 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.17541)
+54. If llm is the wizard, then code is the wand: A survey on how code empowers large language models to serve as intelligent agents. | *arXiv* | 2024.01.08 | [<u>Paper Link</u>](https://arxiv.org/abs/2401.00812)
 
-55. Large Language Models for Networking: Applications, Enabling Techniques, and Challenges | *arXiv* | 2023.11.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.17474)
+55. TaskWeaver: A Code-First Agent Framework | *arXiv* | 2023.12.01 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.17541)
 
-56. TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage | *arXiv* | 2023.11.07 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.03427)
+56. Large Language Models for Networking: Applications, Enabling Techniques, and Challenges | *arXiv* | 2023.11.29 | [<u>Paper Link</u>](https://arxiv.org/abs/2311.17474)
 
-57. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs | *ICLR* | 2023.10.03 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.16789)
+57. TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage | *arXiv* | 2023.11.07 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.03427)
 
-58. The Rise and Potential of Large Language Model Based Agents: A Survey | *arXiv* | 2023.09.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.07864)
+58. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs | *ICLR* | 2023.10.03 | [<u>Paper Link</u>](https://arxiv.org/abs/2307.16789)
 
-59. Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments | *ICAART* | 2023.08.28 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.12086)
+59. The Rise and Potential of Large Language Model Based Agents: A Survey | *arXiv* | 2023.09.19 | [<u>Paper Link</u>](https://arxiv.org/abs/2309.07864)
 
-60. A unified cybersecurity framework for complex environments | *Proceedings of the Annual Conference of the South African Institute of Computer Scientists and Information Technologists* | 2018.09.26 | [<u>Paper Link</u>](https://dl.acm.org/doi/10.1145/3278681.3278682)
+60. Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments | *ICAART* | 2023.08.28 | [<u>Paper Link</u>](https://arxiv.org/abs/2308.12086)
 
-61. RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models | *arxiv* | 2025.05.1agent\t1 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07089)
+61. A unified cybersecurity framework for complex environments | *Proceedings of the Annual Conference of the South African Institute of Computer Scientists and Information Technologists* | 2018.09.26 | [<u>Paper Link</u>](https://dl.acm.org/doi/10.1145/3278681.3278682)
 
-62. Cybersecurity Issues and Challenges | *Handbook of research on cybersecurity issues and challenges for business and FinTech applications* | 2022.08 | [<u>Paper Link</u>](https://www.researchgate.net/publication/367250373_Cybersecurity_Issues_and_Challenges)
+62. RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models | *arxiv* | 2025.05.1agent\t1 | [<u>Paper Link</u>](https://arxiv.org/pdf/2505.07089)
+
+63. Cybersecurity Issues and Challenges | *Handbook of research on cybersecurity issues and challenges for business and FinTech applications* | 2022.08 | [<u>Paper Link</u>](https://www.researchgate.net/publication/367250373_Cybersecurity_Issues_and_Challenges)
 
 <div align="right">
 
