@@ -103,4 +103,4 @@ The complete literature review with 756+ papers has been moved to a separate fil
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)](https://www.star-history.com/#tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)](https://star-history.dera.page/#tmylla/Awesome-LLM4Cybersecurity&type=date&legend=top-left)
