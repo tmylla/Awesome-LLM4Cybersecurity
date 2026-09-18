@@ -1,5 +1,6 @@
 <a name="top"></a>
 ## <div align="center">When LLMs Meet Cybersecurity: A Systematic Literature Review<div>
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — capture the real LLM request/response stream and replay it offline.
 
 <div align="center">
 <a href="https://arxiv.org/abs/2405.03644"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:LLM4Cybersecurity&color=red&logo=arxiv"></a> &ensp;
